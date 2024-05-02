@@ -1,0 +1,1001 @@
+StudentID,Name,AcademicInterest,ExtracurricularActivities,Skillset 1,Skillset 2,Skillset 3,Skillset 4,Skillset 5,Location,YearOfStudy,Major,GPA,Language Known 1,Language Known 2,Language Known 3,Language Known 4,Language Known 5,ResearchInterests,Attendance
+1,Aaron Jordan,Psychology,Debate Club,Problem Solving,Null,Null,Null,Null,New York,Freshman,Psychology,3.27,Chinese, Japanese, Spanish, German, French,Biomedical Engineering,53.0
+2,Kevin Smith,Psychology,Debate Club,Leadership, Problem Solving, Public Speaking, Data Analysis, Programming,Boston,Graduate,Physics,3.17,French, English, Chinese, Spanish, Japanese,Urban Planning,37.0
+3,William May,History,Volunteer Group,Data Analysis, Leadership, Public Speaking, Artistic, Problem Solving,Chicago,Junior,Biology,2.09,Spanish, Japanese, German, French,Null,Nanotechnology,25.0
+4,Valerie Miranda,Computer Science,Volunteer Group,Public Speaking, Data Analysis, Problem Solving,Null,Null,Chicago,Graduate,Biology,2.56,Japanese, Chinese, Spanish, French,Null,Space Exploration,14.0
+5,Samantha Hill,Computer Science,Sports Team,Data Analysis,Null,Null,Null,Null,Chicago,Graduate,Computer Science,2.01,English,Null,Null,Null,Null,Climate Change,15.0
+6,Danielle Townsend,Biology,Debate Club,Public Speaking, Artistic,Null,Null,Null,Chicago,Junior,History,2.99,Japanese,Null,Null,Null,Null,Machine Learning,7.0
+7,Jason Hale,History,Art Club,Public Speaking, Problem Solving, Data Analysis, Artistic,Null,New York,Senior,Psychology,3.35,Chinese, English, Spanish, German,Null,Cybersecurity,54.0
+8,Anthony Wright,Computer Science,Volunteer Group,Programming, Public Speaking, Artistic, Leadership,Null,Houston,Junior,Psychology,3.64,Chinese, Japanese, Spanish,Null,Null,Environmental Sustainability,73.0
+9,Jo Anderson,Mathematics,Sports Team,Leadership, Artistic, Problem Solving, Public Speaking, Programming,New York,Senior,Mathematics,2.97,German, English, Japanese, Chinese,Null,Bioinformatics,6.0
+10,Peter Yu,Biology,Sports Team,Programming, Data Analysis, Problem Solving, Leadership,Null,Los Angeles,Junior,History,3.03,Chinese, German, Spanish,Null,Null,Social Sciences,29.0
+11,Dawn Klein,Psychology,Sports Team,Programming, Leadership, Artistic, Data Analysis,Null,New York,Freshman,Psychology,3.02,German, English, Spanish, French,Null,Social Sciences,30.0
+12,Laura Cook,Mathematics,Coding Club,Public Speaking, Programming, Problem Solving, Leadership,Null,San Francisco,Freshman,Biology,3.96,German,Null,Null,Null,Null,Quantum Computing,90.0
+13,Olivia Marquez,Physics,Music Club,Programming, Artistic, Problem Solving,Null,Null,New York,Junior,Mathematics,2.98,English, Japanese, Chinese, Spanish, German,Machine Learning,19.0
+14,Matthew Jensen,History,Sports Team,Artistic, Problem Solving, Programming,Null,Null,Boston,Freshman,Biology,2.48,Japanese,Null,Null,Null,Null,Cognitive Psychology,1.0
+15,Hector Kirk,History,Music Club,Artistic, Problem Solving, Public Speaking, Data Analysis,Null,Chicago,Senior,Computer Science,2.54,German,Null,Null,Null,Null,Biomedical Engineering,12.0
+16,Robert Waters,Mathematics,Debate Club,Artistic, Programming, Leadership,Null,Null,Chicago,Freshman,Computer Science,2.5,English,Null,Null,Null,Null,Cognitive Psychology,4.0
+17,Donna Morales,Computer Science,Music Club,Data Analysis, Programming, Problem Solving, Public Speaking, Leadership,New York,Junior,Physics,3.0,Chinese, Japanese, English,Null,Null,Robotics,21.0
+18,Alejandro Roberts,Biology,Volunteer Group,Data Analysis, Problem Solving, Public Speaking,Null,Null,Los Angeles,Sophomore,Computer Science,3.91,Japanese,Null,Null,Null,Null,Space Exploration,92.0
+19,Heather Sandoval,Physics,Coding Club,Programming, Artistic, Public Speaking, Data Analysis, Leadership,New York,Freshman,Biology,2.44,English, German,Null,Null,Null,Blockchain Technology,13.0
+20,Alison Castro,Physics,Debate Club,Public Speaking, Leadership, Artistic, Data Analysis, Problem Solving,Chicago,Sophomore,History,3.64,Chinese, German, Spanish, English, French,Machine Learning,76.0
+21,Gary Vang,Physics,Coding Club,Programming, Public Speaking, Data Analysis, Leadership, Problem Solving,Chicago,Freshman,Mathematics,2.36,German, Chinese, French,Null,Null,Environmental Sustainability,15.0
+22,Brandon Hamilton,Biology,Sports Team,Problem Solving, Data Analysis, Leadership, Artistic,Null,San Francisco,Junior,Psychology,3.8,Spanish, English,Null,Null,Null,Astrophysics,83.0
+23,Jacob Smith,Psychology,Volunteer Group,Artistic, Leadership, Data Analysis, Problem Solving, Public Speaking,Los Angeles,Graduate,Mathematics,3.81,Chinese, English, German, French, Japanese,Educational Technology,92.0
+24,Brandon Williams,Computer Science,Music Club,Public Speaking, Data Analysis, Artistic,Null,Null,Houston,Sophomore,Physics,3.12,Chinese, English, Japanese, French, Spanish,Climate Change,27.0
+25,John Adkins,Physics,Coding Club,Data Analysis, Problem Solving, Artistic, Public Speaking, Leadership,Boston,Junior,Physics,2.79,English, Spanish, Japanese, French, Chinese,Environmental Sustainability,17.0
+26,David Alvarez,Physics,Debate Club,Artistic, Problem Solving, Leadership, Programming, Data Analysis,San Francisco,Junior,Physics,2.77,Japanese, Chinese, Spanish,Null,Null,Data Science,2.0
+27,Stephanie Cummings,Computer Science,Sports Team,Problem Solving, Artistic, Data Analysis, Programming, Leadership,Boston,Senior,History,3.42,English,Null,Null,Null,Null,Quantum Computing,63.0
+28,Natalie Garcia,History,Volunteer Group,Programming, Data Analysis,Null,Null,Null,Chicago,Graduate,Biology,3.27,Spanish,Null,Null,Null,Null,Machine Learning,45.0
+29,Neil Smith,Biology,Art Club,Data Analysis, Leadership,Null,Null,Null,Los Angeles,Junior,Psychology,2.91,Chinese,Null,Null,Null,Null,Data Science,8.0
+30,Laura Peterson,Physics,Music Club,Data Analysis, Public Speaking,Null,Null,Null,Los Angeles,Senior,History,2.96,Chinese, Japanese, French, English, Spanish,Artificial Intelligence,4.0
+31,Amber Rodriguez,Mathematics,Debate Club,Artistic, Programming, Public Speaking, Problem Solving, Data Analysis,San Francisco,Sophomore,Biology,2.26,English, Chinese, Spanish,Null,Null,Renewable Energy,18.0
+32,Vanessa Torres,Mathematics,Volunteer Group,Problem Solving, Programming, Leadership, Data Analysis, Public Speaking,Boston,Graduate,Computer Science,3.01,Chinese, French, Spanish,Null,Null,Data Science,31.0
+33,Crystal Joseph,Biology,Debate Club,Public Speaking, Programming,Null,Null,Null,Chicago,Senior,Computer Science,2.83,German, Japanese, Chinese, French,Null,Nanotechnology,19.0
+34,Sandra Lopez,Psychology,Volunteer Group,Data Analysis, Programming, Public Speaking,Null,Null,New York,Sophomore,History,2.19,English, German,Null,Null,Null,Human-Computer Interaction,8.0
+35,Michael Mendez,Biology,Art Club,Data Analysis,Null,Null,Null,Null,Boston,Junior,Physics,3.1,German, English, Spanish, French, Chinese,Behavioral Economics,31.0
+36,Roy Clark,Mathematics,Music Club,Leadership, Programming, Problem Solving,Null,Null,Boston,Senior,Psychology,3.12,Spanish, German, Japanese, English, French,Quantum Computing,38.0
+37,Ryan Martin,History,Sports Team,Data Analysis, Public Speaking, Programming, Artistic, Problem Solving,New York,Sophomore,History,3.46,German, Chinese, English, French,Null,Healthcare Management,70.0
+38,Mark Tyler,Physics,Volunteer Group,Artistic, Public Speaking, Data Analysis, Leadership, Programming,Houston,Sophomore,Computer Science,3.67,German,Null,Null,Null,Null,Robotics,71.0
+39,Wendy Smith,Computer Science,Sports Team,Programming, Public Speaking, Data Analysis, Problem Solving,Null,Los Angeles,Freshman,Mathematics,3.24,German,Null,Null,Null,Null,Quantum Computing,49.0
+40,Anthony Schultz,Computer Science,Coding Club,Data Analysis, Leadership, Programming,Null,Null,Boston,Senior,Mathematics,2.51,English, Spanish,Null,Null,Null,Machine Learning,8.0
+41,John Nguyen,Computer Science,Music Club,Programming, Artistic, Public Speaking, Leadership,Null,Boston,Senior,Psychology,2.42,English, Chinese, Spanish, French, Japanese,Quantum Computing,17.0
+42,Annette Lynn,Physics,Art Club,Data Analysis, Leadership, Programming, Public Speaking, Problem Solving,Houston,Freshman,Mathematics,2.65,German,Null,Null,Null,Null,Behavioral Economics,15.0
+43,Connie Bishop,History,Sports Team,Problem Solving, Data Analysis, Public Speaking, Programming, Artistic,Houston,Sophomore,Mathematics,3.77,Chinese, Spanish, English,Null,Null,Astrophysics,81.0
+44,Natasha Rodriguez,Computer Science,Volunteer Group,Data Analysis, Artistic, Leadership, Programming, Problem Solving,Los Angeles,Freshman,Psychology,2.72,Spanish, Chinese, Japanese,Null,Null,Educational Technology,16.0
+45,Haley Rodriguez,Biology,Sports Team,Problem Solving,Null,Null,Null,Null,Houston,Freshman,History,3.68,French, English,Null,Null,Null,Climate Change,74.0
+46,Manuel Mcdonald,Computer Science,Sports Team,Artistic,Null,Null,Null,Null,Boston,Junior,Mathematics,3.12,German,Null,Null,Null,Null,Urban Planning,28.0
+47,Autumn Mullen,Biology,Sports Team,Artistic, Data Analysis, Programming, Problem Solving, Leadership,Los Angeles,Sophomore,Biology,2.9,German, English,Null,Null,Null,Nanotechnology,25.0
+48,Daniel Taylor,Physics,Music Club,Artistic, Programming, Problem Solving,Null,Null,San Francisco,Sophomore,History,2.11,German, Japanese,Null,Null,Null,Political Science,9.0
+49,Miranda Reynolds,History,Music Club,Leadership, Public Speaking, Programming, Data Analysis, Artistic,Boston,Freshman,Psychology,3.99,English, German, Chinese, Spanish, Japanese,Space Exploration,89.0
+50,Janice Mcmillan,Psychology,Sports Team,Leadership, Public Speaking,Null,Null,Null,Chicago,Senior,History,2.64,Spanish, French, Japanese, German,Null,Social Sciences,13.0
+51,Andrew Scott,Computer Science,Debate Club,Data Analysis, Artistic, Leadership, Public Speaking, Problem Solving,Chicago,Senior,Computer Science,2.17,Spanish, English, French, Japanese, German,Human-Computer Interaction,13.0
+52,Guy Torres,History,Sports Team,Public Speaking,Null,Null,Null,Null,Chicago,Graduate,Mathematics,2.11,French, English, Chinese, Japanese, German,Cybersecurity,1.0
+53,Thomas Walton,Biology,Sports Team,Public Speaking, Leadership, Programming, Data Analysis,Null,New York,Senior,Mathematics,2.26,Japanese, Chinese,Null,Null,Null,Astrophysics,19.0
+54,Mark Davis,Computer Science,Sports Team,Programming, Public Speaking,Null,Null,Null,Los Angeles,Senior,Biology,2.13,French, Japanese, German,Null,Null,Educational Technology,13.0
+55,Hannah Merritt,History,Music Club,Artistic, Problem Solving, Leadership, Programming, Data Analysis,Chicago,Senior,Computer Science,3.75,English, German, Spanish, Japanese,Null,Bioinformatics,75.0
+56,Debra Perry,History,Music Club,Leadership, Programming, Artistic, Public Speaking,Null,Chicago,Graduate,Mathematics,3.55,French, German,Null,Null,Null,Human-Computer Interaction,60.0
+57,Michelle Bailey,Biology,Sports Team,Problem Solving, Artistic, Programming, Leadership, Public Speaking,Los Angeles,Junior,Mathematics,2.44,English, Japanese, Spanish,Null,Null,Nanotechnology,18.0
+58,David Walker,Psychology,Volunteer Group,Artistic, Leadership,Null,Null,Null,Los Angeles,Senior,History,3.23,Japanese, Spanish, English, French,Null,Space Exploration,46.0
+59,Pamela Jenkins,Physics,Art Club,Problem Solving, Leadership, Artistic, Programming, Public Speaking,Houston,Senior,Psychology,3.74,German, Chinese, English,Null,Null,Natural Language Processing,75.0
+60,Sherri Bush,Psychology,Sports Team,Leadership, Public Speaking, Programming,Null,Null,Chicago,Junior,Biology,2.42,Japanese,Null,Null,Null,Null,Social Sciences,12.0
+61,David Hull,Computer Science,Sports Team,Data Analysis,Null,Null,Null,Null,Houston,Freshman,Physics,3.62,French, Chinese, German, English,Null,Machine Learning,83.0
+62,Breanna Smith,Biology,Volunteer Group,Public Speaking, Programming, Leadership, Problem Solving, Artistic,Houston,Junior,History,2.83,Spanish,Null,Null,Null,Null,Blockchain Technology,1.0
+63,Charles Hunter,History,Sports Team,Leadership, Artistic, Data Analysis,Null,Null,New York,Junior,Physics,3.63,Spanish, German, Chinese, Japanese,Null,Robotics,85.0
+64,Michael Price,Computer Science,Debate Club,Data Analysis, Artistic, Leadership, Programming, Problem Solving,Chicago,Graduate,Computer Science,3.14,Japanese, French, German, Chinese, English,Cognitive Psychology,30.0
+65,Scott Adams,Computer Science,Music Club,Programming,Null,Null,Null,Null,New York,Senior,Psychology,3.82,Chinese, Japanese, German, English,Null,Educational Technology,92.0
+66,Logan Greene,History,Debate Club,Artistic, Problem Solving, Public Speaking, Programming,Null,New York,Sophomore,Psychology,2.91,Chinese, German,Null,Null,Null,Political Science,3.0
+67,James Walker,Psychology,Coding Club,Programming, Data Analysis,Null,Null,Null,New York,Sophomore,Biology,2.34,Spanish, English, French, Chinese, German,Machine Learning,19.0
+68,Charles Thomas,History,Art Club,Programming,Null,Null,Null,Null,Los Angeles,Graduate,Psychology,3.43,German, Spanish, French, Japanese, English,Behavioral Economics,63.0
+69,James Martin,Mathematics,Coding Club,Problem Solving, Leadership, Public Speaking,Null,Null,Chicago,Freshman,Physics,2.53,Spanish, German, English,Null,Null,Bioinformatics,8.0
+70,Melissa Gutierrez,Psychology,Music Club,Programming, Public Speaking, Leadership, Data Analysis, Problem Solving,Chicago,Freshman,History,3.31,German, French, English, Japanese, Spanish,Space Exploration,51.0
+71,Benjamin Richardson,Computer Science,Volunteer Group,Data Analysis, Programming, Problem Solving, Leadership, Public Speaking,Chicago,Sophomore,Biology,2.71,Chinese, Japanese, French, English, Spanish,Machine Learning,11.0
+72,Paige Martin,Physics,Volunteer Group,Programming,Null,Null,Null,Null,Chicago,Sophomore,Biology,3.56,English,Null,Null,Null,Null,Behavioral Economics,65.0
+73,Stacy Hardin,Computer Science,Coding Club,Leadership, Data Analysis, Problem Solving, Programming, Public Speaking,Boston,Graduate,Physics,2.42,Japanese, French,Null,Null,Null,Urban Planning,5.0
+74,Dawn Smith,Biology,Volunteer Group,Artistic,Null,Null,Null,Null,Houston,Freshman,Computer Science,3.68,French, German, Japanese,Null,Null,Biomedical Engineering,78.0
+75,Marc Guzman,History,Music Club,Data Analysis, Problem Solving, Artistic, Programming, Leadership,New York,Senior,Psychology,2.88,French, Japanese,Null,Null,Null,Machine Learning,14.0
+76,Catherine Parrish,Biology,Debate Club,Artistic, Programming, Leadership, Data Analysis, Public Speaking,Los Angeles,Senior,History,3.9,Chinese,Null,Null,Null,Null,Artificial Intelligence,97.0
+77,Patricia Montes,Mathematics,Debate Club,Problem Solving, Programming, Artistic,Null,Null,San Francisco,Senior,Physics,2.65,Spanish, German, French, Japanese, English,Cognitive Psychology,20.0
+78,Priscilla Sutton,Computer Science,Debate Club,Leadership, Public Speaking, Data Analysis,Null,Null,Houston,Junior,Mathematics,3.62,French, English, Spanish, Chinese, German,Quantum Computing,71.0
+79,Molly Johnson,Psychology,Volunteer Group,Artistic, Public Speaking, Data Analysis, Programming, Leadership,Houston,Junior,Mathematics,3.16,German, Chinese,Null,Null,Null,Educational Technology,35.0
+80,Carol Estrada,Mathematics,Sports Team,Programming,Null,Null,Null,Null,Chicago,Senior,Psychology,2.88,French, English, Spanish, German,Null,Quantum Computing,3.0
+81,Tyler Jordan,Biology,Volunteer Group,Data Analysis, Programming, Problem Solving,Null,Null,Los Angeles,Junior,History,2.94,French, Chinese, English, Japanese,Null,Educational Technology,9.0
+82,Jason Pierce,Psychology,Art Club,Programming, Data Analysis, Problem Solving, Artistic,Null,San Francisco,Senior,Mathematics,3.15,German, French, Spanish, Chinese,Null,Robotics,34.0
+83,Susan Johnson,Physics,Art Club,Artistic, Leadership, Data Analysis,Null,Null,Los Angeles,Senior,Computer Science,2.69,Spanish, Japanese, French,Null,Null,Artificial Intelligence,1.0
+84,Bradley King,Biology,Debate Club,Leadership, Problem Solving, Programming, Public Speaking,Null,San Francisco,Freshman,Physics,2.25,English,Null,Null,Null,Null,Artificial Intelligence,3.0
+85,James Daniels,Psychology,Coding Club,Artistic, Programming, Leadership, Public Speaking,Null,Houston,Senior,Biology,2.14,Japanese, Chinese,Null,Null,Null,Urban Planning,24.0
+86,Jessica Riley,History,Debate Club,Artistic, Data Analysis, Public Speaking,Null,Null,Boston,Junior,History,3.69,French, English, Chinese, German,Null,Artificial Intelligence,76.0
+87,Jacqueline Burke,Psychology,Art Club,Data Analysis, Leadership, Programming, Problem Solving, Public Speaking,Boston,Junior,Mathematics,2.11,German, Chinese, Spanish,Null,Null,Social Sciences,15.0
+88,Kyle Wong,Biology,Art Club,Programming, Data Analysis,Null,Null,Null,New York,Graduate,Computer Science,3.0,German, Japanese, French, Spanish, English,Human-Computer Interaction,3.0
+89,Joanne Bradley,History,Art Club,Artistic, Data Analysis,Null,Null,Null,Chicago,Freshman,Mathematics,2.58,English, French, Chinese,Null,Null,Data Science,7.0
+90,Amanda Patton,Physics,Music Club,Programming, Leadership, Public Speaking, Artistic, Problem Solving,Los Angeles,Senior,Psychology,3.73,French, Japanese, English, German, Spanish,Sustainable Agriculture,71.0
+91,Joshua Jacobs,Psychology,Volunteer Group,Artistic, Leadership, Programming, Problem Solving,Null,Los Angeles,Senior,Computer Science,3.27,Spanish, German, Chinese, English, Japanese,Blockchain Technology,54.0
+92,Robert Singh,Biology,Music Club,Problem Solving, Leadership, Artistic, Public Speaking, Data Analysis,Boston,Senior,Physics,3.71,German,Null,Null,Null,Null,Bioinformatics,76.0
+93,Lindsay Smith,Physics,Art Club,Data Analysis,Null,Null,Null,Null,Boston,Senior,Mathematics,2.03,French, Chinese,Null,Null,Null,Sustainable Agriculture,19.0
+94,Kara Martin,History,Sports Team,Leadership,Null,Null,Null,Null,San Francisco,Sophomore,Computer Science,2.15,English, Chinese, German, Japanese, French,Bioinformatics,11.0
+95,Amy Thompson,Psychology,Volunteer Group,Programming, Leadership, Problem Solving, Data Analysis,Null,New York,Senior,Physics,3.04,German, French, Chinese, Japanese, English,Biomedical Engineering,31.0
+96,Bradley Moore,Computer Science,Art Club,Data Analysis,Null,Null,Null,Null,Chicago,Sophomore,History,2.8,English, Japanese, Chinese,Null,Null,Climate Change,21.0
+97,Jenna Knox,History,Music Club,Artistic, Data Analysis,Null,Null,Null,San Francisco,Junior,Biology,2.66,English, French, Japanese, German, Chinese,Renewable Energy,15.0
+98,Jose Meyer,Mathematics,Coding Club,Data Analysis,Null,Null,Null,Null,San Francisco,Senior,Biology,2.25,Chinese, Spanish,Null,Null,Null,Quantum Computing,3.0
+99,Nicholas Johnson,History,Debate Club,Leadership, Programming, Data Analysis, Public Speaking, Artistic,Chicago,Senior,History,2.94,Chinese, Spanish, German,Null,Null,Renewable Energy,9.0
+100,William Ramos,Physics,Music Club,Public Speaking, Leadership, Artistic, Programming, Problem Solving,San Francisco,Senior,Psychology,2.67,Spanish, French, Chinese,Null,Null,Biomedical Engineering,15.0
+101,Kathleen Combs,Biology,Coding Club,Data Analysis, Problem Solving, Artistic, Programming, Public Speaking,New York,Sophomore,Biology,3.98,English, Chinese, French,Null,Null,Sustainable Agriculture,89.0
+102,Megan Hernandez,Physics,Music Club,Leadership, Programming, Data Analysis, Public Speaking,Null,San Francisco,Sophomore,Biology,3.52,German, French, Japanese,Null,Null,Social Sciences,59.0
+103,Patricia Carrillo,Biology,Debate Club,Public Speaking, Problem Solving, Programming, Data Analysis,Null,New York,Senior,History,3.68,German, Japanese, English, Chinese, French,Renewable Energy,71.0
+104,Laura Gamble,Psychology,Debate Club,Leadership, Programming, Data Analysis, Problem Solving, Public Speaking,Los Angeles,Junior,Mathematics,3.57,French, Japanese, Spanish, German, English,Nanotechnology,61.0
+105,Jennifer Lynch,History,Coding Club,Leadership, Artistic, Programming, Data Analysis,Null,San Francisco,Sophomore,Biology,3.87,Japanese, English, Spanish, Chinese, French,Educational Technology,93.0
+106,James Lewis,Biology,Volunteer Group,Data Analysis, Programming, Public Speaking, Artistic, Problem Solving,Chicago,Sophomore,Psychology,2.17,English, German, Chinese,Null,Null,Robotics,12.0
+107,Jose Sanchez,Computer Science,Coding Club,Leadership, Artistic, Problem Solving, Public Speaking,Null,Houston,Sophomore,Biology,2.64,French, Spanish, Chinese, German,Null,Climate Change,19.0
+108,Heather Goodman,Computer Science,Music Club,Programming, Data Analysis, Public Speaking, Problem Solving, Artistic,New York,Junior,Psychology,3.69,Spanish, English, French, Chinese,Null,Environmental Sustainability,71.0
+109,Sandra Davis,Mathematics,Volunteer Group,Data Analysis, Public Speaking, Problem Solving, Artistic,Null,New York,Graduate,Physics,3.78,Japanese, German, French, English, Chinese,Quantum Computing,83.0
+110,Eric Garcia,Psychology,Debate Club,Programming, Leadership,Null,Null,Null,San Francisco,Freshman,Physics,2.97,Spanish, English, Chinese,Null,Null,Human-Computer Interaction,19.0
+111,Larry Castillo,Psychology,Music Club,Public Speaking, Artistic, Leadership,Null,Null,Los Angeles,Senior,Computer Science,3.64,Spanish, German, Japanese,Null,Null,Educational Technology,72.0
+112,Kayla Hernandez,Physics,Debate Club,Artistic,Null,Null,Null,Null,Los Angeles,Junior,Physics,2.98,Japanese,Null,Null,Null,Null,Cybersecurity,14.0
+113,Dakota Bridges,Psychology,Volunteer Group,Data Analysis, Programming,Null,Null,Null,Boston,Sophomore,History,3.56,Spanish,Null,Null,Null,Null,Urban Planning,63.0
+114,Paige Frazier,Biology,Debate Club,Programming, Artistic, Data Analysis,Null,Null,Chicago,Sophomore,Mathematics,3.69,Spanish, Chinese, English,Null,Null,Environmental Sustainability,71.0
+115,Renee Miller,Biology,Coding Club,Problem Solving,Null,Null,Null,Null,New York,Freshman,Mathematics,2.69,German, Japanese,Null,Null,Null,Political Science,0.0
+116,Dylan Prince,Mathematics,Coding Club,Programming, Problem Solving, Data Analysis, Leadership, Public Speaking,Boston,Sophomore,History,2.57,English, Spanish,Null,Null,Null,Healthcare Management,1.0
+117,Jenny Sellers,Psychology,Sports Team,Data Analysis, Leadership, Artistic, Problem Solving, Programming,Boston,Freshman,Physics,2.31,German, English, Japanese, Spanish, French,Space Exploration,0.0
+118,Jeff Ortiz,Computer Science,Volunteer Group,Public Speaking, Problem Solving, Leadership,Null,Null,San Francisco,Sophomore,Biology,2.43,Chinese, Spanish, Japanese,Null,Null,Renewable Energy,12.0
+119,Steven Zamora,Mathematics,Sports Team,Artistic,Null,Null,Null,Null,San Francisco,Junior,Computer Science,2.34,Japanese, Spanish, Chinese, English,Null,Educational Technology,8.0
+120,Gregory Thornton,Computer Science,Volunteer Group,Problem Solving, Programming, Public Speaking, Artistic,Null,New York,Junior,Mathematics,2.75,German, English, Japanese,Null,Null,Climate Change,15.0
+121,Monica Short,Mathematics,Art Club,Data Analysis, Programming, Public Speaking, Leadership, Problem Solving,Chicago,Senior,History,2.37,Chinese, English, German, Japanese, Spanish,Climate Change,19.0
+122,Brian Jimenez,Physics,Debate Club,Programming, Leadership,Null,Null,Null,Boston,Senior,Physics,2.12,Spanish, English, German,Null,Null,Biomedical Engineering,8.0
+123,Rachel Wood,History,Debate Club,Public Speaking, Programming,Null,Null,Null,Chicago,Graduate,Computer Science,2.17,English, Spanish, Chinese, French, German,Astrophysics,4.0
+124,Diana Peters,History,Debate Club,Public Speaking, Data Analysis, Leadership, Problem Solving,Null,Los Angeles,Junior,Biology,3.56,Chinese, German,Null,Null,Null,Sustainable Agriculture,61.0
+125,Michael Reese,History,Music Club,Public Speaking, Programming, Artistic, Data Analysis, Problem Solving,San Francisco,Senior,Computer Science,2.47,Japanese, French,Null,Null,Null,Data Science,20.0
+126,Beth Thomas,History,Volunteer Group,Artistic, Problem Solving,Null,Null,Null,Houston,Sophomore,Biology,3.5,German, English, Spanish, French, Chinese,Robotics,59.0
+127,Mary Hurst,Biology,Volunteer Group,Artistic, Leadership,Null,Null,Null,Los Angeles,Junior,Biology,3.79,Spanish, French, Japanese, German,Null,Blockchain Technology,85.0
+128,Bryan Oneal,Physics,Debate Club,Programming, Problem Solving,Null,Null,Null,Boston,Sophomore,History,3.02,German, Spanish, English, Japanese,Null,Nanotechnology,35.0
+129,Brooke Lewis,Biology,Debate Club,Public Speaking,Null,Null,Null,Null,Houston,Freshman,Computer Science,3.75,French, Chinese, Spanish,Null,Null,Human-Computer Interaction,81.0
+130,Jenna Goodwin,Biology,Art Club,Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership,San Francisco,Senior,Physics,3.53,German, English, French,Null,Null,Space Exploration,58.0
+131,Kyle Vaughn,Biology,Music Club,Public Speaking, Programming, Problem Solving, Artistic,Null,Houston,Sophomore,Psychology,2.66,French, Spanish,Null,Null,Null,Data Science,4.0
+132,Mary Stephens,Psychology,Sports Team,Data Analysis, Artistic,Null,Null,Null,San Francisco,Sophomore,Computer Science,2.22,Chinese,Null,Null,Null,Null,Nanotechnology,6.0
+133,Ryan Miller,History,Debate Club,Leadership, Problem Solving, Artistic, Public Speaking,Null,Chicago,Senior,History,2.38,Chinese, Spanish, German, English, Japanese,Educational Technology,2.0
+134,Robert Morgan,Mathematics,Volunteer Group,Public Speaking, Problem Solving, Artistic, Programming,Null,Los Angeles,Freshman,Mathematics,3.13,Spanish, Chinese, French, English, Japanese,Social Sciences,28.0
+135,Patricia Martinez,Psychology,Music Club,Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking,Houston,Graduate,Physics,3.35,French, German, Spanish, Japanese, English,Nanotechnology,54.0
+136,Melissa Rodriguez,Biology,Debate Club,Public Speaking, Artistic, Leadership,Null,Null,San Francisco,Sophomore,Physics,2.33,Japanese, Chinese, French, English,Null,Data Science,10.0
+137,Tracy Williams,Biology,Volunteer Group,Data Analysis,Null,Null,Null,Null,New York,Freshman,Computer Science,2.99,German, English, Japanese, Spanish, Chinese,Educational Technology,24.0
+138,Brian Brooks,Biology,Sports Team,Leadership, Problem Solving,Null,Null,Null,Houston,Freshman,Biology,2.51,English, French, German, Chinese, Spanish,Nanotechnology,11.0
+139,Angela Sanchez,History,Volunteer Group,Leadership, Public Speaking, Data Analysis, Problem Solving, Programming,Los Angeles,Freshman,Computer Science,3.04,Chinese,Null,Null,Null,Null,Robotics,39.0
+140,Ricardo Moore,Mathematics,Debate Club,Programming, Data Analysis, Problem Solving, Leadership, Public Speaking,New York,Senior,History,2.91,English, Chinese, Spanish, German,Null,Astrophysics,19.0
+141,Ryan Holt,Physics,Coding Club,Programming, Public Speaking, Artistic, Leadership, Data Analysis,New York,Graduate,Physics,2.65,German, Chinese, English, Japanese,Null,Robotics,8.0
+142,Jacqueline Dorsey,Computer Science,Art Club,Leadership, Artistic,Null,Null,Null,Chicago,Junior,Psychology,2.47,English, French, German,Null,Null,Climate Change,1.0
+143,Kenneth Edwards,Computer Science,Art Club,Artistic, Problem Solving, Data Analysis, Programming,Null,Chicago,Freshman,Psychology,2.82,Japanese, German, English, Chinese, Spanish,Sustainable Agriculture,22.0
+144,Amy Martin,Biology,Art Club,Artistic, Problem Solving, Leadership, Data Analysis, Programming,Los Angeles,Senior,Biology,3.26,French, English, Spanish,Null,Null,Cognitive Psychology,49.0
+145,Stacy Anthony,Psychology,Art Club,Programming, Artistic, Leadership, Data Analysis,Null,San Francisco,Graduate,Physics,3.08,English, Spanish, German,Null,Null,Nanotechnology,34.0
+146,Hannah Arroyo,Biology,Sports Team,Data Analysis, Leadership, Programming, Artistic,Null,Los Angeles,Junior,Computer Science,2.82,Chinese,Null,Null,Null,Null,Astrophysics,10.0
+147,Tina Scott,History,Sports Team,Leadership,Null,Null,Null,Null,Los Angeles,Sophomore,Computer Science,3.97,Spanish, English, German, Chinese, French,Cognitive Psychology,97.0
+148,Erik Kelly,Physics,Music Club,Public Speaking, Problem Solving, Programming, Artistic, Data Analysis,Chicago,Junior,Mathematics,3.61,Japanese, Spanish, German, French,Null,Machine Learning,82.0
+149,John Marshall,Physics,Sports Team,Public Speaking, Data Analysis,Null,Null,Null,Boston,Freshman,Mathematics,2.07,Chinese, German, French, Spanish, English,Cognitive Psychology,2.0
+150,Jasmine White,Biology,Coding Club,Data Analysis,Null,Null,Null,Null,Boston,Freshman,Mathematics,2.93,Japanese,Null,Null,Null,Null,Political Science,4.0
+151,Lynn Gonzales,Biology,Volunteer Group,Artistic, Problem Solving, Public Speaking, Leadership, Programming,Chicago,Senior,Psychology,3.71,English, Spanish, German,Null,Null,Urban Planning,80.0
+152,Jacob Garrett,Computer Science,Coding Club,Data Analysis, Programming, Public Speaking, Problem Solving,Null,Houston,Senior,Computer Science,2.57,German, English, Japanese, Chinese, French,Space Exploration,15.0
+153,Steven Klein,History,Sports Team,Artistic, Problem Solving, Data Analysis, Programming, Leadership,Houston,Sophomore,Psychology,2.78,Chinese,Null,Null,Null,Null,Sustainable Agriculture,12.0
+154,Michael Walls,Physics,Art Club,Public Speaking, Data Analysis,Null,Null,Null,Houston,Freshman,Physics,2.63,French, English, Japanese,Null,Null,Space Exploration,10.0
+155,Daniel Lester,Computer Science,Coding Club,Public Speaking,Null,Null,Null,Null,San Francisco,Freshman,Biology,2.7,Japanese,Null,Null,Null,Null,Space Exploration,1.0
+156,Carol Murray,Biology,Debate Club,Leadership, Programming,Null,Null,Null,Los Angeles,Freshman,History,2.98,Japanese, English, French, Chinese, Spanish,Environmental Sustainability,5.0
+157,Vincent Klein,Physics,Art Club,Programming, Public Speaking, Problem Solving, Leadership, Artistic,New York,Freshman,Physics,3.59,Spanish, German, English, Japanese, French,Behavioral Economics,67.0
+158,Christina Nichols,Psychology,Volunteer Group,Leadership, Artistic,Null,Null,Null,San Francisco,Freshman,Mathematics,3.68,Chinese, Japanese, English, Spanish, French,Data Science,75.0
+159,Mary Vasquez,Psychology,Sports Team,Public Speaking, Artistic, Leadership, Data Analysis,Null,Houston,Graduate,Biology,3.86,German, Spanish, English, French, Chinese,Human-Computer Interaction,96.0
+160,Kevin Hale,History,Sports Team,Artistic, Data Analysis, Programming, Problem Solving,Null,Chicago,Junior,Physics,3.34,French, Japanese, English, German, Chinese,Healthcare Management,47.0
+161,Walter Greene,Psychology,Sports Team,Public Speaking, Leadership, Programming,Null,Null,Boston,Junior,Mathematics,3.53,French, English, Japanese,Null,Null,Political Science,68.0
+162,Devin Sparks,Computer Science,Volunteer Group,Artistic, Problem Solving, Programming, Data Analysis,Null,New York,Freshman,Biology,2.04,Spanish, Japanese,Null,Null,Null,Quantum Computing,7.0
+163,Randy Torres,Psychology,Volunteer Group,Public Speaking, Leadership, Artistic, Programming,Null,New York,Graduate,Mathematics,3.6,Chinese, Japanese, German, English, Spanish,Healthcare Management,56.0
+164,Sean Avery,Physics,Art Club,Artistic,Null,Null,Null,Null,New York,Sophomore,History,3.38,Chinese, German,Null,Null,Null,Astrophysics,44.0
+165,Robert Cunningham,History,Music Club,Problem Solving, Data Analysis, Programming, Leadership, Artistic,San Francisco,Junior,Psychology,3.18,English,Null,Null,Null,Null,Cybersecurity,28.0
+166,Elizabeth Maynard,Biology,Sports Team,Data Analysis, Leadership, Problem Solving,Null,Null,San Francisco,Freshman,Computer Science,3.8,English,Null,Null,Null,Null,Cybersecurity,74.0
+167,Christopher Ochoa,Mathematics,Music Club,Problem Solving,Null,Null,Null,Null,New York,Freshman,Mathematics,2.31,German, Japanese, Spanish, English,Null,Astrophysics,12.0
+168,Dustin Evans,History,Debate Club,Programming, Leadership,Null,Null,Null,Los Angeles,Freshman,Psychology,3.01,German, English, Chinese, Spanish, French,Political Science,36.0
+169,Marvin Riley,Computer Science,Art Club,Public Speaking, Programming, Artistic, Data Analysis, Problem Solving,Boston,Senior,Psychology,3.68,Spanish,Null,Null,Null,Null,Biomedical Engineering,77.0
+170,Joshua Yates,Biology,Coding Club,Data Analysis, Leadership, Problem Solving, Public Speaking,Null,San Francisco,Senior,Psychology,3.69,Spanish, Chinese, English, German, Japanese,Biomedical Engineering,85.0
+171,Dana Thomas,Physics,Debate Club,Artistic, Problem Solving,Null,Null,Null,San Francisco,Junior,Psychology,2.83,French, German, Spanish, Chinese,Null,Political Science,13.0
+172,Angela Alvarez,History,Debate Club,Leadership,Null,Null,Null,Null,Los Angeles,Sophomore,History,3.81,French,Null,Null,Null,Null,Bioinformatics,86.0
+173,Jenna Bowman,Physics,Debate Club,Problem Solving, Artistic,Null,Null,Null,Los Angeles,Junior,History,3.19,Spanish, German, Chinese,Null,Null,Bioinformatics,35.0
+174,Jennifer Ramsey,Mathematics,Coding Club,Artistic, Data Analysis,Null,Null,Null,New York,Senior,History,2.06,French, Chinese, German, Spanish, Japanese,Astrophysics,12.0
+175,Aaron Williams,Mathematics,Sports Team,Leadership, Artistic, Programming,Null,Null,San Francisco,Sophomore,Mathematics,3.97,Chinese, German,Null,Null,Null,Social Sciences,100.0
+176,Christopher Goodwin,Psychology,Art Club,Problem Solving, Artistic, Programming, Data Analysis, Public Speaking,San Francisco,Graduate,History,3.0,German, Japanese,Null,Null,Null,Behavioral Economics,25.0
+177,Amber Shelton,Biology,Debate Club,Programming, Public Speaking, Problem Solving, Leadership, Data Analysis,Los Angeles,Sophomore,Computer Science,3.27,English, German,Null,Null,Null,Environmental Sustainability,49.0
+178,Stephanie Mitchell,Biology,Volunteer Group,Data Analysis, Artistic, Public Speaking, Problem Solving, Programming,San Francisco,Graduate,Psychology,2.96,Japanese,Null,Null,Null,Null,Cybersecurity,23.0
+179,Jacob Simmons,Psychology,Debate Club,Problem Solving, Leadership, Public Speaking, Data Analysis,Null,Los Angeles,Graduate,Mathematics,3.31,English,Null,Null,Null,Null,Space Exploration,41.0
+180,Erin Washington,Computer Science,Art Club,Problem Solving, Leadership, Programming, Artistic, Public Speaking,Boston,Graduate,Psychology,3.81,German, Chinese, Spanish, English, Japanese,Robotics,90.0
+181,Danielle Nash,Computer Science,Volunteer Group,Problem Solving, Leadership, Data Analysis, Artistic,Null,Los Angeles,Junior,Computer Science,3.53,Spanish, Japanese, English, German, Chinese,Robotics,69.0
+182,Frank Baker,Biology,Art Club,Programming, Data Analysis, Artistic,Null,Null,San Francisco,Senior,Psychology,3.9,Spanish,Null,Null,Null,Null,Renewable Energy,98.0
+183,Maria Silva,Computer Science,Volunteer Group,Public Speaking, Leadership, Problem Solving, Programming, Data Analysis,Chicago,Sophomore,Mathematics,3.01,Japanese, Chinese, Spanish, German, English,Nanotechnology,34.0
+184,Angela Rogers,History,Volunteer Group,Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership,Chicago,Senior,History,3.38,French, German, English, Chinese, Spanish,Astrophysics,43.0
+185,Patty Walker,History,Music Club,Leadership, Programming, Artistic,Null,Null,Chicago,Freshman,History,2.93,Japanese, Chinese, Spanish,Null,Null,Climate Change,20.0
+186,Charles Perez,Psychology,Coding Club,Artistic, Data Analysis, Public Speaking, Programming, Leadership,Houston,Graduate,Biology,3.18,English, Japanese, German, French, Spanish,Environmental Sustainability,36.0
+187,Ann Small,Physics,Music Club,Leadership, Programming,Null,Null,Null,San Francisco,Junior,Biology,3.27,Chinese, English, German, Spanish, Japanese,Behavioral Economics,52.0
+188,Howard Cox,Biology,Music Club,Programming, Data Analysis, Public Speaking, Artistic, Leadership,Houston,Junior,Computer Science,2.77,German, English,Null,Null,Null,Educational Technology,8.0
+189,Carlos Rodriguez,Mathematics,Coding Club,Programming, Artistic, Data Analysis, Leadership,Null,Houston,Sophomore,Biology,3.22,Spanish, English, French, German, Chinese,Cybersecurity,52.0
+190,Curtis Andrews,Mathematics,Volunteer Group,Programming, Artistic,Null,Null,Null,San Francisco,Freshman,Psychology,3.19,French, English, German, Japanese, Chinese,Environmental Sustainability,35.0
+191,Jonathan Castro,Computer Science,Volunteer Group,Public Speaking, Data Analysis,Null,Null,Null,Chicago,Sophomore,Mathematics,2.4,German, Spanish, English, Japanese,Null,Cognitive Psychology,22.0
+192,Mary Smith,Biology,Coding Club,Programming,Null,Null,Null,Null,Los Angeles,Sophomore,Psychology,3.92,English, French, German, Japanese,Null,Astrophysics,100.0
+193,Christopher Schmidt,Physics,Art Club,Artistic,Null,Null,Null,Null,Boston,Junior,Biology,2.19,German, Japanese, Spanish, English, French,Human-Computer Interaction,1.0
+194,Traci Hughes,Mathematics,Coding Club,Leadership,Null,Null,Null,Null,Boston,Sophomore,History,2.01,English, Spanish,Null,Null,Null,Quantum Computing,15.0
+195,Christopher Barnett,Computer Science,Volunteer Group,Programming,Null,Null,Null,Null,San Francisco,Graduate,Biology,2.12,French, Japanese,Null,Null,Null,Educational Technology,18.0
+196,Jessica Wood,Biology,Sports Team,Programming, Problem Solving, Data Analysis, Artistic, Public Speaking,Houston,Senior,Physics,3.09,French, Chinese, Japanese,Null,Null,Environmental Sustainability,36.0
+197,Melissa Ball,Psychology,Volunteer Group,Leadership, Programming,Null,Null,Null,Chicago,Junior,Biology,2.64,Japanese,Null,Null,Null,Null,Human-Computer Interaction,10.0
+198,David Johnson,Mathematics,Sports Team,Data Analysis,Null,Null,Null,Null,Los Angeles,Senior,Psychology,3.61,Japanese, Spanish, French, English, German,Astrophysics,83.0
+199,Tracie Young,Physics,Music Club,Artistic, Public Speaking,Null,Null,Null,New York,Graduate,History,2.85,English, Chinese, Japanese, German, Spanish,Nanotechnology,23.0
+200,Robert House,Computer Science,Music Club,Problem Solving, Data Analysis, Leadership, Artistic,Null,Boston,Graduate,History,2.58,French, Spanish, German, Japanese, Chinese,Climate Change,11.0
+201,Louis Cook,Biology,Volunteer Group,Data Analysis, Leadership, Artistic, Problem Solving, Public Speaking,New York,Graduate,Computer Science,2.8,French, Chinese,Null,Null,Null,Human-Computer Interaction,8.0
+202,Julie Moore,Physics,Music Club,Public Speaking, Artistic, Programming, Data Analysis, Leadership,New York,Freshman,Mathematics,2.14,German, French,Null,Null,Null,Space Exploration,12.0
+203,Kevin Maxwell,History,Music Club,Leadership, Artistic, Data Analysis, Problem Solving, Public Speaking,Boston,Freshman,History,3.19,Chinese, Spanish, German, French, English,Healthcare Management,30.0
+204,David Rich,History,Debate Club,Leadership, Problem Solving,Null,Null,Null,Houston,Freshman,Computer Science,2.52,Japanese,Null,Null,Null,Null,Healthcare Management,12.0
+205,Jennifer Lambert,Psychology,Debate Club,Programming,Null,Null,Null,Null,Chicago,Senior,Computer Science,2.66,French, Spanish, Japanese, German,Null,Human-Computer Interaction,11.0
+206,Micheal Clark,History,Sports Team,Data Analysis,Null,Null,Null,Null,Boston,Senior,Biology,3.93,French, Spanish, Japanese, Chinese, English,Data Science,93.0
+207,Luis Cobb,Mathematics,Art Club,Problem Solving, Artistic, Data Analysis,Null,Null,San Francisco,Junior,Physics,3.48,French, Spanish, German, English,Null,Cognitive Psychology,62.0
+208,Courtney Powell,Physics,Volunteer Group,Data Analysis, Public Speaking, Artistic,Null,Null,San Francisco,Sophomore,Physics,3.31,Chinese, English, German, Spanish, Japanese,Machine Learning,54.0
+209,Nathaniel Reynolds,History,Art Club,Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking,Boston,Senior,Computer Science,3.5,French, German,Null,Null,Null,Cognitive Psychology,68.0
+210,Kyle Garcia,Mathematics,Music Club,Problem Solving, Public Speaking, Programming, Leadership,Null,Los Angeles,Junior,Physics,3.76,Japanese, German, French,Null,Null,Artificial Intelligence,78.0
+211,Michael Butler,Biology,Music Club,Public Speaking, Programming, Data Analysis,Null,Null,Los Angeles,Junior,Computer Science,2.69,Japanese, English, Spanish, French, German,Robotics,10.0
+212,Jenna Hanson,Mathematics,Coding Club,Leadership, Programming, Data Analysis, Artistic, Problem Solving,Los Angeles,Senior,Psychology,2.47,Japanese,Null,Null,Null,Null,Cognitive Psychology,18.0
+213,Daniel Hall,Physics,Sports Team,Public Speaking, Programming, Data Analysis,Null,Null,Houston,Freshman,Computer Science,3.79,French, German, Japanese, English,Null,Blockchain Technology,74.0
+214,Patrick Martin,Biology,Volunteer Group,Artistic,Null,Null,Null,Null,Los Angeles,Freshman,Biology,3.34,English, Japanese, Chinese, Spanish,Null,Natural Language Processing,52.0
+215,Donald Norton,Mathematics,Art Club,Leadership, Artistic, Public Speaking, Programming, Problem Solving,New York,Graduate,History,2.99,French, Japanese,Null,Null,Null,Biomedical Engineering,10.0
+216,Shelby Hernandez,Mathematics,Volunteer Group,Public Speaking, Artistic, Data Analysis, Leadership, Programming,Boston,Junior,History,3.16,French, Chinese, German, Japanese,Null,Robotics,26.0
+217,Katie Ramirez,Computer Science,Debate Club,Data Analysis, Artistic, Problem Solving, Programming, Public Speaking,New York,Senior,History,2.69,English, Spanish,Null,Null,Null,Biomedical Engineering,19.0
+218,Dylan Harrison,Biology,Coding Club,Programming, Artistic, Data Analysis, Leadership, Problem Solving,Los Angeles,Sophomore,Biology,3.06,French, Japanese, Chinese, English, Spanish,Nanotechnology,35.0
+219,Richard Dawson,Computer Science,Art Club,Programming, Problem Solving, Data Analysis, Public Speaking, Artistic,Chicago,Senior,Biology,3.59,Spanish, Japanese, German,Null,Null,Machine Learning,68.0
+220,Charles West,Psychology,Art Club,Data Analysis, Leadership,Null,Null,Null,San Francisco,Junior,Biology,3.24,Spanish, English, Japanese, German, French,Blockchain Technology,52.0
+221,Sarah Woods,Physics,Debate Club,Programming, Data Analysis, Public Speaking, Problem Solving,Null,San Francisco,Sophomore,History,2.1,German, Japanese, Spanish,Null,Null,Artificial Intelligence,5.0
+222,Ellen Jordan,History,Volunteer Group,Data Analysis, Artistic, Public Speaking,Null,Null,New York,Sophomore,Physics,3.49,Spanish,Null,Null,Null,Null,Artificial Intelligence,69.0
+223,Christina Hines,History,Volunteer Group,Leadership, Problem Solving, Data Analysis,Null,Null,Boston,Junior,Biology,2.06,Japanese, English, Spanish, Chinese, French,Robotics,19.0
+224,Sierra Watkins,Psychology,Coding Club,Programming, Public Speaking, Problem Solving, Artistic, Leadership,Chicago,Sophomore,Physics,2.54,French, German, Spanish, Chinese, English,Astrophysics,1.0
+225,Robert Moran,Physics,Sports Team,Leadership, Public Speaking, Programming, Problem Solving,Null,Los Angeles,Sophomore,Biology,2.87,Spanish, English, Chinese, German,Null,Machine Learning,21.0
+226,Michelle Gibson,Mathematics,Volunteer Group,Leadership, Public Speaking,Null,Null,Null,Los Angeles,Freshman,Computer Science,3.26,Chinese, English, French, German, Japanese,Climate Change,46.0
+227,William Delacruz,History,Coding Club,Leadership, Problem Solving, Programming, Public Speaking,Null,Houston,Freshman,Mathematics,3.07,Japanese, Chinese, Spanish, English,Null,Machine Learning,36.0
+228,Jennifer Saunders,Psychology,Volunteer Group,Public Speaking,Null,Null,Null,Null,New York,Graduate,Computer Science,2.87,Spanish, French, Chinese, German,Null,Machine Learning,2.0
+229,Larry Foster,Computer Science,Sports Team,Leadership,Null,Null,Null,Null,San Francisco,Junior,Mathematics,3.78,German, Spanish, French,Null,Null,Data Science,82.0
+230,James Edwards,Computer Science,Coding Club,Programming, Public Speaking, Leadership, Artistic, Data Analysis,Houston,Freshman,Biology,3.27,Chinese, Japanese, French,Null,Null,Natural Language Processing,50.0
+231,George Klein,Psychology,Music Club,Programming, Problem Solving, Artistic, Public Speaking, Leadership,San Francisco,Graduate,Biology,2.5,Spanish, English, French, Japanese,Null,Environmental Sustainability,10.0
+232,Christina Wells,Biology,Music Club,Data Analysis,Null,Null,Null,Null,Los Angeles,Senior,Mathematics,3.75,Spanish,Null,Null,Null,Null,Blockchain Technology,71.0
+233,Steven Fuentes,Biology,Coding Club,Programming, Problem Solving, Data Analysis,Null,Null,San Francisco,Graduate,Biology,2.53,German, Japanese, English, French, Chinese,Educational Technology,3.0
+234,Nicholas Marshall,Mathematics,Volunteer Group,Programming, Leadership, Public Speaking, Data Analysis, Problem Solving,Houston,Graduate,Biology,3.47,Spanish, English, Chinese,Null,Null,Biomedical Engineering,58.0
+235,Collin Wilson,Biology,Music Club,Problem Solving, Public Speaking,Null,Null,Null,New York,Senior,History,3.64,Spanish, English, French, Chinese,Null,Educational Technology,78.0
+236,Lisa Mitchell,Mathematics,Debate Club,Leadership,Null,Null,Null,Null,Chicago,Graduate,Physics,3.25,German, French,Null,Null,Null,Sustainable Agriculture,51.0
+237,Mary Elliott,History,Coding Club,Problem Solving, Leadership, Programming, Public Speaking, Data Analysis,Los Angeles,Sophomore,Mathematics,3.06,German, Japanese, French, Spanish,Null,Nanotechnology,33.0
+238,Daniel Cardenas,Psychology,Music Club,Problem Solving, Artistic, Leadership, Data Analysis, Programming,Boston,Graduate,History,3.47,Japanese, German, French,Null,Null,Healthcare Management,57.0
+239,Brandon Nguyen,Biology,Music Club,Programming, Data Analysis, Problem Solving, Public Speaking,Null,Chicago,Senior,Psychology,3.63,English, French, German,Null,Null,Data Science,83.0
+240,Michelle Dalton,Mathematics,Music Club,Problem Solving,Null,Null,Null,Null,San Francisco,Graduate,History,2.84,Spanish, French, German, English,Null,Quantum Computing,18.0
+241,Michael Moon,Physics,Volunteer Group,Problem Solving, Programming, Leadership, Artistic, Public Speaking,Los Angeles,Senior,Mathematics,2.73,Japanese, German, Chinese,Null,Null,Biomedical Engineering,23.0
+242,Kristin Barnes,Biology,Music Club,Problem Solving, Data Analysis,Null,Null,Null,Houston,Senior,Physics,3.39,English, German, French, Japanese, Chinese,Environmental Sustainability,41.0
+243,Mary Mendoza,Biology,Art Club,Data Analysis, Artistic, Leadership, Problem Solving, Programming,Boston,Graduate,Physics,3.09,Chinese,Null,Null,Null,Null,Biomedical Engineering,30.0
+244,Robert Norris,Mathematics,Music Club,Artistic,Null,Null,Null,Null,Chicago,Junior,Computer Science,3.19,German, English, Spanish,Null,Null,Robotics,39.0
+245,Heather Hale,Biology,Sports Team,Public Speaking, Programming,Null,Null,Null,San Francisco,Senior,Biology,3.02,French,Null,Null,Null,Null,Environmental Sustainability,31.0
+246,Ariana Salas,Physics,Debate Club,Leadership, Public Speaking,Null,Null,Null,San Francisco,Graduate,Psychology,3.18,French, Chinese, English, German, Spanish,Educational Technology,35.0
+247,John Collins,Mathematics,Coding Club,Public Speaking,Null,Null,Null,Null,Chicago,Graduate,Biology,3.48,French,Null,Null,Null,Null,Machine Learning,65.0
+248,Michele Bradley,Physics,Music Club,Data Analysis, Artistic, Leadership, Programming, Public Speaking,Los Angeles,Senior,History,2.21,German, English, Chinese, French,Null,Blockchain Technology,22.0
+249,Laurie Oconnor,Computer Science,Volunteer Group,Public Speaking, Data Analysis, Programming, Leadership, Artistic,Houston,Junior,Mathematics,3.59,English, French,Null,Null,Null,Bioinformatics,70.0
+250,David Garcia,Biology,Coding Club,Public Speaking, Problem Solving, Data Analysis, Artistic,Null,Houston,Freshman,Physics,2.58,German, Spanish,Null,Null,Null,Data Science,15.0
+251,Rodney Gray,Psychology,Volunteer Group,Data Analysis, Leadership, Problem Solving, Programming,Null,Houston,Sophomore,History,3.24,Spanish,Null,Null,Null,Null,Quantum Computing,52.0
+252,Dana Welch,Physics,Art Club,Artistic, Programming, Problem Solving, Public Speaking, Leadership,Boston,Graduate,Mathematics,2.11,Chinese, Japanese, German,Null,Null,Blockchain Technology,21.0
+253,Chelsea Kennedy,Mathematics,Art Club,Artistic, Data Analysis, Programming, Leadership, Problem Solving,Boston,Senior,Computer Science,2.43,Chinese, French, German, Spanish, Japanese,Renewable Energy,23.0
+254,Kaitlyn Reyes,Physics,Debate Club,Programming, Public Speaking, Artistic,Null,Null,San Francisco,Graduate,Mathematics,2.56,English, Japanese,Null,Null,Null,Machine Learning,23.0
+255,Benjamin Andrews,Computer Science,Debate Club,Public Speaking,Null,Null,Null,Null,Houston,Freshman,Psychology,3.76,Japanese, French, Spanish, Chinese, English,Human-Computer Interaction,84.0
+256,James Davis,History,Music Club,Artistic, Public Speaking, Leadership, Problem Solving, Programming,New York,Sophomore,Mathematics,3.8,German, Spanish, French, English,Null,Healthcare Management,85.0
+257,Patrick Hines,Computer Science,Art Club,Leadership, Programming, Artistic, Public Speaking,Null,New York,Sophomore,History,2.32,Japanese, Spanish, German,Null,Null,Educational Technology,15.0
+258,Glenda Buckley,Biology,Music Club,Leadership, Programming, Data Analysis,Null,Null,Boston,Junior,Biology,2.37,English, German, French, Chinese, Japanese,Space Exploration,19.0
+259,Robert Carey,Psychology,Debate Club,Public Speaking, Problem Solving, Leadership, Artistic,Null,San Francisco,Senior,Biology,3.55,German,Null,Null,Null,Null,Quantum Computing,68.0
+260,Richard Norman,Psychology,Volunteer Group,Programming, Data Analysis,Null,Null,Null,Los Angeles,Freshman,Psychology,3.76,Chinese, Japanese, German, Spanish,Null,Artificial Intelligence,71.0
+261,Shannon Fisher,Psychology,Volunteer Group,Artistic, Public Speaking, Programming, Problem Solving, Leadership,Chicago,Senior,Biology,3.75,English, German, French, Chinese, Japanese,Urban Planning,85.0
+262,Joan Harris,History,Coding Club,Problem Solving, Leadership, Public Speaking,Null,Null,San Francisco,Sophomore,Computer Science,2.98,French, Japanese, Chinese, Spanish,Null,Sustainable Agriculture,20.0
+263,Ryan Pearson,Biology,Coding Club,Artistic, Leadership, Public Speaking,Null,Null,Boston,Senior,Physics,2.17,English, Japanese,Null,Null,Null,Educational Technology,21.0
+264,Patricia James,Computer Science,Sports Team,Public Speaking, Artistic,Null,Null,Null,Los Angeles,Freshman,Biology,2.95,English, Japanese, Chinese, German, Spanish,Quantum Computing,17.0
+265,Kenneth Jones,Computer Science,Music Club,Data Analysis, Problem Solving,Null,Null,Null,Boston,Graduate,Mathematics,2.21,Japanese, French, Chinese, German, Spanish,Machine Learning,0.0
+266,Denise Osborne,History,Coding Club,Public Speaking, Problem Solving, Leadership,Null,Null,Houston,Senior,History,2.37,Japanese,Null,Null,Null,Null,Biomedical Engineering,14.0
+267,Paula Rodgers,Psychology,Debate Club,Leadership, Programming, Problem Solving, Artistic, Public Speaking,San Francisco,Graduate,Computer Science,2.97,Spanish, German,Null,Null,Null,Cybersecurity,8.0
+268,Jeremy Campbell,Psychology,Music Club,Public Speaking, Leadership, Problem Solving, Programming, Data Analysis,Chicago,Graduate,History,3.35,Spanish,Null,Null,Null,Null,Educational Technology,48.0
+269,Julia Sloan,History,Debate Club,Data Analysis,Null,Null,Null,Null,New York,Freshman,Biology,3.23,English, German, Spanish,Null,Null,Artificial Intelligence,44.0
+270,Brittany Butler,Psychology,Music Club,Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic,Houston,Junior,Mathematics,3.84,Chinese, German, French, English,Null,Sustainable Agriculture,94.0
+271,Richard Lopez,History,Coding Club,Problem Solving, Artistic, Programming, Data Analysis,Null,Houston,Graduate,Mathematics,3.84,English, German, Spanish, Japanese,Null,Urban Planning,93.0
+272,Joseph Rivas,History,Volunteer Group,Data Analysis,Null,Null,Null,Null,San Francisco,Sophomore,Psychology,3.8,French, English, German, Spanish, Japanese,Human-Computer Interaction,84.0
+273,Sally Robertson,Computer Science,Art Club,Artistic,Null,Null,Null,Null,Boston,Senior,Physics,2.73,English, German,Null,Null,Null,Environmental Sustainability,3.0
+274,Elizabeth Brooks,History,Art Club,Problem Solving,Null,Null,Null,Null,Boston,Senior,Mathematics,3.07,Chinese, German, French, Spanish, English,Healthcare Management,36.0
+275,George Taylor,Computer Science,Art Club,Programming,Null,Null,Null,Null,San Francisco,Junior,Biology,3.85,Japanese, English, Chinese, French, Spanish,Climate Change,91.0
+276,Pamela Villarreal,Physics,Volunteer Group,Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic,San Francisco,Graduate,Physics,2.85,French, English, Chinese, Japanese, German,Healthcare Management,21.0
+277,Sara Wright,Physics,Music Club,Artistic, Data Analysis, Programming, Leadership,Null,Boston,Sophomore,Biology,3.1,Japanese, English, French, German, Spanish,Human-Computer Interaction,31.0
+278,Ronald Johnson,Physics,Debate Club,Leadership,Null,Null,Null,Null,Chicago,Graduate,Computer Science,3.96,Spanish, Chinese,Null,Null,Null,Cybersecurity,94.0
+279,Catherine Williams,Computer Science,Music Club,Data Analysis, Public Speaking, Leadership,Null,Null,San Francisco,Graduate,Mathematics,3.94,German, Chinese,Null,Null,Null,Biomedical Engineering,89.0
+280,Jesse Anderson,Computer Science,Volunteer Group,Leadership,Null,Null,Null,Null,Boston,Graduate,Psychology,2.83,French, German, Japanese, English, Chinese,Quantum Computing,3.0
+281,Kim Brandt,Physics,Volunteer Group,Public Speaking, Problem Solving, Artistic, Data Analysis, Programming,Houston,Freshman,History,3.73,German,Null,Null,Null,Null,Bioinformatics,84.0
+282,Katherine Smith,Biology,Art Club,Leadership, Public Speaking,Null,Null,Null,New York,Graduate,Mathematics,3.19,Chinese, English, Spanish, Japanese, French,Environmental Sustainability,40.0
+283,Alexa Decker,Physics,Volunteer Group,Public Speaking,Null,Null,Null,Null,Chicago,Graduate,Psychology,2.97,English, French,Null,Null,Null,Environmental Sustainability,24.0
+284,Mark Weber,Psychology,Art Club,Data Analysis, Public Speaking, Leadership, Artistic, Problem Solving,San Francisco,Sophomore,History,2.08,Spanish, English, German,Null,Null,Artificial Intelligence,6.0
+285,Eric Williams,History,Art Club,Programming,Null,Null,Null,Null,Chicago,Sophomore,Biology,3.28,German, Chinese,Null,Null,Null,Machine Learning,44.0
+286,Tina Christian,History,Music Club,Problem Solving, Public Speaking, Data Analysis, Artistic, Programming,Los Angeles,Senior,Physics,3.3,Spanish, French, German,Null,Null,Healthcare Management,43.0
+287,Nicholas Warren,Biology,Art Club,Problem Solving, Data Analysis, Public Speaking, Artistic,Null,Chicago,Graduate,Psychology,2.51,Spanish,Null,Null,Null,Null,Healthcare Management,0.0
+288,Gene Smith,Mathematics,Music Club,Problem Solving, Public Speaking, Artistic,Null,Null,New York,Graduate,History,2.27,Japanese, German,Null,Null,Null,Quantum Computing,16.0
+289,Timothy Johnson,Biology,Art Club,Artistic,Null,Null,Null,Null,San Francisco,Graduate,Computer Science,3.17,Chinese, Japanese,Null,Null,Null,Behavioral Economics,32.0
+290,Henry Spence,Psychology,Volunteer Group,Problem Solving, Public Speaking, Programming, Data Analysis, Artistic,Houston,Junior,Physics,3.57,English, German, Japanese, French, Spanish,Bioinformatics,67.0
+291,Ashley Stein,Physics,Debate Club,Leadership, Problem Solving, Data Analysis,Null,Null,Los Angeles,Sophomore,Physics,2.81,Spanish, German,Null,Null,Null,Astrophysics,7.0
+292,Robert Curtis,Psychology,Music Club,Leadership, Public Speaking, Artistic, Problem Solving, Programming,Chicago,Senior,Psychology,3.06,German, Japanese, French, Spanish, Chinese,Machine Learning,29.0
+293,Timothy Peterson,Biology,Volunteer Group,Data Analysis, Problem Solving,Null,Null,Null,Boston,Sophomore,History,3.48,Spanish, French, Chinese, English, Japanese,Blockchain Technology,56.0
+294,Stacy Herman,Physics,Art Club,Problem Solving, Artistic, Public Speaking, Programming, Leadership,Boston,Sophomore,Mathematics,3.08,German, French, Chinese,Null,Null,Sustainable Agriculture,27.0
+295,Adrian Robinson,Physics,Art Club,Programming, Artistic, Leadership, Data Analysis, Problem Solving,Houston,Junior,History,3.32,German, English, Spanish, French, Chinese,Cybersecurity,42.0
+296,Michael Carter,Biology,Debate Club,Problem Solving, Programming,Null,Null,Null,San Francisco,Senior,Psychology,2.86,Chinese,Null,Null,Null,Null,Space Exploration,5.0
+297,Erica Patton,Psychology,Debate Club,Data Analysis, Leadership,Null,Null,Null,Boston,Junior,Psychology,3.65,Chinese, German, Japanese,Null,Null,Space Exploration,80.0
+298,Denise Freeman,Mathematics,Music Club,Problem Solving, Programming,Null,Null,Null,New York,Graduate,Computer Science,2.73,Spanish,Null,Null,Null,Null,Climate Change,12.0
+299,Richard Williams,History,Art Club,Programming, Leadership,Null,Null,Null,Houston,Senior,History,2.14,English, Spanish,Null,Null,Null,Environmental Sustainability,15.0
+300,Kurt Obrien,Psychology,Debate Club,Artistic, Problem Solving,Null,Null,Null,Houston,Senior,Biology,2.15,Japanese, German, English, French,Null,Renewable Energy,15.0
+301,Scott Wilson,Mathematics,Music Club,Public Speaking, Leadership, Data Analysis, Problem Solving, Artistic,Houston,Senior,Computer Science,2.05,Spanish, Chinese, German,Null,Null,Sustainable Agriculture,22.0
+302,Jeremy Lewis,Computer Science,Debate Club,Problem Solving, Public Speaking, Data Analysis, Artistic, Programming,New York,Graduate,Psychology,2.3,Chinese, German,Null,Null,Null,Cybersecurity,11.0
+303,Jennifer Marsh,Computer Science,Music Club,Artistic, Data Analysis, Programming,Null,Null,Boston,Senior,Biology,3.86,Chinese, German, Spanish, Japanese, French,Bioinformatics,97.0
+304,Rachel Shannon,Mathematics,Music Club,Artistic, Public Speaking,Null,Null,Null,Houston,Graduate,Physics,3.48,English, Spanish, French, Chinese,Null,Sustainable Agriculture,66.0
+305,Erica Lewis,Computer Science,Art Club,Problem Solving, Public Speaking, Artistic, Leadership, Programming,Chicago,Graduate,Mathematics,3.45,English, Spanish,Null,Null,Null,Sustainable Agriculture,60.0
+306,Brian Meyer,Physics,Music Club,Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic,Chicago,Junior,Mathematics,2.64,Chinese, German, Spanish,Null,Null,Blockchain Technology,9.0
+307,Cameron Paul,Psychology,Coding Club,Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic,Boston,Graduate,Computer Science,2.49,Japanese, French, Spanish, German, Chinese,Political Science,22.0
+308,Curtis Salas,Mathematics,Music Club,Leadership,Null,Null,Null,Null,New York,Freshman,Physics,2.1,French, English, Japanese, Chinese, German,Machine Learning,20.0
+309,Penny Paul,Computer Science,Volunteer Group,Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving,San Francisco,Freshman,Mathematics,3.99,German, Spanish, Japanese, French,Null,Human-Computer Interaction,91.0
+310,Luis Greene,History,Sports Team,Leadership, Problem Solving,Null,Null,Null,Boston,Junior,Mathematics,3.89,English, French, Chinese, Spanish, German,Space Exploration,97.0
+311,Anna Clay,Physics,Sports Team,Data Analysis, Programming, Problem Solving, Public Speaking, Artistic,Chicago,Junior,Physics,3.79,German, English, Spanish, Japanese, French,Educational Technology,72.0
+312,Hunter Walker,Biology,Volunteer Group,Leadership, Problem Solving, Public Speaking, Programming, Artistic,Houston,Graduate,Mathematics,2.4,Spanish, English,Null,Null,Null,Climate Change,10.0
+313,Marc Mccoy,History,Music Club,Data Analysis, Problem Solving, Public Speaking, Programming, Leadership,Boston,Sophomore,Biology,3.7,Chinese,Null,Null,Null,Null,Behavioral Economics,71.0
+314,Melinda Rivera,Mathematics,Art Club,Programming,Null,Null,Null,Null,Boston,Freshman,Psychology,2.15,English, German, Japanese, Chinese,Null,Sustainable Agriculture,6.0
+315,Amy Carlson,Psychology,Art Club,Artistic, Public Speaking, Leadership, Data Analysis,Null,San Francisco,Graduate,Mathematics,2.59,Japanese, Chinese, Spanish, English, French,Data Science,12.0
+316,Ashley Wilson,Psychology,Music Club,Artistic, Public Speaking, Leadership, Programming, Problem Solving,Los Angeles,Junior,History,2.97,Chinese,Null,Null,Null,Null,Educational Technology,22.0
+317,Erik Bailey,Mathematics,Sports Team,Artistic, Programming, Public Speaking, Data Analysis, Problem Solving,New York,Sophomore,Psychology,2.23,French, German, Chinese,Null,Null,Nanotechnology,11.0
+318,Christopher Gonzalez,History,Debate Club,Artistic, Leadership,Null,Null,Null,San Francisco,Graduate,Psychology,2.02,Spanish, Chinese, German,Null,Null,Cognitive Psychology,20.0
+319,Frank Kemp,Computer Science,Music Club,Public Speaking,Null,Null,Null,Null,Boston,Graduate,History,3.44,English, Chinese, Japanese, Spanish,Null,Healthcare Management,65.0
+320,Teresa Black,Psychology,Music Club,Artistic, Programming, Problem Solving, Leadership, Public Speaking,Houston,Junior,Biology,2.75,Chinese, German, Spanish, Japanese, English,Blockchain Technology,20.0
+321,Jeremy Reynolds,Physics,Sports Team,Artistic,Null,Null,Null,Null,San Francisco,Sophomore,Physics,2.67,German,Null,Null,Null,Null,Artificial Intelligence,9.0
+322,Nathaniel Rivas,Mathematics,Debate Club,Data Analysis, Artistic, Problem Solving, Leadership, Programming,San Francisco,Graduate,Biology,2.37,Japanese,Null,Null,Null,Null,Robotics,2.0
+323,Stacy Gutierrez,Physics,Coding Club,Data Analysis, Problem Solving, Programming,Null,Null,San Francisco,Junior,History,2.46,Chinese, Japanese, English, Spanish,Null,Nanotechnology,22.0
+324,Christine Welch,Mathematics,Coding Club,Data Analysis, Artistic, Public Speaking, Programming,Null,Boston,Graduate,Biology,2.39,German, Japanese, French, English, Spanish,Astrophysics,11.0
+325,Jeremy Powers,Computer Science,Debate Club,Artistic, Programming,Null,Null,Null,New York,Sophomore,History,3.81,German, English, Chinese, Spanish, French,Climate Change,100.0
+326,Sharon Sweeney,History,Music Club,Leadership, Data Analysis, Public Speaking,Null,Null,New York,Junior,Biology,2.72,English, Chinese,Null,Null,Null,Environmental Sustainability,13.0
+327,Kelsey Fernandez,Psychology,Debate Club,Leadership, Data Analysis, Problem Solving,Null,Null,Los Angeles,Senior,History,3.65,English, Spanish, Japanese, Chinese,Null,Human-Computer Interaction,80.0
+328,Jennifer Perry,Computer Science,Volunteer Group,Public Speaking, Programming, Artistic, Leadership,Null,Chicago,Junior,Psychology,2.74,French, German, Chinese, Spanish,Null,Healthcare Management,3.0
+329,James Baker,Physics,Coding Club,Leadership, Public Speaking,Null,Null,Null,New York,Senior,Computer Science,3.62,French, Japanese, Spanish,Null,Null,Artificial Intelligence,74.0
+330,Michelle Martin,Psychology,Art Club,Artistic, Leadership,Null,Null,Null,New York,Junior,Psychology,3.97,Chinese, French, Spanish, German, Japanese,Artificial Intelligence,88.0
+331,Larry Sullivan,History,Music Club,Data Analysis, Programming, Public Speaking, Leadership, Artistic,New York,Freshman,Mathematics,2.96,Spanish, English, French, Japanese, Chinese,Quantum Computing,24.0
+332,Angela Phillips,Physics,Music Club,Problem Solving,Null,Null,Null,Null,Los Angeles,Freshman,Computer Science,2.22,German, English, Japanese, French, Chinese,Urban Planning,3.0
+333,Samantha Odom,Physics,Art Club,Programming, Data Analysis, Artistic, Problem Solving, Public Speaking,Boston,Sophomore,Psychology,3.4,Spanish, English, French, Chinese, Japanese,Artificial Intelligence,52.0
+334,John Flores,Mathematics,Sports Team,Leadership, Problem Solving, Public Speaking, Programming,Null,Houston,Freshman,Mathematics,3.15,English, German,Null,Null,Null,Behavioral Economics,27.0
+335,Diana Johnston,Psychology,Coding Club,Leadership, Artistic, Problem Solving, Data Analysis, Public Speaking,Los Angeles,Freshman,History,2.18,English, Spanish, German, Chinese, Japanese,Renewable Energy,24.0
+336,Kimberly Wall,Mathematics,Volunteer Group,Leadership, Artistic, Programming,Null,Null,Houston,Freshman,History,3.83,Spanish, Japanese, English, French,Null,Renewable Energy,98.0
+337,Caroline Riley,History,Music Club,Public Speaking, Data Analysis, Problem Solving, Leadership, Programming,Chicago,Sophomore,Biology,2.52,French, German, English, Spanish,Null,Climate Change,22.0
+338,Charles Wilcox,Computer Science,Debate Club,Leadership, Problem Solving, Programming,Null,Null,Los Angeles,Graduate,History,3.37,English, Japanese, French, Chinese, German,Environmental Sustainability,47.0
+339,Douglas Rocha,Mathematics,Music Club,Problem Solving, Artistic,Null,Null,Null,Chicago,Senior,History,2.26,Japanese, German,Null,Null,Null,Cybersecurity,20.0
+340,Colleen Grimes,Biology,Coding Club,Artistic, Leadership,Null,Null,Null,Boston,Graduate,Biology,3.41,English, Japanese, Spanish, Chinese,Null,Educational Technology,65.0
+341,Erik Barnes,Psychology,Music Club,Problem Solving, Public Speaking, Programming, Artistic,Null,San Francisco,Sophomore,History,2.91,English, French, Spanish, Japanese, Chinese,Quantum Computing,14.0
+342,Brian Long,History,Art Club,Public Speaking, Problem Solving, Programming, Leadership,Null,Boston,Graduate,Mathematics,2.94,French, Japanese, Chinese,Null,Null,Blockchain Technology,15.0
+343,Katherine Powers,Biology,Coding Club,Data Analysis, Artistic, Public Speaking, Leadership,Null,Chicago,Graduate,Physics,2.1,German, Japanese,Null,Null,Null,Cognitive Psychology,24.0
+344,Hailey Hernandez,Physics,Sports Team,Leadership,Null,Null,Null,Null,San Francisco,Junior,Computer Science,2.63,English, Japanese, German,Null,Null,Social Sciences,6.0
+345,John Beck,Biology,Music Club,Problem Solving, Public Speaking, Programming, Artistic, Leadership,New York,Junior,History,3.57,Japanese,Null,Null,Null,Null,Behavioral Economics,69.0
+346,Leon Goodwin,Mathematics,Coding Club,Leadership, Programming, Problem Solving, Artistic, Data Analysis,San Francisco,Sophomore,Mathematics,3.77,Japanese, French, English, German, Spanish,Human-Computer Interaction,74.0
+347,Joseph Thomas,Computer Science,Sports Team,Public Speaking, Data Analysis, Leadership, Programming,Null,San Francisco,Sophomore,Physics,2.62,Chinese, German, English,Null,Null,Urban Planning,1.0
+348,Kelly Vasquez,Physics,Debate Club,Problem Solving, Public Speaking, Artistic, Leadership, Data Analysis,San Francisco,Graduate,Psychology,3.77,French, Spanish, Chinese, German, Japanese,Climate Change,74.0
+349,William Martinez,Psychology,Art Club,Artistic, Data Analysis, Programming, Problem Solving, Leadership,New York,Senior,Psychology,3.89,English, Japanese, Spanish, German, French,Climate Change,95.0
+350,Ronald Middleton,Computer Science,Art Club,Artistic,Null,Null,Null,Null,Boston,Junior,Computer Science,3.68,English, Chinese, German, Spanish,Null,Environmental Sustainability,71.0
+351,Gary Clayton,Psychology,Debate Club,Artistic, Problem Solving,Null,Null,Null,Chicago,Senior,Psychology,3.31,Japanese,Null,Null,Null,Null,Blockchain Technology,43.0
+352,Melissa Stein,Mathematics,Volunteer Group,Programming,Null,Null,Null,Null,New York,Graduate,Computer Science,3.94,French, German, English, Chinese, Japanese,Bioinformatics,96.0
+353,James Crane,Computer Science,Sports Team,Public Speaking, Artistic, Leadership, Problem Solving, Programming,Houston,Sophomore,History,2.73,Japanese, French, English, Spanish,Null,Social Sciences,4.0
+354,Kevin Matthews,History,Art Club,Leadership, Programming, Public Speaking,Null,Null,Houston,Freshman,History,2.34,French, Spanish, English, Chinese, Japanese,Renewable Energy,16.0
+355,Tina Johnson,Biology,Coding Club,Programming, Artistic,Null,Null,Null,San Francisco,Graduate,Psychology,2.05,Spanish, English, French, Japanese, German,Environmental Sustainability,21.0
+356,Brittany Johnson,Physics,Music Club,Artistic, Public Speaking,Null,Null,Null,New York,Freshman,Mathematics,3.19,English, Japanese, Spanish, German, Chinese,Biomedical Engineering,33.0
+357,Colleen Vincent,Mathematics,Coding Club,Problem Solving, Data Analysis,Null,Null,Null,Chicago,Sophomore,Computer Science,3.34,German, Spanish, French, Chinese, Japanese,Climate Change,55.0
+358,Carl Patterson,Physics,Coding Club,Programming,Null,Null,Null,Null,New York,Graduate,Physics,3.76,French, Spanish, Chinese, German,Null,Data Science,80.0
+359,Jessica Wu,Biology,Sports Team,Programming,Null,Null,Null,Null,Houston,Sophomore,Computer Science,2.54,English, Japanese, Chinese,Null,Null,Space Exploration,20.0
+360,Angela Hicks,Computer Science,Coding Club,Artistic, Public Speaking, Leadership, Programming, Data Analysis,Los Angeles,Sophomore,Psychology,2.98,Japanese, Spanish,Null,Null,Null,Behavioral Economics,7.0
+361,Christine Smith,History,Music Club,Problem Solving, Data Analysis, Programming, Leadership,Null,New York,Sophomore,Mathematics,2.71,Japanese, French, English, Chinese, Spanish,Data Science,5.0
+362,Angela Collins,Physics,Coding Club,Leadership, Public Speaking, Problem Solving, Programming, Artistic,San Francisco,Junior,Computer Science,2.76,Japanese, Spanish,Null,Null,Null,Environmental Sustainability,23.0
+363,Scott Daugherty,Psychology,Volunteer Group,Artistic, Problem Solving, Leadership, Public Speaking,Null,San Francisco,Senior,Physics,2.17,French, Chinese, Japanese, English, German,Cybersecurity,11.0
+364,Angela Parker,Physics,Debate Club,Artistic, Programming, Data Analysis, Leadership,Null,San Francisco,Graduate,Psychology,2.43,English, Japanese,Null,Null,Null,Healthcare Management,13.0
+365,Mary Edwards,Physics,Volunteer Group,Public Speaking, Programming, Artistic, Problem Solving, Data Analysis,Los Angeles,Graduate,History,3.68,Chinese, English, German, Spanish,Null,Educational Technology,74.0
+366,Christopher Fisher,Mathematics,Music Club,Problem Solving, Programming, Leadership,Null,Null,Houston,Junior,Computer Science,2.98,Japanese, German, English, French,Null,Behavioral Economics,7.0
+367,Mary Cooper,Psychology,Volunteer Group,Data Analysis, Programming,Null,Null,Null,Chicago,Freshman,History,3.11,German,Null,Null,Null,Null,Data Science,26.0
+368,Michael Young,Computer Science,Music Club,Artistic, Leadership, Data Analysis, Programming,Null,Los Angeles,Sophomore,Biology,3.56,Japanese, Chinese,Null,Null,Null,Human-Computer Interaction,65.0
+369,Glenn Rice,Psychology,Art Club,Data Analysis, Public Speaking, Artistic,Null,Null,Houston,Junior,History,2.64,Japanese, French, German, Chinese, English,Natural Language Processing,8.0
+370,Jeffrey Briggs,Mathematics,Volunteer Group,Problem Solving, Public Speaking, Leadership,Null,Null,New York,Graduate,Psychology,2.5,French, English, Spanish, German, Chinese,Natural Language Processing,6.0
+371,Cynthia Taylor,Mathematics,Coding Club,Problem Solving, Public Speaking, Leadership, Programming, Data Analysis,Boston,Junior,Physics,2.19,German, English,Null,Null,Null,Educational Technology,21.0
+372,Priscilla Howe,Physics,Debate Club,Artistic, Leadership,Null,Null,Null,Los Angeles,Freshman,Physics,3.86,Spanish, German, Japanese,Null,Null,Renewable Energy,95.0
+373,Wanda Bryan,Mathematics,Sports Team,Data Analysis, Problem Solving,Null,Null,Null,San Francisco,Freshman,Physics,2.43,German, Chinese, Spanish, Japanese, English,Biomedical Engineering,1.0
+374,Ann Floyd,Mathematics,Music Club,Programming, Leadership, Data Analysis, Artistic,Null,Los Angeles,Junior,Computer Science,2.86,Spanish, French, German, Chinese, English,Renewable Energy,10.0
+375,Ronnie White,Physics,Sports Team,Data Analysis, Artistic, Public Speaking, Programming, Leadership,Los Angeles,Graduate,Physics,3.49,Spanish, English,Null,Null,Null,Sustainable Agriculture,67.0
+376,Mark Walsh,Mathematics,Music Club,Public Speaking, Artistic, Data Analysis, Leadership, Programming,San Francisco,Freshman,Psychology,2.21,Chinese, English,Null,Null,Null,Nanotechnology,15.0
+377,Brianna Burgess,Psychology,Coding Club,Data Analysis, Leadership, Artistic,Null,Null,Los Angeles,Senior,History,2.13,French, Japanese, English, German,Null,Healthcare Management,7.0
+378,Kayla Hill,History,Coding Club,Problem Solving, Public Speaking, Artistic, Leadership, Programming,Houston,Sophomore,Physics,2.34,French,Null,Null,Null,Null,Sustainable Agriculture,4.0
+379,Bill Watson,Psychology,Volunteer Group,Data Analysis, Problem Solving, Artistic,Null,Null,Houston,Senior,Psychology,3.42,French, English, Chinese,Null,Null,Renewable Energy,64.0
+380,Vanessa Miller,Mathematics,Coding Club,Problem Solving, Artistic, Public Speaking, Programming, Data Analysis,San Francisco,Freshman,Biology,2.43,Spanish, Chinese, French, Japanese, German,Educational Technology,3.0
+381,Lisa Fields,Biology,Sports Team,Programming,Null,Null,Null,Null,New York,Graduate,Computer Science,3.96,Spanish, English,Null,Null,Null,Behavioral Economics,95.0
+382,Carrie Barber,Computer Science,Music Club,Public Speaking, Artistic, Problem Solving, Leadership, Data Analysis,Houston,Sophomore,Computer Science,2.92,English, German,Null,Null,Null,Renewable Energy,3.0
+383,Paul Aguilar,Biology,Debate Club,Problem Solving, Data Analysis,Null,Null,Null,Houston,Graduate,Computer Science,2.93,Chinese, French, Japanese, German, English,Biomedical Engineering,1.0
+384,Charles Rose,History,Debate Club,Programming,Null,Null,Null,Null,New York,Junior,Computer Science,2.32,German, Chinese, Spanish, English, French,Cybersecurity,7.0
+385,Bonnie James,Psychology,Volunteer Group,Problem Solving, Data Analysis, Leadership, Programming,Null,San Francisco,Sophomore,Physics,2.28,German, Spanish, Japanese, French, Chinese,Climate Change,8.0
+386,Charles Quinn,Mathematics,Music Club,Programming, Data Analysis, Public Speaking,Null,Null,Houston,Junior,Mathematics,3.3,Chinese, German, Spanish, Japanese, French,Urban Planning,44.0
+387,Kathryn Cain,Physics,Sports Team,Data Analysis, Public Speaking, Programming,Null,Null,San Francisco,Sophomore,Computer Science,3.84,Japanese,Null,Null,Null,Null,Political Science,94.0
+388,Craig Hancock,Computer Science,Sports Team,Artistic,Null,Null,Null,Null,Houston,Senior,Biology,3.69,Chinese, German, Spanish, Japanese,Null,Educational Technology,76.0
+389,Emily Dean,Physics,Art Club,Leadership, Programming,Null,Null,Null,Houston,Senior,Biology,3.21,Japanese, Chinese, English, Spanish, French,Social Sciences,54.0
+390,Bryan Joseph,History,Debate Club,Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving,New York,Graduate,Physics,3.31,Japanese, German, French,Null,Null,Quantum Computing,45.0
+391,Tasha Reynolds,Psychology,Music Club,Leadership,Null,Null,Null,Null,Boston,Graduate,Mathematics,3.26,French,Null,Null,Null,Null,Astrophysics,49.0
+392,Justin Burke,Computer Science,Debate Club,Programming, Data Analysis, Leadership, Artistic, Problem Solving,Los Angeles,Junior,History,2.75,German,Null,Null,Null,Null,Space Exploration,4.0
+393,Heather Skinner,Biology,Music Club,Leadership, Public Speaking, Problem Solving, Artistic, Programming,New York,Graduate,Physics,3.89,Japanese, French, Spanish,Null,Null,Climate Change,96.0
+394,April Adams,Biology,Art Club,Data Analysis, Problem Solving, Artistic, Public Speaking, Programming,Chicago,Graduate,History,2.72,French, Chinese, German, English,Null,Machine Learning,16.0
+395,Jacob Stevens,Psychology,Music Club,Leadership, Artistic, Data Analysis, Programming, Problem Solving,Chicago,Senior,History,2.53,Chinese, English, French, German,Null,Urban Planning,19.0
+396,Ryan Reed,Psychology,Art Club,Programming, Leadership, Artistic, Public Speaking, Data Analysis,Los Angeles,Freshman,Mathematics,3.81,Spanish,Null,Null,Null,Null,Quantum Computing,91.0
+397,Deborah Valencia,Psychology,Sports Team,Problem Solving, Artistic, Data Analysis, Public Speaking, Leadership,San Francisco,Graduate,History,2.74,English,Null,Null,Null,Null,Biomedical Engineering,21.0
+398,Kimberly Jackson,Psychology,Music Club,Programming, Public Speaking, Data Analysis, Problem Solving,Null,Los Angeles,Junior,Biology,3.94,Spanish, French,Null,Null,Null,Natural Language Processing,88.0
+399,Rhonda Trevino,Mathematics,Debate Club,Leadership,Null,Null,Null,Null,Boston,Freshman,Mathematics,3.69,Japanese, German, English,Null,Null,Urban Planning,85.0
+400,Elizabeth Adams,Computer Science,Music Club,Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis,San Francisco,Graduate,Psychology,2.46,Japanese, Spanish, German, Chinese, French,Cybersecurity,4.0
+401,Donald Mendoza,Mathematics,Sports Team,Programming, Problem Solving, Data Analysis, Artistic,Null,Los Angeles,Sophomore,Psychology,3.21,Japanese, German, English, French, Chinese,Educational Technology,55.0
+402,Michelle Morris,Psychology,Volunteer Group,Problem Solving, Programming, Leadership,Null,Null,Houston,Graduate,Mathematics,3.64,English, Japanese, French, Chinese, Spanish,Climate Change,85.0
+403,Tommy Thomas,Biology,Coding Club,Data Analysis, Artistic,Null,Null,Null,New York,Freshman,Physics,3.72,English, Chinese, Japanese, German,Null,Healthcare Management,74.0
+404,Nichole Lee,Biology,Debate Club,Artistic, Leadership,Null,Null,Null,Los Angeles,Graduate,Biology,2.72,French, English, Spanish,Null,Null,Climate Change,7.0
+405,Leslie Skinner,Computer Science,Coding Club,Programming, Public Speaking, Leadership, Data Analysis,Null,New York,Freshman,Mathematics,2.22,Chinese,Null,Null,Null,Null,Educational Technology,6.0
+406,Colin Wagner,Mathematics,Music Club,Programming, Data Analysis, Leadership, Public Speaking, Artistic,Chicago,Junior,History,3.37,Spanish, French, Japanese,Null,Null,Nanotechnology,51.0
+407,Matthew Johnson,Psychology,Sports Team,Public Speaking, Leadership,Null,Null,Null,New York,Junior,Physics,2.72,French, Japanese, Spanish, Chinese, German,Machine Learning,2.0
+408,Shannon Copeland,Psychology,Sports Team,Programming,Null,Null,Null,Null,San Francisco,Sophomore,Physics,3.91,Chinese, Spanish, French, English, German,Blockchain Technology,91.0
+409,Christian Anderson,Biology,Music Club,Artistic, Programming, Leadership, Data Analysis, Problem Solving,Houston,Sophomore,Mathematics,3.56,French, English, Japanese, German,Null,Biomedical Engineering,59.0
+410,Amanda Martin,Psychology,Coding Club,Public Speaking, Artistic, Leadership, Programming,Null,San Francisco,Graduate,Computer Science,2.19,English, French, Japanese, Spanish,Null,Renewable Energy,10.0
+411,George Johnston,Computer Science,Debate Club,Programming, Public Speaking, Leadership, Data Analysis, Artistic,San Francisco,Sophomore,Mathematics,2.08,English, German, Chinese, French,Null,Environmental Sustainability,8.0
+412,Jeremy Smith,History,Music Club,Leadership, Data Analysis, Programming, Problem Solving, Artistic,Chicago,Graduate,Computer Science,2.73,English, Chinese, French, Spanish,Null,Quantum Computing,9.0
+413,Kayla Vincent,Physics,Music Club,Problem Solving, Leadership, Data Analysis,Null,Null,Boston,Senior,Biology,2.42,French, Spanish, German, Chinese,Null,Cognitive Psychology,8.0
+414,Samantha Garcia,Psychology,Debate Club,Data Analysis, Problem Solving, Leadership, Public Speaking,Null,Chicago,Senior,Mathematics,2.36,Spanish, Japanese, German,Null,Null,Urban Planning,8.0
+415,Taylor Bean,History,Volunteer Group,Data Analysis, Artistic, Leadership,Null,Null,Chicago,Sophomore,Psychology,3.37,Chinese,Null,Null,Null,Null,Machine Learning,45.0
+416,Amy Hendricks,History,Art Club,Public Speaking, Programming, Leadership,Null,Null,New York,Sophomore,History,2.81,Chinese, English, German, Japanese, French,Artificial Intelligence,8.0
+417,Todd Smith,Biology,Music Club,Artistic, Public Speaking, Problem Solving, Programming, Leadership,Boston,Freshman,Biology,2.4,Japanese, Spanish,Null,Null,Null,Bioinformatics,6.0
+418,Rachel Hurley,Mathematics,Coding Club,Leadership, Public Speaking, Artistic, Programming,Null,San Francisco,Sophomore,Mathematics,3.99,English,Null,Null,Null,Null,Data Science,90.0
+419,David Vargas,Physics,Coding Club,Public Speaking, Problem Solving, Leadership, Data Analysis, Programming,New York,Freshman,History,3.94,Japanese, German, French, Spanish,Null,Healthcare Management,97.0
+420,Hannah Smith,Physics,Debate Club,Leadership,Null,Null,Null,Null,New York,Junior,Computer Science,3.71,Chinese, Japanese, French,Null,Null,Blockchain Technology,79.0
+421,Terri Blanchard,History,Sports Team,Leadership, Problem Solving, Public Speaking, Artistic, Data Analysis,Houston,Senior,Mathematics,3.11,French, German, Spanish,Null,Null,Biomedical Engineering,29.0
+422,Travis Sherman,Psychology,Music Club,Data Analysis, Problem Solving, Artistic, Programming, Leadership,San Francisco,Graduate,Psychology,2.38,Japanese, German, Chinese,Null,Null,Cybersecurity,5.0
+423,David Martin,Mathematics,Music Club,Data Analysis, Problem Solving, Artistic, Public Speaking,Null,Chicago,Junior,Psychology,2.65,German, French, Japanese, Chinese, English,Sustainable Agriculture,19.0
+424,James Cook,Psychology,Sports Team,Problem Solving, Artistic, Programming,Null,Null,Boston,Freshman,Mathematics,3.54,French, English, Japanese, German,Null,Robotics,64.0
+425,Linda Cobb,History,Music Club,Problem Solving, Leadership, Artistic,Null,Null,Houston,Freshman,Computer Science,3.14,German, Chinese,Null,Null,Null,Environmental Sustainability,30.0
+426,Justin Tran,Computer Science,Sports Team,Artistic,Null,Null,Null,Null,San Francisco,Junior,History,2.99,Spanish, French, English,Null,Null,Social Sciences,20.0
+427,Joseph Lawson,Psychology,Debate Club,Programming, Problem Solving, Artistic,Null,Null,New York,Junior,Mathematics,2.47,Spanish,Null,Null,Null,Null,Space Exploration,19.0
+428,Katherine Marquez,History,Debate Club,Artistic, Data Analysis, Problem Solving, Leadership, Public Speaking,Boston,Senior,Psychology,2.69,Spanish, Japanese, English, Chinese, French,Bioinformatics,8.0
+429,Andrea Stewart,Psychology,Coding Club,Leadership, Artistic, Public Speaking, Programming,Null,San Francisco,Junior,Mathematics,2.93,Chinese, Japanese, Spanish, German, French,Natural Language Processing,14.0
+430,Daniel Medina,Physics,Art Club,Data Analysis,Null,Null,Null,Null,Los Angeles,Senior,Psychology,3.22,English, German, Chinese,Null,Null,Renewable Energy,41.0
+431,Kathy Aguilar,History,Coding Club,Programming, Artistic, Public Speaking,Null,Null,Chicago,Freshman,Mathematics,2.84,Japanese, English, German, Chinese, Spanish,Bioinformatics,9.0
+432,Angelica Patrick,Physics,Music Club,Problem Solving, Artistic, Data Analysis, Public Speaking,Null,Houston,Freshman,Mathematics,3.85,Japanese, French, English, German, Spanish,Climate Change,94.0
+433,Robert Johnson,Physics,Sports Team,Problem Solving, Programming, Data Analysis, Public Speaking, Artistic,Los Angeles,Sophomore,Computer Science,2.75,French, German, English, Spanish, Chinese,Political Science,5.0
+434,Jason Martin,Biology,Sports Team,Programming, Problem Solving,Null,Null,Null,Chicago,Sophomore,Psychology,2.5,German, Japanese, English,Null,Null,Biomedical Engineering,12.0
+435,Cynthia Powell,Mathematics,Debate Club,Programming, Artistic, Leadership, Data Analysis,Null,Los Angeles,Freshman,Mathematics,2.12,Chinese, Spanish,Null,Null,Null,Quantum Computing,23.0
+436,Janet Armstrong,Biology,Sports Team,Programming, Leadership, Artistic,Null,Null,New York,Senior,Mathematics,2.73,Spanish,Null,Null,Null,Null,Environmental Sustainability,13.0
+437,Allison Parks,Computer Science,Sports Team,Data Analysis, Public Speaking, Artistic, Problem Solving, Programming,San Francisco,Graduate,Psychology,3.48,Spanish, German, English, Japanese, French,Climate Change,63.0
+438,Justin Washington,Computer Science,Debate Club,Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership,Chicago,Freshman,Psychology,2.37,Spanish, English, Japanese, French, German,Nanotechnology,1.0
+439,Kimberly Mitchell,Physics,Coding Club,Programming, Public Speaking, Data Analysis, Problem Solving, Artistic,San Francisco,Senior,Psychology,3.06,French,Null,Null,Null,Null,Social Sciences,32.0
+440,Elizabeth Dickerson,Physics,Music Club,Leadership,Null,Null,Null,Null,Chicago,Senior,Mathematics,3.74,English, German, Chinese, Spanish, Japanese,Cognitive Psychology,83.0
+441,Amy Adams,History,Coding Club,Programming, Problem Solving, Data Analysis, Leadership, Public Speaking,Boston,Junior,Mathematics,2.72,Spanish, Japanese, English, German,Null,Renewable Energy,1.0
+442,Olivia Lewis,Computer Science,Art Club,Public Speaking, Artistic, Data Analysis, Programming, Problem Solving,Houston,Senior,Computer Science,3.05,English, French, Spanish, German, Chinese,Urban Planning,39.0
+443,Shelby Allen,Physics,Coding Club,Leadership, Public Speaking, Artistic, Programming, Data Analysis,Los Angeles,Freshman,Psychology,2.08,Chinese, Spanish, French,Null,Null,Cognitive Psychology,14.0
+444,Ann Sullivan,History,Volunteer Group,Public Speaking, Leadership, Artistic, Data Analysis,Null,San Francisco,Senior,Computer Science,2.06,French, Japanese, Spanish,Null,Null,Healthcare Management,4.0
+445,Dwayne Gardner,Physics,Music Club,Leadership, Artistic, Public Speaking, Problem Solving, Data Analysis,Houston,Sophomore,Psychology,3.83,German, Chinese, Japanese, French,Null,Blockchain Technology,86.0
+446,Catherine Long,Computer Science,Volunteer Group,Artistic, Public Speaking, Programming, Problem Solving,Null,Los Angeles,Junior,Physics,2.85,English, French, German, Japanese, Chinese,Nanotechnology,15.0
+447,Jennifer Campbell,Biology,Art Club,Artistic,Null,Null,Null,Null,Boston,Sophomore,Computer Science,2.78,Chinese, English, Spanish, Japanese, French,Climate Change,21.0
+448,Hector Palmer,Mathematics,Sports Team,Leadership, Problem Solving, Programming,Null,Null,San Francisco,Senior,Physics,2.63,French, Japanese, German, Spanish,Null,Political Science,7.0
+449,Tami Henderson,Physics,Debate Club,Artistic, Problem Solving, Leadership,Null,Null,San Francisco,Senior,Psychology,3.33,English, German, Spanish,Null,Null,Blockchain Technology,49.0
+450,Matthew Williams,Biology,Debate Club,Leadership, Public Speaking, Programming, Data Analysis, Problem Solving,Los Angeles,Sophomore,Computer Science,2.03,English, German, Chinese, French,Null,Environmental Sustainability,17.0
+451,Denise Saunders,Psychology,Art Club,Artistic, Programming, Problem Solving, Data Analysis,Null,Los Angeles,Sophomore,Physics,2.76,English, French, Japanese, Spanish, German,Environmental Sustainability,11.0
+452,Erin Wood,History,Music Club,Artistic, Programming, Problem Solving, Data Analysis,Null,Boston,Freshman,History,2.16,German, English, French, Japanese, Chinese,Nanotechnology,11.0
+453,Sean Ruiz,Psychology,Debate Club,Leadership, Public Speaking, Artistic, Problem Solving, Data Analysis,San Francisco,Freshman,History,2.58,German, Japanese, French,Null,Null,Environmental Sustainability,24.0
+454,Jason Cooley,Psychology,Debate Club,Data Analysis, Programming, Artistic, Problem Solving, Leadership,Los Angeles,Freshman,Physics,2.17,German, Chinese, French, English, Spanish,Social Sciences,10.0
+455,Michael Rivera,Biology,Volunteer Group,Leadership,Null,Null,Null,Null,Boston,Senior,Psychology,3.08,Japanese, English, German,Null,Null,Sustainable Agriculture,38.0
+456,Devin Dixon,Mathematics,Debate Club,Public Speaking, Problem Solving, Data Analysis, Leadership,Null,Houston,Junior,Computer Science,3.65,French, German, Spanish, English,Null,Blockchain Technology,78.0
+457,Michelle Guzman,History,Sports Team,Artistic, Leadership, Problem Solving, Public Speaking, Programming,New York,Freshman,History,2.01,Spanish, Chinese, French, English, Japanese,Climate Change,23.0
+458,Lindsay Austin,History,Music Club,Public Speaking, Programming,Null,Null,Null,San Francisco,Senior,Biology,3.61,German, Japanese, English, French, Chinese,Machine Learning,74.0
+459,Cindy Garcia,Physics,Music Club,Programming, Leadership,Null,Null,Null,Los Angeles,Senior,Mathematics,3.48,Spanish, German, Japanese, French, Chinese,Climate Change,67.0
+460,Jacob Morrison,History,Coding Club,Data Analysis, Programming, Problem Solving, Leadership, Public Speaking,Houston,Graduate,Psychology,2.38,Spanish, Japanese, English, German,Null,Healthcare Management,16.0
+461,Charles Zamora,Mathematics,Music Club,Data Analysis,Null,Null,Null,Null,Houston,Junior,History,3.35,French,Null,Null,Null,Null,Cybersecurity,41.0
+462,Tyler Brown,Mathematics,Debate Club,Leadership, Public Speaking, Data Analysis, Programming,Null,New York,Senior,Mathematics,2.84,German, Spanish, French, Japanese, Chinese,Educational Technology,23.0
+463,Michael Mendoza,History,Sports Team,Programming, Artistic, Data Analysis,Null,Null,Los Angeles,Freshman,History,2.65,Japanese,Null,Null,Null,Null,Sustainable Agriculture,1.0
+464,Christopher Green,Computer Science,Sports Team,Programming, Public Speaking, Leadership, Artistic, Data Analysis,Boston,Junior,Biology,2.85,German, Japanese, French,Null,Null,Climate Change,21.0
+465,Jessica Lee,Mathematics,Music Club,Problem Solving, Programming, Public Speaking,Null,Null,New York,Graduate,History,3.45,Spanish,Null,Null,Null,Null,Bioinformatics,56.0
+466,Jennifer Alexander,Mathematics,Coding Club,Artistic, Leadership, Data Analysis,Null,Null,Los Angeles,Senior,Biology,2.69,Spanish, Japanese,Null,Null,Null,Machine Learning,20.0
+467,Jonathan Greer,History,Debate Club,Programming, Leadership, Data Analysis, Problem Solving, Artistic,Los Angeles,Senior,Mathematics,2.7,Japanese, French,Null,Null,Null,Behavioral Economics,7.0
+468,Joshua Garrison,Mathematics,Sports Team,Leadership, Public Speaking, Artistic, Programming, Problem Solving,Houston,Graduate,History,2.96,Spanish, Japanese, Chinese, German,Null,Natural Language Processing,10.0
+469,Jeffery Richardson,History,Art Club,Public Speaking,Null,Null,Null,Null,Los Angeles,Graduate,History,3.16,Japanese, German, French, English, Spanish,Astrophysics,27.0
+470,Ashley Frost,History,Music Club,Programming, Leadership, Data Analysis, Public Speaking, Artistic,Los Angeles,Sophomore,Psychology,2.57,Spanish, French,Null,Null,Null,Quantum Computing,19.0
+471,Anna Rivas,History,Art Club,Leadership, Data Analysis, Public Speaking, Artistic,Null,Houston,Sophomore,Physics,3.14,Chinese, German,Null,Null,Null,Astrophysics,28.0
+472,Jamie Barton,History,Coding Club,Public Speaking, Leadership, Programming, Problem Solving, Data Analysis,Los Angeles,Sophomore,Biology,3.51,English, Japanese, German, Spanish, Chinese,Social Sciences,64.0
+473,William Moran,Computer Science,Volunteer Group,Problem Solving, Leadership, Programming, Public Speaking,Null,Chicago,Senior,Mathematics,2.76,French, Chinese, German,Null,Null,Astrophysics,9.0
+474,Bethany Miles,Biology,Art Club,Artistic, Programming,Null,Null,Null,Houston,Freshman,Mathematics,2.02,French, German, English,Null,Null,Astrophysics,25.0
+475,Charles Johnson,Biology,Music Club,Artistic, Leadership, Problem Solving, Programming, Data Analysis,Los Angeles,Senior,Computer Science,2.01,Spanish, French,Null,Null,Null,Bioinformatics,23.0
+476,Matthew Alvarez,Psychology,Music Club,Public Speaking, Problem Solving, Artistic,Null,Null,Los Angeles,Junior,Biology,3.73,Chinese, Spanish, German, French, English,Natural Language Processing,79.0
+477,Susan Tyler,Biology,Sports Team,Public Speaking,Null,Null,Null,Null,San Francisco,Graduate,Psychology,2.16,Chinese,Null,Null,Null,Null,Climate Change,7.0
+478,Whitney Moore,Computer Science,Debate Club,Problem Solving, Leadership,Null,Null,Null,Chicago,Graduate,Biology,3.51,German, Spanish, English, Japanese,Null,Urban Planning,59.0
+479,Sean Austin,Physics,Sports Team,Problem Solving, Data Analysis, Public Speaking, Programming,Null,San Francisco,Junior,Physics,3.85,Japanese, Chinese, German, English, French,Natural Language Processing,90.0
+480,David Ramos,Physics,Music Club,Programming, Problem Solving,Null,Null,Null,Los Angeles,Graduate,History,3.23,English, German, Spanish, Japanese,Null,Healthcare Management,54.0
+481,Megan Powell,Psychology,Sports Team,Artistic, Programming, Data Analysis, Public Speaking, Problem Solving,Boston,Senior,Physics,2.12,French,Null,Null,Null,Null,Social Sciences,21.0
+482,Rachel Gonzalez,Mathematics,Art Club,Problem Solving, Leadership, Artistic, Data Analysis,Null,Chicago,Senior,History,3.67,Japanese, German,Null,Null,Null,Cognitive Psychology,73.0
+483,Leah Campbell,Computer Science,Debate Club,Artistic, Problem Solving, Leadership, Data Analysis, Public Speaking,Los Angeles,Freshman,Biology,2.25,English,Null,Null,Null,Null,Renewable Energy,19.0
+484,Mandy Allison,Biology,Music Club,Data Analysis, Leadership,Null,Null,Null,New York,Junior,History,2.75,English, German,Null,Null,Null,Climate Change,14.0
+485,Paul Payne,Psychology,Coding Club,Data Analysis,Null,Null,Null,Null,Los Angeles,Freshman,Computer Science,2.88,English, French, Japanese, Chinese,Null,Political Science,9.0
+486,Brian Harrison,Physics,Music Club,Problem Solving, Data Analysis, Programming,Null,Null,San Francisco,Graduate,Biology,2.6,French, Japanese, German, English, Spanish,Astrophysics,0.0
+487,Valerie Walton,Biology,Art Club,Artistic, Leadership, Data Analysis, Problem Solving,Null,Los Angeles,Junior,Biology,3.79,Chinese, Japanese, French, German, English,Political Science,79.0
+488,Michelle Compton,Computer Science,Coding Club,Programming,Null,Null,Null,Null,Los Angeles,Junior,History,3.04,Spanish, Chinese, Japanese, German, English,Political Science,37.0
+489,Traci Young,Biology,Debate Club,Programming, Problem Solving, Artistic, Data Analysis,Null,New York,Freshman,History,3.39,Spanish, English, Japanese, Chinese,Null,Healthcare Management,47.0
+490,Michael Reed,Computer Science,Debate Club,Artistic, Data Analysis, Problem Solving, Public Speaking, Programming,Houston,Junior,Physics,2.35,English, Japanese, Spanish, German,Null,Renewable Energy,10.0
+491,Karen Hoffman,Biology,Sports Team,Leadership, Programming, Public Speaking, Artistic,Null,Los Angeles,Graduate,History,2.29,German, Spanish,Null,Null,Null,Biomedical Engineering,6.0
+492,Jacob Sanchez,Mathematics,Sports Team,Leadership, Problem Solving, Data Analysis, Artistic, Programming,San Francisco,Senior,History,3.17,German,Null,Null,Null,Null,Healthcare Management,37.0
+493,Scott Cross,Mathematics,Coding Club,Programming,Null,Null,Null,Null,New York,Senior,Psychology,2.62,Japanese, Spanish, English, Chinese, German,Astrophysics,19.0
+494,Brian Tucker,History,Sports Team,Artistic, Leadership, Data Analysis,Null,Null,San Francisco,Junior,Mathematics,2.74,Chinese, French, Spanish, Japanese,Null,Sustainable Agriculture,6.0
+495,Kevin Haynes,Mathematics,Art Club,Artistic, Leadership,Null,Null,Null,San Francisco,Sophomore,History,3.14,French, Japanese, German, Spanish, English,Biomedical Engineering,29.0
+496,Mark Pruitt,Psychology,Debate Club,Programming,Null,Null,Null,Null,Houston,Graduate,Biology,2.63,French, German,Null,Null,Null,Data Science,7.0
+497,Samuel Craig,Biology,Sports Team,Data Analysis, Problem Solving, Artistic,Null,Null,Boston,Sophomore,Psychology,3.97,German,Null,Null,Null,Null,Healthcare Management,97.0
+498,Jennifer Evans,Mathematics,Debate Club,Public Speaking,Null,Null,Null,Null,New York,Freshman,Mathematics,3.38,German, French, Spanish, English, Chinese,Cybersecurity,50.0
+499,Anthony Fritz,Mathematics,Music Club,Data Analysis, Leadership, Artistic, Problem Solving, Programming,Houston,Junior,Mathematics,3.14,Spanish, Japanese,Null,Null,Null,Biomedical Engineering,35.0
+500,Mindy Brown,Computer Science,Coding Club,Artistic, Programming, Data Analysis, Problem Solving, Public Speaking,Los Angeles,Graduate,Biology,2.71,French, English, German,Null,Null,Blockchain Technology,13.0
+501,Charlene Tucker,Physics,Volunteer Group,Data Analysis, Programming, Artistic, Problem Solving, Public Speaking,Boston,Senior,Biology,2.28,English, French, German, Chinese, Japanese,Environmental Sustainability,10.0
+502,Sarah Haynes,Physics,Sports Team,Data Analysis,Null,Null,Null,Null,New York,Senior,Physics,2.06,French, English, German, Chinese, Japanese,Blockchain Technology,7.0
+503,Sarah Valdez,Computer Science,Coding Club,Public Speaking, Problem Solving, Data Analysis, Programming, Artistic,Houston,Graduate,Biology,3.11,Chinese, English, Japanese, German,Null,Educational Technology,37.0
+504,Margaret Ortega,Physics,Debate Club,Data Analysis, Artistic, Leadership, Programming, Public Speaking,Los Angeles,Senior,History,3.28,English, German, Chinese, Japanese, Spanish,Sustainable Agriculture,45.0
+505,Nancy Gonzalez,Mathematics,Debate Club,Programming, Artistic, Data Analysis,Null,Null,Houston,Senior,Psychology,3.15,French, Japanese, English, Spanish, German,Cognitive Psychology,38.0
+506,Jennifer Bright,Mathematics,Volunteer Group,Data Analysis, Problem Solving, Programming, Public Speaking, Leadership,New York,Junior,Psychology,3.84,Japanese, English, German, Chinese, French,Astrophysics,91.0
+507,Christopher Alvarez,History,Music Club,Leadership, Public Speaking, Artistic, Programming, Data Analysis,San Francisco,Graduate,Psychology,2.59,Japanese, Chinese, Spanish,Null,Null,Nanotechnology,13.0
+508,Maria Clark,Computer Science,Music Club,Problem Solving, Public Speaking, Programming, Artistic,Null,Houston,Graduate,History,2.06,Spanish, English, Japanese, German, French,Nanotechnology,24.0
+509,Erin Martin,Physics,Debate Club,Data Analysis, Public Speaking,Null,Null,Null,New York,Senior,Physics,3.97,English, Chinese,Null,Null,Null,Sustainable Agriculture,97.0
+510,Dillon Reese,Computer Science,Coding Club,Public Speaking, Programming, Problem Solving, Leadership, Data Analysis,Boston,Junior,History,3.22,Spanish, Chinese, English, French,Null,Behavioral Economics,46.0
+511,Ryan Townsend,Mathematics,Sports Team,Programming,Null,Null,Null,Null,San Francisco,Sophomore,Physics,3.66,English, Spanish, Chinese, German, Japanese,Machine Learning,83.0
+512,Ryan Weber,Physics,Debate Club,Leadership, Public Speaking, Data Analysis, Problem Solving, Programming,Chicago,Freshman,Physics,2.8,German, Japanese, Chinese, Spanish, English,Behavioral Economics,19.0
+513,Kathy Jackson,Psychology,Sports Team,Data Analysis, Artistic, Problem Solving,Null,Null,Los Angeles,Junior,Biology,2.55,German, English,Null,Null,Null,Climate Change,4.0
+514,Heather Smith,Computer Science,Coding Club,Data Analysis, Artistic, Public Speaking, Problem Solving,Null,Boston,Sophomore,Computer Science,2.71,Japanese, German, Spanish, English,Null,Renewable Energy,25.0
+515,Anthony Bernard,Computer Science,Art Club,Data Analysis, Public Speaking,Null,Null,Null,Boston,Freshman,Biology,3.62,Japanese, Spanish, Chinese, English, French,Sustainable Agriculture,80.0
+516,Brian Stewart,Computer Science,Art Club,Problem Solving,Null,Null,Null,Null,Houston,Sophomore,Mathematics,2.73,French, Spanish,Null,Null,Null,Healthcare Management,8.0
+517,Shannon Brown,History,Music Club,Problem Solving, Artistic,Null,Null,Null,Los Angeles,Sophomore,Biology,2.87,German,Null,Null,Null,Null,Cognitive Psychology,5.0
+518,Brian Sanchez,Physics,Volunteer Group,Programming, Artistic, Problem Solving,Null,Null,San Francisco,Freshman,Psychology,2.77,Japanese, Chinese, French, English,Null,Social Sciences,19.0
+519,Lisa Young,Computer Science,Art Club,Data Analysis, Artistic, Leadership,Null,Null,Boston,Graduate,Physics,3.07,Chinese, Japanese, French, German,Null,Renewable Energy,26.0
+520,Shelly Mckinney,Computer Science,Art Club,Artistic, Programming, Problem Solving,Null,Null,Boston,Sophomore,Psychology,3.63,Japanese, English, Chinese, French, German,Environmental Sustainability,83.0
+521,Rhonda Murphy,Biology,Art Club,Artistic, Leadership, Data Analysis,Null,Null,Houston,Sophomore,History,3.43,German, Japanese, Chinese, Spanish, English,Political Science,60.0
+522,Jamie Rasmussen,Biology,Music Club,Artistic,Null,Null,Null,Null,San Francisco,Sophomore,History,3.57,English, French, Chinese,Null,Null,Biomedical Engineering,64.0
+523,Jennifer Mcguire,Biology,Debate Club,Data Analysis, Artistic, Programming, Problem Solving, Leadership,Los Angeles,Freshman,Psychology,3.35,English, Chinese, German, Spanish, Japanese,Astrophysics,51.0
+524,Melissa Reynolds,Biology,Coding Club,Data Analysis,Null,Null,Null,Null,New York,Graduate,Physics,2.55,Chinese,Null,Null,Null,Null,Healthcare Management,23.0
+525,Sandra Branch,Biology,Music Club,Programming, Problem Solving, Public Speaking,Null,Null,New York,Freshman,Computer Science,3.89,Japanese, Spanish, Chinese, German, English,Political Science,93.0
+526,Austin Faulkner,Psychology,Volunteer Group,Public Speaking, Problem Solving,Null,Null,Null,Los Angeles,Junior,Physics,3.72,Spanish, German,Null,Null,Null,Environmental Sustainability,75.0
+527,James Johns,Computer Science,Volunteer Group,Programming,Null,Null,Null,Null,Boston,Junior,Physics,3.62,Chinese, Spanish, English, Japanese, German,Climate Change,77.0
+528,Raymond Haynes,Physics,Sports Team,Public Speaking, Leadership, Programming, Artistic,Null,Los Angeles,Freshman,Physics,3.58,French, English, Chinese, Spanish, German,Data Science,63.0
+529,Nicole Webb,Biology,Volunteer Group,Problem Solving, Leadership, Data Analysis, Artistic,Null,New York,Sophomore,Mathematics,3.61,German, Japanese,Null,Null,Null,Natural Language Processing,71.0
+530,Katrina Lamb,Mathematics,Music Club,Problem Solving,Null,Null,Null,Null,Chicago,Freshman,Physics,3.6,German, Chinese, English, Spanish,Null,Behavioral Economics,59.0
+531,Maria Bush,Physics,Debate Club,Public Speaking, Programming, Problem Solving,Null,Null,Boston,Freshman,Psychology,3.13,Chinese, German, English, Japanese,Null,Sustainable Agriculture,37.0
+532,Gail Bowman,Mathematics,Coding Club,Programming, Problem Solving, Data Analysis, Leadership, Public Speaking,Houston,Freshman,History,3.85,German, Japanese, Spanish, French,Null,Cybersecurity,88.0
+533,Susan Wallace,Mathematics,Debate Club,Leadership, Artistic, Programming, Public Speaking, Problem Solving,San Francisco,Junior,Computer Science,3.4,Japanese, German, Chinese,Null,Null,Blockchain Technology,48.0
+534,Bonnie Turner,Biology,Debate Club,Programming, Artistic, Problem Solving,Null,Null,Chicago,Senior,Computer Science,4.0,Chinese, French, Spanish, Japanese, German,Political Science,93.0
+535,Melissa Randolph,Psychology,Volunteer Group,Programming,Null,Null,Null,Null,New York,Graduate,History,3.37,Japanese, Spanish, French, English, Chinese,Quantum Computing,41.0
+536,Zachary Guzman,Mathematics,Sports Team,Artistic, Programming, Public Speaking, Data Analysis, Problem Solving,San Francisco,Sophomore,Biology,3.81,German, English,Null,Null,Null,Cybersecurity,92.0
+537,Ian Gordon,Computer Science,Debate Club,Programming, Artistic, Data Analysis, Problem Solving, Public Speaking,San Francisco,Senior,Psychology,2.59,Japanese, Chinese, German, French,Null,Nanotechnology,11.0
+538,Casey Mitchell,Computer Science,Volunteer Group,Public Speaking, Leadership, Problem Solving,Null,Null,Houston,Sophomore,Physics,2.94,German, Spanish, Chinese, French, Japanese,Space Exploration,25.0
+539,Luke Patel,History,Art Club,Public Speaking, Leadership, Problem Solving,Null,Null,Los Angeles,Senior,Psychology,3.58,German, Japanese, Spanish, English,Null,Urban Planning,57.0
+540,Peter Richardson,Computer Science,Sports Team,Problem Solving,Null,Null,Null,Null,San Francisco,Graduate,History,3.78,Chinese, Spanish, Japanese, English,Null,Bioinformatics,72.0
+541,Jamie Simon,Mathematics,Music Club,Problem Solving,Null,Null,Null,Null,Boston,Sophomore,History,2.55,Chinese, Japanese, French,Null,Null,Human-Computer Interaction,20.0
+542,Kelly Cooke,Psychology,Sports Team,Programming, Data Analysis, Leadership, Artistic, Public Speaking,Houston,Senior,Mathematics,2.24,English,Null,Null,Null,Null,Environmental Sustainability,18.0
+543,Richard Carey,Physics,Debate Club,Data Analysis, Leadership, Public Speaking, Artistic,Null,Boston,Sophomore,Biology,3.39,German,Null,Null,Null,Null,Social Sciences,41.0
+544,Austin Dalton,Mathematics,Sports Team,Leadership, Public Speaking, Data Analysis, Artistic,Null,Los Angeles,Senior,Physics,3.84,English, German, Chinese,Null,Null,Political Science,92.0
+545,Jamie James,Psychology,Coding Club,Problem Solving, Programming, Data Analysis, Leadership, Public Speaking,Houston,Sophomore,Biology,2.36,Japanese, French, English,Null,Null,Cybersecurity,24.0
+546,Jessica Johnson,History,Sports Team,Artistic, Public Speaking, Problem Solving, Data Analysis, Leadership,Chicago,Junior,Physics,2.37,French, German,Null,Null,Null,Quantum Computing,19.0
+547,Alexander Leblanc,Mathematics,Sports Team,Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic,Houston,Sophomore,Physics,3.31,German, Spanish,Null,Null,Null,Educational Technology,52.0
+548,Brooke Hernandez,Computer Science,Volunteer Group,Data Analysis, Artistic, Problem Solving,Null,Null,Los Angeles,Junior,Psychology,3.23,German, English, Spanish, Japanese,Null,Artificial Intelligence,46.0
+549,Amy Reese,Psychology,Art Club,Problem Solving, Public Speaking, Artistic,Null,Null,Los Angeles,Senior,Psychology,3.56,French, English, German, Chinese, Japanese,Climate Change,58.0
+550,Rebecca Jordan,Psychology,Music Club,Public Speaking,Null,Null,Null,Null,New York,Graduate,Computer Science,3.78,French,Null,Null,Null,Null,Environmental Sustainability,84.0
+551,Monica Delacruz,Biology,Debate Club,Public Speaking,Null,Null,Null,Null,Houston,Senior,History,3.07,French, English, Chinese,Null,Null,Social Sciences,39.0
+552,Christine Pena,Biology,Debate Club,Problem Solving, Leadership, Data Analysis, Artistic,Null,San Francisco,Graduate,Mathematics,2.91,Chinese, French, Japanese, Spanish,Null,Cognitive Psychology,19.0
+553,Samantha Banks,History,Sports Team,Data Analysis, Public Speaking, Programming, Problem Solving,Null,Houston,Graduate,Mathematics,3.72,German,Null,Null,Null,Null,Space Exploration,79.0
+554,Michael Combs,Mathematics,Debate Club,Problem Solving, Artistic, Programming,Null,Null,San Francisco,Senior,Physics,3.16,German, French,Null,Null,Null,Social Sciences,38.0
+555,Johnny Bailey,History,Music Club,Problem Solving, Artistic, Programming,Null,Null,Chicago,Sophomore,Computer Science,2.12,German, Spanish,Null,Null,Null,Machine Learning,0.0
+556,Jennifer Nelson,Biology,Debate Club,Leadership, Programming, Problem Solving,Null,Null,Houston,Freshman,Mathematics,2.54,English,Null,Null,Null,Null,Sustainable Agriculture,4.0
+557,Tracy Jordan,Mathematics,Art Club,Problem Solving, Artistic, Programming, Public Speaking, Leadership,Los Angeles,Senior,Biology,3.5,German, Japanese,Null,Null,Null,Space Exploration,65.0
+558,Dawn Graves,History,Sports Team,Artistic, Leadership, Problem Solving, Programming, Data Analysis,Los Angeles,Senior,Psychology,3.53,Chinese, Japanese, Spanish, French, German,Nanotechnology,62.0
+559,Michael Woods,Biology,Sports Team,Public Speaking, Data Analysis, Programming, Leadership,Null,New York,Junior,Psychology,3.9,Japanese, English, French, German, Spanish,Blockchain Technology,99.0
+560,Mia Riley,Psychology,Coding Club,Public Speaking, Artistic,Null,Null,Null,Los Angeles,Sophomore,History,2.62,Japanese, German,Null,Null,Null,Blockchain Technology,5.0
+561,William Scott,Mathematics,Music Club,Artistic, Leadership, Public Speaking, Programming, Data Analysis,Chicago,Freshman,Biology,2.98,Spanish, Chinese,Null,Null,Null,Robotics,25.0
+562,David Villegas,Physics,Volunteer Group,Artistic, Programming, Problem Solving, Leadership, Public Speaking,Chicago,Senior,Biology,3.16,Japanese, French, German, English, Chinese,Environmental Sustainability,29.0
+563,Melissa Palmer,History,Volunteer Group,Data Analysis,Null,Null,Null,Null,San Francisco,Junior,Computer Science,3.02,Japanese, Spanish, German,Null,Null,Political Science,37.0
+564,Christian Harrison,Mathematics,Music Club,Data Analysis, Public Speaking,Null,Null,Null,New York,Sophomore,History,2.63,German, Chinese, Japanese, Spanish,Null,Healthcare Management,12.0
+565,Christopher Joseph,Biology,Volunteer Group,Data Analysis, Leadership, Public Speaking, Artistic,Null,New York,Freshman,Physics,2.8,Japanese, German,Null,Null,Null,Biomedical Engineering,19.0
+566,Grant Flores,Biology,Music Club,Public Speaking, Problem Solving, Programming, Artistic, Data Analysis,Houston,Freshman,Mathematics,3.8,German, English, French, Chinese, Spanish,Political Science,83.0
+567,Michael Greer,Mathematics,Music Club,Public Speaking, Programming,Null,Null,Null,New York,Junior,Psychology,2.56,French, Chinese, English,Null,Null,Machine Learning,10.0
+568,Daniel Davila,Psychology,Sports Team,Programming, Problem Solving, Data Analysis, Leadership, Artistic,San Francisco,Graduate,Biology,3.55,English, Japanese, German, Spanish,Null,Space Exploration,58.0
+569,Samantha Henry,History,Art Club,Data Analysis,Null,Null,Null,Null,Los Angeles,Senior,Biology,2.95,French,Null,Null,Null,Null,Astrophysics,10.0
+570,Lynn Sparks,Biology,Coding Club,Leadership, Data Analysis, Artistic,Null,Null,Chicago,Freshman,Mathematics,2.24,Chinese, Japanese, French, German, English,Quantum Computing,18.0
+571,Corey Stanton,Mathematics,Music Club,Public Speaking, Programming, Artistic,Null,Null,Boston,Senior,History,3.96,German, Spanish, Chinese, English, French,Astrophysics,91.0
+572,Christopher Thomas,Psychology,Debate Club,Artistic, Data Analysis,Null,Null,Null,San Francisco,Senior,Mathematics,2.82,German, Chinese, Japanese, French,Null,Astrophysics,22.0
+573,Jennifer Gonzalez,History,Debate Club,Programming, Artistic, Leadership, Public Speaking, Problem Solving,Boston,Junior,Mathematics,3.5,Chinese, Spanish, Japanese,Null,Null,Cybersecurity,62.0
+574,Dana White,Psychology,Debate Club,Leadership,Null,Null,Null,Null,New York,Graduate,Mathematics,3.97,Spanish, Chinese, French,Null,Null,Social Sciences,93.0
+575,Justin Reeves,Physics,Coding Club,Problem Solving, Artistic, Programming, Public Speaking, Data Analysis,New York,Graduate,Psychology,2.89,Spanish, Japanese,Null,Null,Null,Cognitive Psychology,22.0
+576,Guy Myers,Computer Science,Volunteer Group,Artistic, Problem Solving, Leadership, Public Speaking,Null,Boston,Graduate,Physics,2.9,French, Spanish, German, English, Chinese,Blockchain Technology,23.0
+577,Karen Larson,Psychology,Art Club,Public Speaking,Null,Null,Null,Null,Boston,Graduate,Physics,3.06,German, Chinese, Japanese, French, Spanish,Human-Computer Interaction,29.0
+578,Daniel Padilla,Computer Science,Volunteer Group,Programming, Public Speaking, Artistic, Problem Solving,Null,Boston,Graduate,Biology,3.41,Spanish, English, Japanese,Null,Null,Quantum Computing,62.0
+579,Bradley Pham,History,Coding Club,Public Speaking, Programming, Leadership,Null,Null,New York,Senior,History,3.35,English, Spanish,Null,Null,Null,Human-Computer Interaction,46.0
+580,Taylor Lee,Mathematics,Volunteer Group,Leadership, Problem Solving,Null,Null,Null,Los Angeles,Freshman,History,2.46,Chinese, English, German,Null,Null,Educational Technology,7.0
+581,Nancy Miller,Mathematics,Art Club,Programming, Data Analysis, Artistic, Public Speaking, Problem Solving,Houston,Graduate,Biology,2.43,French, English,Null,Null,Null,Urban Planning,18.0
+582,Scott Reyes,Biology,Coding Club,Artistic,Null,Null,Null,Null,Boston,Sophomore,History,3.89,Spanish, French,Null,Null,Null,Machine Learning,87.0
+583,Daniel Lucas,Mathematics,Sports Team,Artistic,Null,Null,Null,Null,Houston,Junior,Biology,2.79,English, Spanish, Japanese,Null,Null,Urban Planning,13.0
+584,Samantha Wilson,Physics,Volunteer Group,Programming, Public Speaking, Data Analysis,Null,Null,San Francisco,Graduate,Physics,2.09,French, English,Null,Null,Null,Social Sciences,3.0
+585,Michelle Navarro,Psychology,Coding Club,Public Speaking, Artistic, Problem Solving, Programming,Null,Los Angeles,Junior,Biology,2.79,Japanese, Chinese,Null,Null,Null,Cybersecurity,6.0
+586,Robert Sweeney,Physics,Volunteer Group,Programming, Artistic, Leadership, Public Speaking, Data Analysis,Los Angeles,Freshman,History,3.65,German, Japanese, Spanish,Null,Null,Data Science,82.0
+587,Robert Harmon,Mathematics,Art Club,Programming, Problem Solving,Null,Null,Null,Chicago,Sophomore,Psychology,2.5,Japanese, English,Null,Null,Null,Nanotechnology,16.0
+588,Donald Bailey,Psychology,Music Club,Leadership, Artistic, Data Analysis,Null,Null,Houston,Graduate,History,2.67,English,Null,Null,Null,Null,Bioinformatics,9.0
+589,Daniel Mcguire,Biology,Volunteer Group,Data Analysis, Leadership, Artistic, Programming, Problem Solving,Houston,Sophomore,Mathematics,2.87,French, English, Chinese, Japanese,Null,Renewable Energy,9.0
+590,James Davis,History,Music Club,Problem Solving, Programming, Leadership, Artistic, Data Analysis,Boston,Junior,Biology,2.48,French, Japanese,Null,Null,Null,Cybersecurity,22.0
+591,Rhonda Mcmahon,Biology,Volunteer Group,Problem Solving,Null,Null,Null,Null,New York,Sophomore,Mathematics,3.45,Chinese, German, English, Japanese, French,Behavioral Economics,68.0
+592,Eddie Mcdaniel,Mathematics,Debate Club,Problem Solving, Artistic, Public Speaking, Leadership,Null,Chicago,Freshman,Psychology,3.33,Spanish, Chinese, English, Japanese,Null,Climate Change,51.0
+593,Tammy Alvarez,Biology,Coding Club,Public Speaking, Leadership, Problem Solving,Null,Null,New York,Sophomore,Physics,3.65,German, English, French,Null,Null,Political Science,75.0
+594,Patrick Miller,History,Music Club,Artistic, Public Speaking, Problem Solving, Data Analysis,Null,New York,Freshman,Computer Science,2.91,French, Spanish, English, Chinese, Japanese,Healthcare Management,19.0
+595,Sarah Brown,Psychology,Volunteer Group,Public Speaking, Artistic, Problem Solving, Data Analysis, Programming,Houston,Sophomore,Mathematics,3.43,Japanese, German, French, Spanish, Chinese,Data Science,64.0
+596,Charles Hicks,History,Debate Club,Artistic, Problem Solving, Programming, Leadership,Null,Boston,Senior,Computer Science,3.92,German, Chinese, Spanish,Null,Null,Political Science,86.0
+597,Monica Norris,History,Art Club,Artistic, Leadership, Programming, Public Speaking, Data Analysis,Boston,Sophomore,Computer Science,3.36,French, Spanish, German, Japanese, Chinese,Behavioral Economics,46.0
+598,Jennifer Skinner,History,Music Club,Leadership, Public Speaking, Programming, Artistic,Null,Houston,Junior,History,2.57,Spanish,Null,Null,Null,Null,Data Science,10.0
+599,Nicolas Campbell,Computer Science,Music Club,Problem Solving, Leadership, Programming, Artistic,Null,Houston,Senior,Psychology,2.49,German, Japanese, Chinese, English, Spanish,Artificial Intelligence,4.0
+600,Jesse Parker,History,Music Club,Data Analysis, Programming, Problem Solving,Null,Null,New York,Graduate,Physics,2.8,Spanish, French,Null,Null,Null,Behavioral Economics,4.0
+601,Ashley Russell,Psychology,Volunteer Group,Leadership, Public Speaking, Problem Solving, Artistic, Data Analysis,Los Angeles,Graduate,Psychology,2.85,Chinese, English, French, German,Null,Quantum Computing,6.0
+602,Frank Brown,History,Sports Team,Data Analysis, Programming, Public Speaking,Null,Null,Los Angeles,Graduate,Mathematics,3.96,English, Chinese, Spanish, French,Null,Environmental Sustainability,90.0
+603,Matthew Mendez,History,Art Club,Artistic, Programming, Public Speaking, Data Analysis, Problem Solving,Los Angeles,Senior,Computer Science,2.13,German,Null,Null,Null,Null,Cognitive Psychology,9.0
+604,Karen Jackson,Physics,Volunteer Group,Public Speaking, Artistic,Null,Null,Null,Chicago,Sophomore,Physics,2.51,English,Null,Null,Null,Null,Machine Learning,11.0
+605,Adam Montgomery,Mathematics,Debate Club,Programming, Artistic, Leadership,Null,Null,Boston,Junior,Computer Science,3.27,English, Chinese, Spanish, Japanese, German,Urban Planning,42.0
+606,Justin Willis,History,Volunteer Group,Problem Solving, Artistic,Null,Null,Null,Houston,Freshman,Computer Science,2.69,Japanese, German, Chinese, Spanish,Null,Urban Planning,14.0
+607,Teresa Cross,Psychology,Coding Club,Public Speaking, Programming, Problem Solving, Leadership, Data Analysis,Houston,Graduate,Computer Science,2.8,German, Japanese, French,Null,Null,Climate Change,21.0
+608,James Graham,Physics,Music Club,Problem Solving, Data Analysis,Null,Null,Null,Houston,Junior,Computer Science,3.04,French, Chinese, Spanish,Null,Null,Renewable Energy,35.0
+609,Lisa Anderson,History,Music Club,Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership,San Francisco,Junior,Physics,3.46,English, Spanish, Chinese, German,Null,Cybersecurity,62.0
+610,Jennifer Walker,Mathematics,Coding Club,Public Speaking, Programming, Data Analysis, Leadership, Problem Solving,Los Angeles,Freshman,Computer Science,2.95,Spanish, German, French,Null,Null,Healthcare Management,20.0
+611,Austin Castillo,Computer Science,Coding Club,Artistic,Null,Null,Null,Null,Chicago,Graduate,Physics,3.73,German, Japanese, English, Spanish, French,Political Science,71.0
+612,Sean Robinson,Biology,Sports Team,Public Speaking, Problem Solving, Data Analysis, Artistic, Leadership,Los Angeles,Sophomore,Psychology,2.89,German, Chinese, Spanish, English, Japanese,Climate Change,13.0
+613,Jessica White,History,Art Club,Leadership, Problem Solving, Programming, Data Analysis, Artistic,San Francisco,Freshman,Biology,2.41,Chinese, Japanese, English,Null,Null,Artificial Intelligence,0.0
+614,Daniel Stephenson,Computer Science,Coding Club,Leadership, Public Speaking,Null,Null,Null,San Francisco,Senior,Mathematics,3.14,French, Spanish, Chinese, English, Japanese,Biomedical Engineering,34.0
+615,Linda Evans,Mathematics,Volunteer Group,Public Speaking, Artistic,Null,Null,Null,New York,Freshman,Psychology,2.04,Japanese, English, Spanish,Null,Null,Behavioral Economics,8.0
+616,Robert Patterson,Physics,Debate Club,Programming,Null,Null,Null,Null,Los Angeles,Senior,History,3.39,English, Spanish,Null,Null,Null,Climate Change,46.0
+617,Taylor Braun,Physics,Art Club,Artistic, Public Speaking, Data Analysis, Programming,Null,Los Angeles,Freshman,Physics,2.2,Spanish, English, German, Japanese,Null,Social Sciences,24.0
+618,Jay Garcia,History,Sports Team,Data Analysis,Null,Null,Null,Null,Chicago,Junior,Biology,3.32,Spanish, Chinese, French, Japanese, English,Biomedical Engineering,49.0
+619,Lawrence Morrow,Computer Science,Coding Club,Programming,Null,Null,Null,Null,Los Angeles,Senior,Computer Science,3.69,Japanese, French, Chinese, English, German,Astrophysics,80.0
+620,Tammy Higgins,Computer Science,Coding Club,Programming, Public Speaking,Null,Null,Null,San Francisco,Sophomore,History,3.06,French, Japanese, Spanish, Chinese,Null,Cognitive Psychology,40.0
+621,Paul Cooper,Psychology,Volunteer Group,Data Analysis, Artistic,Null,Null,Null,New York,Senior,Computer Science,2.49,French, Japanese, Chinese, English, Spanish,Cybersecurity,9.0
+622,Michael Brown,Biology,Coding Club,Programming, Data Analysis, Public Speaking, Leadership, Artistic,Los Angeles,Sophomore,Mathematics,3.43,German, French, Chinese, Spanish,Null,Social Sciences,68.0
+623,Joseph Cohen,Computer Science,Volunteer Group,Public Speaking, Problem Solving, Artistic, Programming,Null,San Francisco,Freshman,Mathematics,3.81,Chinese, Japanese, French,Null,Null,Data Science,95.0
+624,Meagan Johnson,Biology,Volunteer Group,Problem Solving, Public Speaking, Artistic, Data Analysis, Programming,New York,Junior,Mathematics,3.33,Chinese, German,Null,Null,Null,Robotics,52.0
+625,Jennifer Smith,Biology,Coding Club,Data Analysis, Programming,Null,Null,Null,San Francisco,Graduate,Biology,3.52,German,Null,Null,Null,Null,Machine Learning,61.0
+626,Lori Nguyen,History,Sports Team,Artistic,Null,Null,Null,Null,Boston,Senior,History,2.76,Spanish, Chinese, Japanese, English, French,Bioinformatics,17.0
+627,Michele Jackson,Biology,Art Club,Leadership,Null,Null,Null,Null,Los Angeles,Freshman,Computer Science,3.75,English, French, Japanese, Spanish,Null,Biomedical Engineering,77.0
+628,Adam Brown,Computer Science,Art Club,Artistic, Problem Solving, Programming,Null,Null,Los Angeles,Freshman,Psychology,2.71,Japanese, English, Spanish,Null,Null,Healthcare Management,14.0
+629,Steven Valenzuela,Physics,Volunteer Group,Leadership,Null,Null,Null,Null,Los Angeles,Junior,Physics,2.13,Chinese, Japanese,Null,Null,Null,Robotics,10.0
+630,Edwin Turner,Physics,Volunteer Group,Leadership, Data Analysis, Artistic,Null,Null,San Francisco,Freshman,Physics,2.95,Spanish, German, English,Null,Null,Natural Language Processing,24.0
+631,Anna Brown,History,Coding Club,Programming, Leadership, Artistic, Data Analysis, Public Speaking,New York,Freshman,Mathematics,2.24,Japanese, Spanish, English,Null,Null,Astrophysics,20.0
+632,Kenneth Schaefer,Psychology,Music Club,Public Speaking, Artistic, Programming,Null,Null,Houston,Senior,Biology,3.93,Chinese, English, Spanish, French, German,Sustainable Agriculture,91.0
+633,Jerome Hamilton,History,Coding Club,Public Speaking, Data Analysis, Artistic, Problem Solving, Programming,Los Angeles,Graduate,Psychology,3.52,German,Null,Null,Null,Null,Blockchain Technology,56.0
+634,Kathryn Shepard,Biology,Music Club,Data Analysis, Leadership,Null,Null,Null,Los Angeles,Freshman,History,3.69,English, Japanese, German, Spanish, Chinese,Political Science,82.0
+635,Jesse Smith,Biology,Coding Club,Problem Solving, Programming, Leadership, Public Speaking,Null,San Francisco,Graduate,Computer Science,3.15,Spanish, English, French, Japanese, German,Natural Language Processing,28.0
+636,Karen Jones,Psychology,Debate Club,Programming, Public Speaking, Leadership,Null,Null,Houston,Graduate,Psychology,2.71,Spanish,Null,Null,Null,Null,Space Exploration,12.0
+637,Danny Clark,Physics,Volunteer Group,Public Speaking, Problem Solving, Artistic,Null,Null,Boston,Freshman,History,2.19,English,Null,Null,Null,Null,Cognitive Psychology,4.0
+638,William Taylor,Psychology,Sports Team,Leadership,Null,Null,Null,Null,New York,Sophomore,Psychology,3.46,English, French, Chinese, German, Japanese,Healthcare Management,57.0
+639,Karen James,Mathematics,Volunteer Group,Programming, Problem Solving, Data Analysis,Null,Null,Houston,Senior,Physics,2.71,Spanish, Chinese, German, French,Null,Urban Planning,19.0
+640,Victoria Wilson,Physics,Art Club,Artistic,Null,Null,Null,Null,Boston,Sophomore,Mathematics,3.42,Chinese, German,Null,Null,Null,Quantum Computing,57.0
+641,Leslie Lee,Mathematics,Sports Team,Artistic, Data Analysis, Programming,Null,Null,New York,Junior,Mathematics,3.61,Spanish,Null,Null,Null,Null,Sustainable Agriculture,71.0
+642,Tammy Stewart,Physics,Art Club,Problem Solving, Data Analysis, Leadership,Null,Null,Boston,Senior,Psychology,2.78,Japanese,Null,Null,Null,Null,Renewable Energy,0.0
+643,Sarah House,Biology,Music Club,Public Speaking, Data Analysis, Programming, Leadership,Null,Chicago,Graduate,Mathematics,3.64,French, German,Null,Null,Null,Blockchain Technology,75.0
+644,Frank Sharp,Physics,Debate Club,Programming, Public Speaking, Problem Solving, Data Analysis,Null,Los Angeles,Sophomore,Psychology,3.83,English,Null,Null,Null,Null,Behavioral Economics,95.0
+645,Jenna Hoover,Psychology,Art Club,Data Analysis, Artistic, Leadership, Problem Solving, Public Speaking,Boston,Senior,Biology,3.55,Chinese, English, Spanish, Japanese, German,Quantum Computing,59.0
+646,James Landry,Physics,Art Club,Problem Solving, Artistic, Leadership, Programming, Data Analysis,Los Angeles,Graduate,Physics,2.08,English,Null,Null,Null,Null,Nanotechnology,15.0
+647,Cody Lee,Computer Science,Art Club,Data Analysis, Leadership, Programming, Public Speaking, Problem Solving,San Francisco,Senior,Mathematics,3.81,Chinese, French, German,Null,Null,Data Science,95.0
+648,Monique Bartlett,Psychology,Music Club,Problem Solving, Programming, Data Analysis, Public Speaking, Leadership,Houston,Graduate,Physics,2.21,Japanese, Spanish,Null,Null,Null,Cybersecurity,9.0
+649,Amanda Harrison,Computer Science,Music Club,Leadership, Data Analysis, Programming, Problem Solving, Artistic,Houston,Sophomore,Physics,2.01,Japanese, Spanish, Chinese, German,Null,Renewable Energy,4.0
+650,James Miller,Biology,Music Club,Leadership,Null,Null,Null,Null,Los Angeles,Sophomore,History,3.74,Japanese, English,Null,Null,Null,Environmental Sustainability,76.0
+651,Maria Owen,History,Music Club,Leadership, Programming, Problem Solving, Public Speaking, Artistic,Chicago,Senior,History,3.31,Spanish, Chinese, German, French,Null,Human-Computer Interaction,41.0
+652,Shawn Wells,Computer Science,Coding Club,Data Analysis, Public Speaking, Artistic, Programming,Null,San Francisco,Senior,Physics,2.61,German, Spanish, English,Null,Null,Natural Language Processing,5.0
+653,Christopher Carter,Mathematics,Debate Club,Artistic, Public Speaking, Data Analysis, Problem Solving, Programming,Boston,Junior,History,2.47,Japanese, French,Null,Null,Null,Cybersecurity,7.0
+654,Gwendolyn Mcgrath,Mathematics,Sports Team,Artistic, Data Analysis,Null,Null,Null,San Francisco,Senior,Biology,2.14,French, English,Null,Null,Null,Sustainable Agriculture,2.0
+655,Wendy Burke,Mathematics,Music Club,Data Analysis, Artistic, Public Speaking, Problem Solving, Leadership,New York,Junior,History,2.51,Chinese, French,Null,Null,Null,Natural Language Processing,18.0
+656,Kimberly Mclean,Physics,Debate Club,Artistic, Problem Solving, Public Speaking, Data Analysis, Programming,Houston,Senior,Computer Science,2.4,English, German, French, Japanese, Spanish,Behavioral Economics,13.0
+657,David Fox,Mathematics,Volunteer Group,Programming, Public Speaking,Null,Null,Null,San Francisco,Junior,Psychology,3.96,English, German, French, Japanese,Null,Artificial Intelligence,87.0
+658,Kristina Smith,History,Music Club,Data Analysis, Problem Solving,Null,Null,Null,Houston,Freshman,Psychology,2.08,English, Chinese, Spanish,Null,Null,Environmental Sustainability,0.0
+659,Darrell Murphy,History,Art Club,Leadership, Artistic, Problem Solving,Null,Null,Boston,Sophomore,Psychology,2.8,French, Spanish,Null,Null,Null,Climate Change,4.0
+660,Richard Harrison,Computer Science,Art Club,Leadership, Programming, Public Speaking, Data Analysis, Artistic,New York,Graduate,Biology,3.38,French, Japanese,Null,Null,Null,Sustainable Agriculture,49.0
+661,David Good,History,Debate Club,Problem Solving, Leadership, Data Analysis, Public Speaking, Artistic,San Francisco,Sophomore,Physics,2.19,Spanish, French, Japanese,Null,Null,Robotics,22.0
+662,Ashley Anderson,Computer Science,Debate Club,Data Analysis, Artistic, Leadership, Programming, Problem Solving,Houston,Graduate,Computer Science,2.38,French, Chinese,Null,Null,Null,Human-Computer Interaction,16.0
+663,Marcus Taylor,Biology,Volunteer Group,Programming, Public Speaking,Null,Null,Null,New York,Sophomore,Mathematics,3.63,German, Chinese, English, French,Null,Bioinformatics,72.0
+664,Gina Brown,Biology,Art Club,Leadership, Public Speaking, Programming,Null,Null,Los Angeles,Junior,Physics,2.02,Spanish, French, Japanese, Chinese,Null,Nanotechnology,8.0
+665,Grant Castro,Biology,Sports Team,Artistic,Null,Null,Null,Null,Houston,Graduate,Psychology,3.91,Chinese, Japanese,Null,Null,Null,Urban Planning,93.0
+666,Melanie Ross,Psychology,Coding Club,Data Analysis, Problem Solving, Public Speaking, Leadership, Programming,Boston,Freshman,Physics,3.87,Chinese, English,Null,Null,Null,Renewable Energy,90.0
+667,Tina Forbes,Biology,Debate Club,Data Analysis, Leadership, Artistic, Public Speaking, Programming,San Francisco,Junior,Mathematics,2.08,German, French,Null,Null,Null,Data Science,21.0
+668,Robert Knight,Physics,Coding Club,Programming, Problem Solving, Data Analysis, Artistic, Leadership,Los Angeles,Junior,History,2.09,Spanish, German, English, Japanese, Chinese,Educational Technology,17.0
+669,William Benson,History,Sports Team,Data Analysis, Problem Solving, Programming, Leadership,Null,Houston,Junior,Biology,3.54,English,Null,Null,Null,Null,Urban Planning,63.0
+670,Samuel Weber,Mathematics,Art Club,Data Analysis,Null,Null,Null,Null,New York,Graduate,Psychology,3.54,German, Japanese,Null,Null,Null,Political Science,70.0
+671,Paul Baker,Mathematics,Art Club,Public Speaking, Leadership, Data Analysis, Programming, Problem Solving,Chicago,Junior,Psychology,3.18,German, Japanese, English,Null,Null,Natural Language Processing,39.0
+672,Diana Peters,Physics,Volunteer Group,Data Analysis, Public Speaking, Problem Solving,Null,Null,Chicago,Junior,Physics,3.38,German, Japanese, English, Chinese, Spanish,Healthcare Management,51.0
+673,Patrick Flores,Biology,Volunteer Group,Leadership, Public Speaking, Programming, Problem Solving,Null,Chicago,Graduate,Computer Science,2.41,French,Null,Null,Null,Null,Quantum Computing,15.0
+674,Walter Flowers,Biology,Debate Club,Leadership, Artistic, Programming,Null,Null,New York,Freshman,Computer Science,3.24,German, Chinese, French, Japanese, English,Machine Learning,48.0
+675,Linda Carr,Computer Science,Volunteer Group,Problem Solving, Data Analysis, Public Speaking, Leadership, Programming,San Francisco,Graduate,Biology,2.56,Spanish,Null,Null,Null,Null,Robotics,0.0
+676,Timothy Moss,Computer Science,Volunteer Group,Leadership, Public Speaking, Problem Solving,Null,Null,Houston,Graduate,Mathematics,2.93,Japanese, Spanish,Null,Null,Null,Behavioral Economics,21.0
+677,Patrick Burns,Mathematics,Music Club,Data Analysis,Null,Null,Null,Null,San Francisco,Junior,Mathematics,2.17,Spanish, German, English, French,Null,Astrophysics,14.0
+678,Jimmy Barry,Physics,Volunteer Group,Problem Solving,Null,Null,Null,Null,Los Angeles,Graduate,Biology,2.19,Spanish, English, French, Chinese,Null,Human-Computer Interaction,10.0
+679,Laura Evans,Physics,Volunteer Group,Problem Solving, Data Analysis, Public Speaking, Leadership,Null,Houston,Freshman,Psychology,2.75,Japanese, German, English,Null,Null,Robotics,24.0
+680,Cheryl Williams,Mathematics,Volunteer Group,Programming, Leadership, Data Analysis, Artistic, Public Speaking,Chicago,Freshman,Physics,3.14,Spanish, German, Chinese, French, Japanese,Natural Language Processing,39.0
+681,Kellie Kennedy,Computer Science,Debate Club,Artistic, Data Analysis, Leadership, Problem Solving, Public Speaking,Chicago,Senior,Biology,3.05,Chinese, Spanish,Null,Null,Null,Environmental Sustainability,34.0
+682,Stephen Garcia,History,Music Club,Programming, Public Speaking, Data Analysis,Null,Null,Houston,Sophomore,Mathematics,3.86,Spanish, French, German, English, Chinese,Urban Planning,88.0
+683,Matthew Blake,Computer Science,Art Club,Problem Solving, Data Analysis, Public Speaking, Programming,Null,Los Angeles,Junior,Biology,2.68,German, French, Japanese, Chinese, English,Environmental Sustainability,8.0
+684,Kayla White,Biology,Music Club,Leadership, Problem Solving, Data Analysis,Null,Null,Houston,Graduate,Computer Science,3.47,English, German, French,Null,Null,Cybersecurity,58.0
+685,Katherine Carey,Computer Science,Art Club,Artistic, Data Analysis,Null,Null,Null,Houston,Junior,History,3.13,French,Null,Null,Null,Null,Sustainable Agriculture,32.0
+686,Angelica Hardy,Computer Science,Sports Team,Leadership, Artistic,Null,Null,Null,Los Angeles,Graduate,Mathematics,2.14,Japanese, French, German, Chinese, Spanish,Biomedical Engineering,4.0
+687,Tracy Bailey,Psychology,Debate Club,Data Analysis,Null,Null,Null,Null,Boston,Junior,Biology,3.94,German, Chinese, Spanish, Japanese,Null,Behavioral Economics,95.0
+688,Brendan Peterson,Psychology,Art Club,Artistic, Public Speaking, Data Analysis, Leadership,Null,Houston,Senior,Mathematics,2.29,French,Null,Null,Null,Null,Human-Computer Interaction,23.0
+689,Kyle Johnson,Computer Science,Music Club,Artistic, Data Analysis, Problem Solving, Public Speaking, Programming,Chicago,Sophomore,History,3.06,English, Japanese, German, Chinese,Null,Renewable Energy,26.0
+690,Brooke Reed,Mathematics,Coding Club,Programming, Leadership, Problem Solving,Null,Null,Houston,Junior,Biology,2.88,German,Null,Null,Null,Null,Data Science,15.0
+691,James Olson,History,Coding Club,Data Analysis, Leadership, Artistic, Problem Solving, Programming,Houston,Graduate,Psychology,3.31,English, Japanese,Null,Null,Null,Blockchain Technology,43.0
+692,Daniel Chavez,Psychology,Sports Team,Data Analysis, Artistic, Public Speaking, Programming, Leadership,Boston,Senior,Mathematics,3.02,Japanese, French, Spanish, German,Null,Healthcare Management,31.0
+693,Courtney Harrison,Computer Science,Coding Club,Leadership,Null,Null,Null,Null,Boston,Sophomore,Computer Science,2.42,Spanish, German, English, French, Japanese,Bioinformatics,2.0
+694,Joseph Dixon,Physics,Debate Club,Leadership, Data Analysis, Programming, Problem Solving, Artistic,Chicago,Junior,Biology,2.43,English,Null,Null,Null,Null,Artificial Intelligence,23.0
+695,Tiffany Miller,Physics,Coding Club,Problem Solving, Leadership, Programming, Artistic, Data Analysis,New York,Graduate,Biology,2.45,French, Japanese,Null,Null,Null,Social Sciences,2.0
+696,Frank Aguilar,Mathematics,Debate Club,Programming,Null,Null,Null,Null,San Francisco,Sophomore,Computer Science,2.14,Chinese, German, French, Spanish,Null,Human-Computer Interaction,1.0
+697,Harold Wells,Psychology,Volunteer Group,Artistic, Data Analysis, Programming, Problem Solving, Public Speaking,Houston,Senior,Mathematics,3.85,Chinese, English,Null,Null,Null,Machine Learning,95.0
+698,John Smith,History,Art Club,Leadership, Programming, Public Speaking,Null,Null,Chicago,Senior,Computer Science,3.7,Chinese, German,Null,Null,Null,Sustainable Agriculture,75.0
+699,Matthew Brown,Biology,Coding Club,Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership,Los Angeles,Junior,Biology,2.97,Spanish, Chinese, German,Null,Null,Sustainable Agriculture,3.0
+700,Robert Meyer,Physics,Music Club,Problem Solving, Programming, Leadership, Data Analysis, Artistic,New York,Freshman,Psychology,3.77,Japanese, French, German,Null,Null,Bioinformatics,80.0
+701,Michael Lambert,History,Volunteer Group,Programming, Artistic, Leadership, Problem Solving,Null,New York,Graduate,History,2.95,Japanese, French, Chinese, Spanish, German,Bioinformatics,2.0
+702,John Hardy,Biology,Sports Team,Public Speaking, Artistic, Programming, Leadership,Null,San Francisco,Senior,Physics,3.09,English,Null,Null,Null,Null,Natural Language Processing,32.0
+703,Emily Smith,Mathematics,Debate Club,Artistic, Leadership, Public Speaking, Programming, Problem Solving,New York,Freshman,Mathematics,3.58,German, English,Null,Null,Null,Social Sciences,63.0
+704,Gary Duran,Physics,Debate Club,Leadership, Data Analysis,Null,Null,Null,New York,Senior,Computer Science,2.02,Chinese,Null,Null,Null,Null,Robotics,14.0
+705,Sarah Silva,Biology,Sports Team,Leadership,Null,Null,Null,Null,Boston,Freshman,Computer Science,3.11,French,Null,Null,Null,Null,Natural Language Processing,38.0
+706,Matthew Smith,Biology,Debate Club,Leadership, Programming, Problem Solving, Artistic,Null,New York,Sophomore,Computer Science,2.33,Japanese, Chinese, English, Spanish, German,Astrophysics,7.0
+707,Colton Wallace,Physics,Debate Club,Programming, Artistic, Public Speaking, Problem Solving, Data Analysis,San Francisco,Graduate,Physics,3.82,Chinese, French,Null,Null,Null,Nanotechnology,97.0
+708,Ryan Martin,Physics,Debate Club,Leadership, Data Analysis, Programming, Public Speaking, Problem Solving,San Francisco,Senior,Computer Science,3.24,French, English, Chinese,Null,Null,Political Science,42.0
+709,Paul Thomas,Mathematics,Sports Team,Leadership, Problem Solving, Artistic,Null,Null,San Francisco,Graduate,History,3.07,Spanish, English, French, German, Chinese,Cognitive Psychology,36.0
+710,Deborah Mills,Biology,Music Club,Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership,Los Angeles,Junior,Computer Science,2.51,Spanish, German, Chinese, Japanese, French,Educational Technology,17.0
+711,Dawn Scott,Psychology,Volunteer Group,Public Speaking, Leadership, Problem Solving, Programming, Data Analysis,San Francisco,Junior,Biology,2.82,German,Null,Null,Null,Null,Behavioral Economics,23.0
+712,Taylor Hansen,Mathematics,Art Club,Problem Solving, Leadership, Public Speaking, Artistic, Programming,Houston,Sophomore,Biology,2.86,Spanish, Chinese, German, English, Japanese,Environmental Sustainability,1.0
+713,Jason Nelson,History,Volunteer Group,Problem Solving,Null,Null,Null,Null,Houston,Sophomore,Mathematics,3.21,Chinese,Null,Null,Null,Null,Machine Learning,43.0
+714,Larry Glover,Biology,Volunteer Group,Programming, Data Analysis, Problem Solving, Artistic, Public Speaking,Los Angeles,Senior,Physics,3.63,Japanese,Null,Null,Null,Null,Political Science,73.0
+715,Willie Kim,Mathematics,Sports Team,Public Speaking, Data Analysis, Artistic, Problem Solving,Null,New York,Freshman,Psychology,3.0,English, German,Null,Null,Null,Human-Computer Interaction,24.0
+716,Courtney Moran,Mathematics,Volunteer Group,Public Speaking, Data Analysis,Null,Null,Null,Los Angeles,Graduate,Biology,2.5,English, Chinese, French, Spanish,Null,Educational Technology,3.0
+717,Daniel Chan,Psychology,Coding Club,Data Analysis, Leadership, Problem Solving, Programming, Artistic,New York,Freshman,Physics,3.85,Spanish,Null,Null,Null,Null,Environmental Sustainability,98.0
+718,William Graham,History,Sports Team,Programming, Data Analysis, Problem Solving, Leadership,Null,New York,Freshman,Physics,3.01,Japanese, German, Spanish, French,Null,Climate Change,40.0
+719,Susan Henderson,Computer Science,Art Club,Data Analysis,Null,Null,Null,Null,Houston,Sophomore,Computer Science,3.45,Chinese, German, Spanish, Japanese, French,Data Science,61.0
+720,Bruce Clark,History,Debate Club,Problem Solving, Programming, Leadership, Data Analysis, Public Speaking,Los Angeles,Freshman,Computer Science,3.46,German, Spanish, English, Japanese, French,Nanotechnology,56.0
+721,Kendra Clark,History,Music Club,Public Speaking, Programming, Data Analysis,Null,Null,San Francisco,Senior,Psychology,2.29,French, Japanese, German, Chinese,Null,Biomedical Engineering,17.0
+722,Carla Leon,Mathematics,Debate Club,Leadership, Problem Solving, Public Speaking,Null,Null,Houston,Sophomore,Biology,2.67,German, French, English, Japanese, Spanish,Nanotechnology,4.0
+723,David Curry,Physics,Debate Club,Data Analysis, Programming, Artistic,Null,Null,New York,Freshman,Psychology,3.13,Chinese, English, German, Spanish, Japanese,Human-Computer Interaction,31.0
+724,Veronica Hayes,Mathematics,Debate Club,Leadership,Null,Null,Null,Null,Boston,Sophomore,Computer Science,2.2,Spanish, Japanese, Chinese,Null,Null,Behavioral Economics,8.0
+725,Charles Jensen,Computer Science,Volunteer Group,Data Analysis, Programming,Null,Null,Null,San Francisco,Senior,Biology,2.52,German, Chinese, Spanish, French,Null,Cognitive Psychology,15.0
+726,Tara Lopez,Psychology,Coding Club,Problem Solving, Artistic,Null,Null,Null,New York,Graduate,History,3.58,French, Chinese, Spanish, English,Null,Artificial Intelligence,59.0
+727,Jennifer Nelson,Physics,Sports Team,Problem Solving, Public Speaking, Leadership,Null,Null,Chicago,Sophomore,History,3.49,Chinese, Spanish, German, English, Japanese,Biomedical Engineering,68.0
+728,Allison Henderson,Psychology,Debate Club,Problem Solving, Leadership, Data Analysis, Public Speaking,Null,San Francisco,Senior,Biology,3.61,Japanese,Null,Null,Null,Null,Cognitive Psychology,81.0
+729,Paul Rocha,Physics,Coding Club,Data Analysis, Public Speaking,Null,Null,Null,Boston,Senior,Physics,2.89,German, English, Spanish, French, Japanese,Machine Learning,2.0
+730,Joshua Harris,Mathematics,Sports Team,Programming, Leadership, Artistic, Problem Solving, Public Speaking,Los Angeles,Senior,History,2.35,Chinese, German,Null,Null,Null,Astrophysics,14.0
+731,Jonathan West,Biology,Coding Club,Leadership, Data Analysis, Artistic, Problem Solving,Null,San Francisco,Junior,Physics,2.0,Japanese,Null,Null,Null,Null,Blockchain Technology,20.0
+732,Heather Porter,Physics,Art Club,Public Speaking, Artistic, Problem Solving, Programming, Data Analysis,San Francisco,Junior,Mathematics,3.9,Spanish,Null,Null,Null,Null,Social Sciences,95.0
+733,Donald Johnson,Biology,Music Club,Problem Solving, Public Speaking, Programming,Null,Null,Boston,Junior,Computer Science,3.2,French,Null,Null,Null,Null,Astrophysics,39.0
+734,Kayla Giles,Mathematics,Debate Club,Data Analysis,Null,Null,Null,Null,San Francisco,Freshman,Psychology,2.27,Spanish, German,Null,Null,Null,Human-Computer Interaction,9.0
+735,Tony Salas,History,Art Club,Programming, Public Speaking, Artistic, Problem Solving,Null,New York,Freshman,Computer Science,2.64,Spanish, English, French,Null,Null,Political Science,22.0
+736,Wesley Keller,History,Volunteer Group,Leadership, Data Analysis, Public Speaking,Null,Null,New York,Freshman,Psychology,3.84,Chinese, Japanese,Null,Null,Null,Climate Change,89.0
+737,Donald Bryant,Psychology,Sports Team,Problem Solving, Public Speaking, Programming, Artistic, Leadership,New York,Senior,Psychology,3.9,Japanese,Null,Null,Null,Null,Healthcare Management,86.0
+738,Holly Bradley,History,Music Club,Problem Solving, Public Speaking,Null,Null,Null,Boston,Junior,Psychology,3.67,German,Null,Null,Null,Null,Cybersecurity,84.0
+739,Megan Vasquez,History,Coding Club,Data Analysis, Leadership, Artistic, Problem Solving, Programming,Houston,Graduate,Mathematics,3.87,Japanese, French, Spanish,Null,Null,Human-Computer Interaction,100.0
+740,Renee Brooks,Biology,Art Club,Artistic, Data Analysis, Programming, Leadership,Null,Boston,Junior,Computer Science,3.72,Spanish, English, German, Chinese,Null,Biomedical Engineering,72.0
+741,Melissa Higgins,Mathematics,Art Club,Leadership, Data Analysis, Public Speaking, Problem Solving, Artistic,San Francisco,Junior,Computer Science,3.71,German, Chinese, French, Spanish,Null,Biomedical Engineering,80.0
+742,Kelsey Ruiz,Computer Science,Volunteer Group,Artistic,Null,Null,Null,Null,San Francisco,Sophomore,Computer Science,2.15,German, French,Null,Null,Null,Urban Planning,8.0
+743,Jacob Walton,Biology,Volunteer Group,Artistic, Programming, Data Analysis,Null,Null,Chicago,Junior,History,2.57,German, English,Null,Null,Null,Political Science,5.0
+744,David Jones,Mathematics,Debate Club,Leadership, Artistic, Data Analysis,Null,Null,Los Angeles,Senior,Physics,3.91,Spanish, English, French,Null,Null,Human-Computer Interaction,87.0
+745,Eric Miller,Computer Science,Art Club,Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership,Chicago,Freshman,Physics,2.93,Japanese, Chinese, English, German, French,Natural Language Processing,8.0
+746,Trevor Smith,Physics,Art Club,Data Analysis, Artistic,Null,Null,Null,New York,Senior,Biology,2.1,Japanese, French, Spanish, Chinese,Null,Bioinformatics,13.0
+747,David Burke,Physics,Volunteer Group,Programming, Data Analysis,Null,Null,Null,New York,Sophomore,History,3.77,English, French, Spanish, Chinese, Japanese,Human-Computer Interaction,74.0
+748,Christina Norton,Physics,Art Club,Programming, Public Speaking, Leadership, Data Analysis, Artistic,San Francisco,Freshman,Mathematics,3.47,Chinese, German, English, French, Spanish,Space Exploration,63.0
+749,Theresa Rodriguez,Mathematics,Coding Club,Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis,San Francisco,Junior,History,3.64,German,Null,Null,Null,Null,Machine Learning,76.0
+750,Kelsey French,History,Coding Club,Leadership, Data Analysis, Programming, Artistic, Public Speaking,San Francisco,Freshman,Psychology,3.23,French, German, Japanese,Null,Null,Bioinformatics,47.0
+751,Pamela Smith,Psychology,Sports Team,Leadership,Null,Null,Null,Null,New York,Senior,Biology,3.95,Japanese, Chinese, Spanish, English, French,Sustainable Agriculture,99.0
+752,Thomas Kim,Physics,Coding Club,Problem Solving,Null,Null,Null,Null,Chicago,Senior,Biology,3.51,English, French, Japanese, German,Null,Robotics,66.0
+753,Brittany Williams,Physics,Volunteer Group,Data Analysis, Public Speaking, Programming, Problem Solving, Leadership,Boston,Junior,Computer Science,3.47,Japanese, Chinese,Null,Null,Null,Political Science,58.0
+754,Cody Franklin,Computer Science,Art Club,Programming, Public Speaking,Null,Null,Null,Los Angeles,Junior,Mathematics,3.05,Japanese, German, Chinese,Null,Null,Sustainable Agriculture,39.0
+755,Megan Barnes,Psychology,Debate Club,Programming,Null,Null,Null,Null,Los Angeles,Freshman,Biology,2.22,English,Null,Null,Null,Null,Nanotechnology,8.0
+756,Steven Hill,Physics,Debate Club,Programming, Leadership, Data Analysis,Null,Null,Boston,Freshman,Psychology,2.22,English, Japanese, French,Null,Null,Space Exploration,9.0
+757,Corey Thompson,Psychology,Sports Team,Leadership, Public Speaking, Data Analysis, Programming, Problem Solving,New York,Sophomore,Mathematics,2.43,Spanish, Japanese, German, Chinese, French,Robotics,24.0
+758,David Bowers,Psychology,Art Club,Data Analysis, Artistic, Programming, Problem Solving, Leadership,Boston,Junior,Psychology,3.72,Spanish, German,Null,Null,Null,Data Science,72.0
+759,Mitchell Smith,History,Music Club,Programming, Data Analysis, Artistic, Problem Solving, Public Speaking,Chicago,Junior,Psychology,3.57,English, German, Spanish, Chinese, Japanese,Political Science,69.0
+760,Rita Zuniga,Physics,Volunteer Group,Data Analysis, Leadership, Problem Solving, Public Speaking,Null,Boston,Senior,Psychology,2.71,Japanese, Spanish,Null,Null,Null,Climate Change,8.0
+761,Ricardo Mccarthy,Physics,Volunteer Group,Leadership, Data Analysis, Programming,Null,Null,San Francisco,Graduate,Computer Science,2.88,Spanish, English,Null,Null,Null,Sustainable Agriculture,23.0
+762,Sean Elliott,Biology,Art Club,Data Analysis, Problem Solving, Programming, Leadership, Public Speaking,Houston,Sophomore,Computer Science,2.95,German, Spanish, Chinese,Null,Null,Social Sciences,12.0
+763,Craig Banks,History,Art Club,Problem Solving, Data Analysis, Leadership, Artistic, Public Speaking,San Francisco,Graduate,Biology,2.35,Spanish, English, French, German, Japanese,Machine Learning,18.0
+764,Wayne Young,Psychology,Coding Club,Artistic, Problem Solving,Null,Null,Null,Boston,Junior,History,3.18,Spanish, German, Chinese,Null,Null,Healthcare Management,27.0
+765,Kelly Davis,History,Sports Team,Public Speaking, Programming, Problem Solving, Leadership, Data Analysis,San Francisco,Junior,Psychology,2.87,Chinese, German,Null,Null,Null,Biomedical Engineering,20.0
+766,Margaret Le,Computer Science,Music Club,Public Speaking,Null,Null,Null,Null,Los Angeles,Graduate,Mathematics,2.86,French,Null,Null,Null,Null,Data Science,12.0
+767,Paul Zhang,History,Sports Team,Programming, Public Speaking, Data Analysis,Null,Null,Chicago,Junior,Psychology,2.8,Spanish, German, French, English, Japanese,Robotics,1.0
+768,Rebekah Ramirez,History,Volunteer Group,Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving,Chicago,Sophomore,Biology,2.35,French, English, Spanish,Null,Null,Astrophysics,23.0
+769,Tracy Mays,History,Coding Club,Programming, Data Analysis, Artistic, Public Speaking,Null,New York,Sophomore,Computer Science,2.94,Japanese, German, Chinese, English, Spanish,Urban Planning,3.0
+770,Kristin Ortiz,Computer Science,Debate Club,Data Analysis,Null,Null,Null,Null,Chicago,Freshman,History,3.63,Japanese,Null,Null,Null,Null,Healthcare Management,71.0
+771,Richard Thomas,History,Music Club,Data Analysis, Public Speaking,Null,Null,Null,Boston,Junior,Physics,2.98,Spanish, French, Japanese, English, Chinese,Healthcare Management,6.0
+772,Leslie Bailey,History,Debate Club,Leadership, Programming, Public Speaking, Artistic, Data Analysis,Los Angeles,Graduate,Biology,2.34,German, French,Null,Null,Null,Sustainable Agriculture,1.0
+773,Alyssa Murray,Physics,Coding Club,Public Speaking, Data Analysis,Null,Null,Null,San Francisco,Graduate,Physics,2.39,Spanish, German, French,Null,Null,Environmental Sustainability,24.0
+774,Robert Newman,History,Debate Club,Public Speaking, Problem Solving,Null,Null,Null,Los Angeles,Sophomore,Biology,3.65,French, Japanese, Chinese, English,Null,Human-Computer Interaction,77.0
+775,Kyle Bender,Biology,Coding Club,Problem Solving, Data Analysis, Programming, Leadership, Artistic,Houston,Sophomore,Biology,3.37,Spanish, German, French, Chinese,Null,Artificial Intelligence,54.0
+776,Connor Thomas,Computer Science,Sports Team,Public Speaking, Data Analysis, Leadership,Null,Null,Los Angeles,Graduate,Physics,2.6,French, Spanish, English, Chinese, Japanese,Astrophysics,19.0
+777,Todd Robinson,Computer Science,Music Club,Programming, Problem Solving, Data Analysis, Artistic,Null,Boston,Junior,Computer Science,2.46,German,Null,Null,Null,Null,Nanotechnology,17.0
+778,Beverly Palmer,History,Sports Team,Data Analysis, Problem Solving, Leadership, Public Speaking,Null,Boston,Sophomore,History,3.03,Japanese, English, German, Chinese,Null,Artificial Intelligence,38.0
+779,Carlos Blake,Biology,Music Club,Problem Solving, Programming, Leadership, Data Analysis, Public Speaking,New York,Sophomore,History,2.72,Chinese, Spanish, German,Null,Null,Astrophysics,6.0
+780,Charles Morrison,Mathematics,Music Club,Programming, Artistic, Leadership, Public Speaking,Null,Boston,Sophomore,Mathematics,2.25,German, English, Spanish, Chinese,Null,Educational Technology,10.0
+781,Nancy Rowe,Mathematics,Art Club,Programming, Public Speaking, Problem Solving,Null,Null,Houston,Sophomore,Computer Science,2.73,German, Japanese, Spanish, Chinese,Null,Healthcare Management,25.0
+782,Lonnie Hernandez,Computer Science,Debate Club,Programming, Leadership, Artistic, Data Analysis, Problem Solving,New York,Senior,Mathematics,3.74,Spanish,Null,Null,Null,Null,Renewable Energy,74.0
+783,Preston Davis,Mathematics,Coding Club,Public Speaking, Artistic, Problem Solving, Programming, Leadership,Chicago,Junior,Physics,3.27,English, Spanish, German, Japanese,Null,Climate Change,50.0
+784,Laura Murphy,History,Music Club,Problem Solving, Leadership, Artistic, Public Speaking, Programming,New York,Sophomore,History,3.13,Spanish, English,Null,Null,Null,Nanotechnology,34.0
+785,Craig Riley,Computer Science,Volunteer Group,Artistic, Public Speaking, Data Analysis, Programming, Leadership,Boston,Graduate,Psychology,2.49,English, Spanish, Chinese, German, French,Nanotechnology,4.0
+786,William Miller,Physics,Debate Club,Leadership, Programming,Null,Null,Null,Houston,Sophomore,Biology,2.0,French, Chinese,Null,Null,Null,Urban Planning,0.0
+787,Maria Adams,Physics,Music Club,Data Analysis,Null,Null,Null,Null,Boston,Sophomore,History,2.05,Chinese, English, German, Japanese, French,Cybersecurity,1.0
+788,Joann Kirby,Computer Science,Volunteer Group,Programming, Leadership, Data Analysis, Problem Solving, Artistic,San Francisco,Senior,History,3.16,German, Japanese, Chinese, English,Null,Quantum Computing,34.0
+789,Janet Klein,Mathematics,Music Club,Problem Solving,Null,Null,Null,Null,Los Angeles,Freshman,History,3.0,French, German, Chinese, Spanish, English,Environmental Sustainability,2.0
+790,David Murphy,Psychology,Coding Club,Programming,Null,Null,Null,Null,Los Angeles,Graduate,Computer Science,2.9,French, Chinese,Null,Null,Null,Machine Learning,18.0
+791,Robert Ortiz,Mathematics,Art Club,Programming, Problem Solving, Artistic, Data Analysis, Leadership,Los Angeles,Junior,Computer Science,3.42,French,Null,Null,Null,Null,Climate Change,70.0
+792,Brooke Price,Computer Science,Sports Team,Artistic, Public Speaking,Null,Null,Null,Los Angeles,Graduate,Psychology,3.38,English, Spanish, French, German, Chinese,Sustainable Agriculture,46.0
+793,Ashley Gomez,Physics,Sports Team,Artistic, Programming, Data Analysis, Leadership,Null,New York,Sophomore,Psychology,2.38,English, Chinese, Spanish, Japanese, French,Healthcare Management,1.0
+794,Carla Wilcox,Physics,Art Club,Leadership, Data Analysis, Problem Solving, Programming, Public Speaking,Boston,Junior,Biology,2.72,Japanese, English, German, Chinese, Spanish,Healthcare Management,5.0
+795,Briana Smith,Psychology,Art Club,Data Analysis, Artistic, Programming, Public Speaking, Problem Solving,Houston,Sophomore,Mathematics,3.05,Japanese,Null,Null,Null,Null,Human-Computer Interaction,40.0
+796,Gwendolyn Blair,Physics,Music Club,Leadership, Problem Solving,Null,Null,Null,Chicago,Sophomore,Psychology,3.41,English, Chinese,Null,Null,Null,Nanotechnology,64.0
+797,Angela Barron,Physics,Music Club,Problem Solving,Null,Null,Null,Null,San Francisco,Sophomore,Computer Science,2.98,Japanese, Spanish,Null,Null,Null,Biomedical Engineering,17.0
+798,Heidi Davis,History,Music Club,Problem Solving, Data Analysis, Public Speaking, Programming, Artistic,New York,Graduate,Biology,3.33,Japanese, Chinese, Spanish, German,Null,Behavioral Economics,54.0
+799,Kent Bowers,History,Art Club,Problem Solving, Programming,Null,Null,Null,Chicago,Senior,History,2.16,German, French, Spanish, Chinese, English,Data Science,4.0
+800,Ivan Garcia,Physics,Art Club,Data Analysis, Leadership, Public Speaking, Artistic, Programming,Houston,Junior,History,2.25,Spanish, Japanese, English, French, Chinese,Space Exploration,4.0
+801,William Morrison,Psychology,Music Club,Public Speaking, Artistic, Programming, Data Analysis, Leadership,Los Angeles,Senior,Physics,3.62,Chinese, French, German, English,Null,Urban Planning,76.0
+802,Jesus Gonzalez,Psychology,Art Club,Data Analysis, Problem Solving, Programming,Null,Null,Houston,Sophomore,History,2.67,Chinese, English, French, Spanish,Null,Urban Planning,5.0
+803,Donna Blair,History,Debate Club,Programming, Problem Solving, Leadership,Null,Null,San Francisco,Junior,Physics,3.3,English, French,Null,Null,Null,Blockchain Technology,53.0
+804,Gina Roberts,Mathematics,Sports Team,Public Speaking, Artistic, Leadership, Data Analysis, Programming,Chicago,Senior,Psychology,2.55,Chinese, Spanish, English,Null,Null,Healthcare Management,13.0
+805,Amy Washington,Physics,Art Club,Leadership, Artistic, Data Analysis, Programming,Null,Boston,Freshman,Mathematics,3.0,English, French, Chinese, German,Null,Sustainable Agriculture,17.0
+806,Gregory Moore,Computer Science,Art Club,Problem Solving, Leadership, Data Analysis, Programming,Null,Boston,Freshman,Biology,3.25,Chinese, Japanese,Null,Null,Null,Robotics,53.0
+807,Erin Garrett,Mathematics,Sports Team,Public Speaking, Leadership, Artistic, Problem Solving, Data Analysis,Chicago,Freshman,Biology,2.73,Spanish, French, German, Chinese,Null,Educational Technology,14.0
+808,Mary Wall,Biology,Music Club,Data Analysis, Artistic, Problem Solving, Leadership, Public Speaking,Los Angeles,Junior,Physics,2.77,French, Spanish, Chinese, English,Null,Social Sciences,5.0
+809,Heather Malone,History,Sports Team,Leadership, Public Speaking, Artistic,Null,Null,Houston,Senior,Mathematics,3.84,German, Spanish, English, Japanese, French,Educational Technology,97.0
+810,Kevin Harris,Mathematics,Sports Team,Artistic, Public Speaking, Problem Solving, Programming,Null,San Francisco,Sophomore,Psychology,3.89,German, French,Null,Null,Null,Social Sciences,88.0
+811,Scott Spencer,Computer Science,Art Club,Leadership, Programming, Problem Solving, Artistic, Public Speaking,New York,Senior,Mathematics,2.77,Spanish, Japanese, Chinese, French, English,Bioinformatics,25.0
+812,David English,Biology,Art Club,Problem Solving, Public Speaking, Programming, Artistic,Null,San Francisco,Junior,Mathematics,2.17,Spanish, English, German,Null,Null,Educational Technology,9.0
+813,Jeffrey Hubbard,History,Debate Club,Programming, Data Analysis, Problem Solving, Public Speaking,Null,Chicago,Senior,Computer Science,3.01,French, Chinese, Spanish, German,Null,Renewable Energy,27.0
+814,Judith Harding,Mathematics,Coding Club,Programming, Problem Solving,Null,Null,Null,San Francisco,Graduate,Biology,2.18,English,Null,Null,Null,Null,Cognitive Psychology,7.0
+815,Brittany Esparza,Mathematics,Volunteer Group,Artistic, Problem Solving, Public Speaking, Leadership,Null,Boston,Senior,Computer Science,2.21,German, Japanese, Chinese, French, English,Quantum Computing,17.0
+816,Patricia Black,Physics,Volunteer Group,Problem Solving, Data Analysis, Leadership,Null,Null,Chicago,Sophomore,Biology,2.39,Spanish, German,Null,Null,Null,Artificial Intelligence,14.0
+817,Sarah Fisher,Psychology,Coding Club,Leadership,Null,Null,Null,Null,San Francisco,Graduate,History,2.89,Chinese,Null,Null,Null,Null,Cybersecurity,2.0
+818,Anthony Dunlap,Psychology,Debate Club,Artistic,Null,Null,Null,Null,San Francisco,Sophomore,Physics,3.1,Japanese, German,Null,Null,Null,Renewable Energy,35.0
+819,Jeffrey Gonzales,Biology,Sports Team,Data Analysis,Null,Null,Null,Null,Chicago,Freshman,Computer Science,2.73,English, Chinese,Null,Null,Null,Human-Computer Interaction,23.0
+820,Kayla Riley,History,Sports Team,Programming, Leadership, Problem Solving,Null,Null,Los Angeles,Freshman,History,3.15,Chinese, Japanese, German,Null,Null,Machine Learning,35.0
+821,Sarah Austin,Biology,Debate Club,Programming,Null,Null,Null,Null,Chicago,Freshman,Psychology,3.96,Chinese, Japanese, Spanish, French,Null,Cognitive Psychology,90.0
+822,Kurt Guerrero,History,Debate Club,Data Analysis,Null,Null,Null,Null,San Francisco,Graduate,Computer Science,2.69,Chinese, German, Spanish,Null,Null,Human-Computer Interaction,14.0
+823,Kimberly King,Psychology,Sports Team,Data Analysis,Null,Null,Null,Null,Boston,Freshman,Physics,3.83,English, German, French, Japanese, Spanish,Robotics,100.0
+824,Caroline Wiley,Biology,Debate Club,Data Analysis,Null,Null,Null,Null,Chicago,Graduate,Computer Science,3.13,Japanese, English, Chinese, French, Spanish,Human-Computer Interaction,36.0
+825,Larry Barker,History,Debate Club,Leadership,Null,Null,Null,Null,Chicago,Graduate,Mathematics,2.69,German, French, English, Chinese, Japanese,Nanotechnology,25.0
+826,Andrew Higgins,Computer Science,Music Club,Data Analysis, Programming, Artistic, Public Speaking,Null,Chicago,Graduate,Mathematics,3.69,Spanish, Chinese, French, Japanese, English,Biomedical Engineering,83.0
+827,Cassandra Johnson,Biology,Music Club,Programming, Data Analysis, Public Speaking, Leadership,Null,Houston,Graduate,Psychology,2.78,English, German,Null,Null,Null,Cybersecurity,25.0
+828,Roger Day,Mathematics,Music Club,Artistic,Null,Null,Null,Null,Chicago,Senior,History,2.11,English, German, Spanish, Japanese,Null,Nanotechnology,11.0
+829,Kristy Martinez,History,Coding Club,Data Analysis, Problem Solving,Null,Null,Null,New York,Graduate,Physics,3.27,English, German, Japanese, Chinese, Spanish,Quantum Computing,41.0
+830,Mario Richardson,Physics,Sports Team,Data Analysis, Public Speaking, Artistic,Null,Null,Boston,Senior,Psychology,2.31,English, German, Japanese,Null,Null,Quantum Computing,25.0
+831,Barbara Perez,Psychology,Sports Team,Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis,New York,Graduate,Mathematics,2.47,French, Japanese, Chinese, English,Null,Human-Computer Interaction,2.0
+832,Nancy Taylor,Physics,Sports Team,Data Analysis, Artistic,Null,Null,Null,Houston,Senior,Computer Science,3.11,Chinese,Null,Null,Null,Null,Quantum Computing,34.0
+833,Dwayne Durham,Psychology,Art Club,Public Speaking, Leadership, Programming, Problem Solving,Null,Los Angeles,Graduate,Psychology,3.85,Spanish, Chinese,Null,Null,Null,Environmental Sustainability,88.0
+834,Craig Gutierrez,Physics,Debate Club,Artistic, Programming, Leadership, Public Speaking, Problem Solving,Boston,Freshman,Computer Science,3.66,Japanese, Spanish,Null,Null,Null,Quantum Computing,76.0
+835,Nancy Smith,Psychology,Art Club,Leadership, Data Analysis, Problem Solving, Artistic, Programming,New York,Graduate,Physics,3.99,German,Null,Null,Null,Null,Cybersecurity,86.0
+836,Brittany Martin,Computer Science,Debate Club,Leadership, Public Speaking, Data Analysis, Problem Solving,Null,New York,Sophomore,Psychology,3.37,German,Null,Null,Null,Null,Artificial Intelligence,51.0
+837,Matthew Price,Physics,Debate Club,Public Speaking,Null,Null,Null,Null,Houston,Freshman,History,3.68,Chinese, German, Japanese, Spanish, English,Biomedical Engineering,74.0
+838,Caitlin Gutierrez,Computer Science,Art Club,Problem Solving, Programming, Artistic, Public Speaking, Data Analysis,New York,Graduate,Mathematics,2.62,Chinese, English, Spanish, French,Null,Behavioral Economics,10.0
+839,Rebecca Little,History,Debate Club,Leadership, Public Speaking, Programming, Data Analysis, Problem Solving,Chicago,Graduate,Physics,3.07,German, Chinese, English, Spanish, French,Data Science,30.0
+840,Stephanie Smith,Computer Science,Music Club,Leadership, Problem Solving, Programming, Artistic,Null,Boston,Junior,Biology,2.6,English, German, Japanese, French, Spanish,Behavioral Economics,13.0
+841,Cynthia Reed,Physics,Coding Club,Public Speaking, Artistic, Leadership, Programming,Null,Boston,Graduate,Computer Science,2.23,Japanese,Null,Null,Null,Null,Robotics,21.0
+842,Gregory Savage,Biology,Music Club,Public Speaking,Null,Null,Null,Null,Houston,Graduate,Psychology,3.96,Chinese,Null,Null,Null,Null,Nanotechnology,92.0
+843,Jesse Harmon,Psychology,Debate Club,Problem Solving, Artistic, Data Analysis,Null,Null,Boston,Graduate,Computer Science,2.09,French, German,Null,Null,Null,Space Exploration,15.0
+844,Jeffery Allen,Biology,Coding Club,Programming, Leadership, Data Analysis,Null,Null,Los Angeles,Sophomore,Mathematics,3.14,Chinese, French, Japanese,Null,Null,Robotics,32.0
+845,Todd Levine,History,Art Club,Public Speaking, Artistic,Null,Null,Null,New York,Graduate,Computer Science,3.5,German,Null,Null,Null,Null,Urban Planning,65.0
+846,John Riddle,Computer Science,Volunteer Group,Leadership, Programming, Data Analysis,Null,Null,Los Angeles,Graduate,Computer Science,2.28,Spanish, Japanese, Chinese, French, German,Cognitive Psychology,6.0
+847,Hannah Bernard,Mathematics,Volunteer Group,Problem Solving, Artistic, Leadership, Programming, Data Analysis,Chicago,Graduate,Computer Science,3.64,French, Chinese, German, English, Japanese,Data Science,76.0
+848,Samuel Brown,Mathematics,Coding Club,Public Speaking, Leadership,Null,Null,Null,Los Angeles,Sophomore,Computer Science,3.91,Spanish, German,Null,Null,Null,Nanotechnology,92.0
+849,Aaron Chambers,Computer Science,Music Club,Artistic, Public Speaking,Null,Null,Null,Chicago,Junior,Psychology,3.89,German, English,Null,Null,Null,Social Sciences,94.0
+850,Cynthia Patrick,Psychology,Debate Club,Leadership, Public Speaking, Data Analysis,Null,Null,Houston,Senior,Biology,2.72,Spanish, German, French, English,Null,Machine Learning,23.0
+851,Mary Wu,Computer Science,Art Club,Artistic, Public Speaking, Programming, Data Analysis, Problem Solving,Houston,Junior,Psychology,3.72,French, Japanese,Null,Null,Null,Cognitive Psychology,71.0
+852,Matthew Chapman,Computer Science,Coding Club,Leadership, Programming, Public Speaking, Problem Solving, Artistic,Houston,Sophomore,History,2.28,Chinese, English, German, Japanese, Spanish,Healthcare Management,16.0
+853,Kevin Bailey,Computer Science,Debate Club,Public Speaking, Leadership, Programming, Artistic, Data Analysis,Houston,Junior,Biology,3.34,English, Spanish, Japanese, French, German,Urban Planning,48.0
+854,Eric Mcgee,Biology,Sports Team,Artistic,Null,Null,Null,Null,Boston,Graduate,Mathematics,2.01,English, Spanish, German, French, Japanese,Quantum Computing,22.0
+855,Jennifer Jones,History,Debate Club,Public Speaking, Data Analysis, Artistic,Null,Null,Los Angeles,Freshman,Biology,3.3,French, Spanish, Japanese, English,Null,Environmental Sustainability,49.0
+856,Jessica Stanley,Computer Science,Debate Club,Public Speaking, Data Analysis, Leadership, Problem Solving, Artistic,Boston,Senior,Physics,2.29,Chinese, English, French, Japanese,Null,Social Sciences,18.0
+857,Jasmine Lee,Physics,Coding Club,Artistic, Problem Solving,Null,Null,Null,Los Angeles,Freshman,Psychology,2.02,French,Null,Null,Null,Null,Natural Language Processing,22.0
+858,Tiffany Flynn,Physics,Volunteer Group,Public Speaking, Problem Solving, Leadership, Programming, Artistic,New York,Graduate,History,2.91,Japanese, Spanish, Chinese, German, French,Educational Technology,14.0
+859,Meredith Ferrell,Mathematics,Debate Club,Public Speaking,Null,Null,Null,Null,San Francisco,Graduate,Biology,2.12,English, French, Chinese, Spanish, German,Urban Planning,10.0
+860,Nancy Bell,Mathematics,Music Club,Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership,Los Angeles,Graduate,History,2.75,Chinese, French, Japanese, German, Spanish,Cognitive Psychology,24.0
+861,Anthony Melendez,Mathematics,Music Club,Data Analysis, Programming,Null,Null,Null,Los Angeles,Junior,Mathematics,3.96,Chinese, English, German, French, Japanese,Urban Planning,95.0
+862,Angel Carter,History,Sports Team,Public Speaking, Data Analysis,Null,Null,Null,Chicago,Junior,Psychology,2.45,English,Null,Null,Null,Null,Educational Technology,6.0
+863,Jody Cox,Computer Science,Volunteer Group,Data Analysis, Programming, Public Speaking, Problem Solving, Artistic,Chicago,Sophomore,History,3.89,Chinese,Null,Null,Null,Null,Urban Planning,98.0
+864,Christopher Dixon,Mathematics,Art Club,Public Speaking, Data Analysis, Artistic,Null,Null,San Francisco,Freshman,Physics,3.9,German, English,Null,Null,Null,Data Science,88.0
+865,David Porter,Psychology,Music Club,Data Analysis, Leadership, Problem Solving, Artistic,Null,Boston,Freshman,Psychology,3.94,Spanish, Chinese,Null,Null,Null,Social Sciences,97.0
+866,James Bryant,Biology,Music Club,Public Speaking, Artistic,Null,Null,Null,Houston,Sophomore,Biology,2.22,German, Chinese, French, English, Japanese,Climate Change,15.0
+867,Tiffany Cameron,Psychology,Volunteer Group,Leadership, Problem Solving, Programming,Null,Null,Los Angeles,Freshman,Physics,2.15,English, Japanese,Null,Null,Null,Natural Language Processing,17.0
+868,Amanda Daugherty,Biology,Music Club,Leadership,Null,Null,Null,Null,San Francisco,Freshman,Physics,3.0,German, Spanish,Null,Null,Null,Quantum Computing,7.0
+869,Barry Wood,Mathematics,Volunteer Group,Problem Solving, Leadership, Data Analysis,Null,Null,Boston,Freshman,History,2.68,Chinese, German, Japanese, Spanish, English,Bioinformatics,24.0
+870,Robert Mclaughlin,Biology,Art Club,Data Analysis, Public Speaking, Problem Solving, Programming, Leadership,San Francisco,Freshman,Mathematics,2.37,Spanish, Japanese, Chinese, French, German,Urban Planning,2.0
+871,Daniel Holmes,Psychology,Coding Club,Leadership, Problem Solving, Artistic,Null,Null,Chicago,Sophomore,Mathematics,2.76,German, Spanish, English, Chinese,Null,Machine Learning,21.0
+872,Wesley Marsh,Physics,Volunteer Group,Artistic,Null,Null,Null,Null,Los Angeles,Graduate,Biology,3.32,English,Null,Null,Null,Null,Space Exploration,45.0
+873,Dawn Luna,Computer Science,Sports Team,Programming,Null,Null,Null,Null,Houston,Graduate,Computer Science,2.71,Spanish, Chinese, Japanese,Null,Null,Cognitive Psychology,15.0
+874,Briana Stephens,Mathematics,Art Club,Problem Solving, Leadership, Data Analysis,Null,Null,Chicago,Junior,Physics,3.8,French, Chinese, Japanese, German, Spanish,Political Science,76.0
+875,Melissa Palmer,History,Art Club,Data Analysis, Public Speaking,Null,Null,Null,San Francisco,Freshman,Psychology,3.89,Spanish, Japanese, English,Null,Null,Social Sciences,100.0
+876,Thomas Parker,Psychology,Sports Team,Public Speaking, Artistic, Programming,Null,Null,Chicago,Freshman,Physics,2.58,French, Japanese, Spanish,Null,Null,Astrophysics,11.0
+877,Virginia Lawrence,Mathematics,Sports Team,Problem Solving,Null,Null,Null,Null,San Francisco,Sophomore,Biology,3.65,German, Japanese,Null,Null,Null,Data Science,77.0
+878,Tracy Johnson,Mathematics,Sports Team,Artistic, Data Analysis,Null,Null,Null,Chicago,Senior,Mathematics,2.49,French, Chinese,Null,Null,Null,Space Exploration,6.0
+879,Jason Davis,Computer Science,Music Club,Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving,Chicago,Sophomore,Physics,3.41,Spanish, German,Null,Null,Null,Human-Computer Interaction,60.0
+880,Crystal Tran,Psychology,Art Club,Problem Solving, Data Analysis,Null,Null,Null,New York,Senior,Mathematics,3.09,Spanish,Null,Null,Null,Null,Human-Computer Interaction,38.0
+881,Joshua Williams,Computer Science,Music Club,Programming,Null,Null,Null,Null,San Francisco,Graduate,Computer Science,3.47,German,Null,Null,Null,Null,Nanotechnology,65.0
+882,Megan Williams,Physics,Art Club,Artistic, Problem Solving, Programming, Public Speaking,Null,San Francisco,Senior,Computer Science,3.1,German, Chinese, French,Null,Null,Machine Learning,31.0
+883,Wendy Miller,History,Volunteer Group,Artistic, Problem Solving, Leadership, Public Speaking,Null,Boston,Freshman,Computer Science,3.72,Japanese,Null,Null,Null,Null,Healthcare Management,82.0
+884,Amanda Hernandez,Biology,Volunteer Group,Problem Solving, Data Analysis, Programming, Public Speaking,Null,Boston,Graduate,History,3.01,English,Null,Null,Null,Null,Data Science,40.0
+885,Robert Joseph,Psychology,Coding Club,Problem Solving, Public Speaking, Leadership,Null,Null,New York,Junior,Computer Science,2.02,Japanese, German, English, Chinese,Null,Artificial Intelligence,6.0
+886,Alan Thompson,Psychology,Music Club,Problem Solving, Programming, Artistic, Leadership,Null,Houston,Junior,Psychology,2.89,German, French, Chinese,Null,Null,Behavioral Economics,17.0
+887,Bernard Peterson,Computer Science,Coding Club,Problem Solving, Public Speaking, Artistic, Programming,Null,New York,Graduate,Mathematics,2.14,French, Japanese, German, Spanish,Null,Social Sciences,24.0
+888,Kevin Duffy,Psychology,Sports Team,Artistic, Data Analysis, Programming, Problem Solving, Leadership,New York,Freshman,Mathematics,3.49,Spanish, German, English, Chinese, Japanese,Climate Change,68.0
+889,Angela Walker,History,Volunteer Group,Data Analysis, Programming, Artistic, Public Speaking, Leadership,Chicago,Sophomore,Computer Science,2.16,Spanish, Japanese, English, Chinese, German,Biomedical Engineering,12.0
+890,Dale Brown,Psychology,Coding Club,Data Analysis, Leadership, Programming, Problem Solving,Null,Houston,Graduate,History,2.57,Chinese, Spanish, English, Japanese, German,Bioinformatics,15.0
+891,Mark Lawrence,Physics,Coding Club,Problem Solving, Data Analysis, Leadership, Programming, Artistic,San Francisco,Graduate,Biology,3.57,French, German, Chinese, Japanese, Spanish,Behavioral Economics,60.0
+892,Jorge Cole,Physics,Debate Club,Public Speaking,Null,Null,Null,Null,Los Angeles,Graduate,Psychology,2.5,French,Null,Null,Null,Null,Sustainable Agriculture,1.0
+893,George Mann,Computer Science,Sports Team,Artistic, Data Analysis, Problem Solving, Leadership, Programming,Boston,Sophomore,Biology,3.32,Spanish, Chinese,Null,Null,Null,Sustainable Agriculture,54.0
+894,Lee Anderson,Psychology,Music Club,Problem Solving, Artistic,Null,Null,Null,Los Angeles,Sophomore,Mathematics,3.73,Chinese, English, Spanish, Japanese, French,Quantum Computing,71.0
+895,Ronald Richmond,History,Sports Team,Problem Solving, Leadership, Programming, Artistic, Data Analysis,San Francisco,Freshman,Mathematics,2.77,French, Chinese, Japanese,Null,Null,Behavioral Economics,19.0
+896,Gary Gonzales,Biology,Sports Team,Leadership, Problem Solving, Programming, Public Speaking, Artistic,Boston,Sophomore,Mathematics,3.48,French, Chinese, Spanish,Null,Null,Climate Change,68.0
+897,Franklin Reed,Physics,Sports Team,Public Speaking, Problem Solving, Programming, Data Analysis,Null,New York,Junior,Biology,2.5,French, English,Null,Null,Null,Social Sciences,22.0
+898,Sherry Mooney,Biology,Coding Club,Problem Solving, Leadership, Data Analysis, Artistic,Null,San Francisco,Sophomore,Computer Science,2.42,Japanese, Spanish, French, German, Chinese,Blockchain Technology,25.0
+899,Dawn Durham,Mathematics,Coding Club,Artistic, Programming, Data Analysis, Leadership, Problem Solving,Boston,Senior,Physics,2.07,Chinese, Spanish,Null,Null,Null,Human-Computer Interaction,7.0
+900,Dustin Grant,Physics,Music Club,Leadership, Public Speaking,Null,Null,Null,Houston,Sophomore,History,3.18,German, French, Chinese, Spanish, Japanese,Astrophysics,32.0
+901,Terrance Daniels,Physics,Volunteer Group,Public Speaking, Data Analysis,Null,Null,Null,Boston,Senior,Biology,3.68,German, Japanese, Chinese, English, Spanish,Human-Computer Interaction,79.0
+902,Stephen Rose,History,Debate Club,Data Analysis, Public Speaking, Leadership, Programming, Problem Solving,New York,Freshman,Computer Science,3.48,Spanish, French, English,Null,Null,Natural Language Processing,70.0
+903,Paul Nelson,Mathematics,Art Club,Public Speaking,Null,Null,Null,Null,New York,Freshman,Psychology,2.23,Japanese, Spanish, Chinese, French,Null,Nanotechnology,1.0
+904,Kyle Sanchez,Mathematics,Coding Club,Leadership, Programming, Data Analysis, Problem Solving, Public Speaking,Chicago,Freshman,Mathematics,3.29,English, German,Null,Null,Null,Human-Computer Interaction,51.0
+905,Michael Lucas,Psychology,Debate Club,Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis,Los Angeles,Sophomore,Mathematics,3.5,French, English, Japanese, Chinese, Spanish,Nanotechnology,69.0
+906,David Holland,Psychology,Debate Club,Data Analysis, Artistic, Problem Solving, Public Speaking, Programming,Boston,Sophomore,Physics,2.92,German, Spanish, Chinese,Null,Null,Environmental Sustainability,22.0
+907,Nathan Adkins,Mathematics,Art Club,Data Analysis, Leadership, Public Speaking, Programming, Problem Solving,San Francisco,Sophomore,Biology,3.39,Japanese, German,Null,Null,Null,Bioinformatics,48.0
+908,Jesse Green,Biology,Volunteer Group,Artistic, Programming,Null,Null,Null,Boston,Senior,Mathematics,3.32,English, French,Null,Null,Null,Artificial Intelligence,47.0
+909,Jackie Sawyer,Mathematics,Music Club,Programming, Leadership, Data Analysis,Null,Null,Boston,Senior,Mathematics,2.74,Chinese, English, German, Japanese,Null,Space Exploration,18.0
+910,Timothy Miranda,Biology,Art Club,Public Speaking, Artistic, Programming,Null,Null,San Francisco,Senior,Computer Science,3.7,English, Chinese,Null,Null,Null,Educational Technology,79.0
+911,Sara Garcia,Psychology,Music Club,Programming, Artistic, Problem Solving, Public Speaking,Null,Los Angeles,Junior,Computer Science,3.69,French, English, Chinese, German, Japanese,Behavioral Economics,73.0
+912,Lisa Reed,Psychology,Coding Club,Public Speaking, Data Analysis, Problem Solving,Null,Null,New York,Sophomore,Psychology,3.73,Chinese, German, Spanish,Null,Null,Astrophysics,77.0
+913,Denise Pierce,Computer Science,Coding Club,Data Analysis, Leadership, Problem Solving,Null,Null,Los Angeles,Junior,Psychology,3.45,Japanese,Null,Null,Null,Null,Data Science,60.0
+914,Jessica Cruz,Physics,Music Club,Leadership,Null,Null,Null,Null,New York,Junior,Psychology,3.96,German, Japanese,Null,Null,Null,Cybersecurity,100.0
+915,Troy Ramos,Mathematics,Sports Team,Data Analysis, Leadership, Programming, Artistic,Null,San Francisco,Sophomore,Biology,2.97,English, German, Japanese,Null,Null,Space Exploration,23.0
+916,Chad Smith,Biology,Volunteer Group,Programming, Public Speaking,Null,Null,Null,New York,Junior,Physics,3.78,Spanish, English,Null,Null,Null,Data Science,84.0
+917,Allison Ellis,Psychology,Volunteer Group,Artistic, Data Analysis, Public Speaking, Leadership,Null,San Francisco,Junior,Mathematics,3.42,Chinese, Spanish,Null,Null,Null,Social Sciences,65.0
+918,Charlene Winters,Biology,Art Club,Problem Solving, Artistic, Leadership,Null,Null,Chicago,Junior,Biology,2.15,Spanish, French, Japanese, Chinese, English,Climate Change,13.0
+919,Bryan Hicks,Psychology,Coding Club,Data Analysis, Problem Solving, Artistic, Programming, Public Speaking,Los Angeles,Sophomore,Computer Science,3.57,Spanish, Japanese, German, Chinese, English,Quantum Computing,61.0
+920,Brittany Jenkins,Physics,Coding Club,Artistic, Problem Solving, Data Analysis, Programming, Leadership,Houston,Freshman,Computer Science,2.71,Japanese, Chinese,Null,Null,Null,Human-Computer Interaction,0.0
+921,Dominique Lee,History,Sports Team,Public Speaking, Artistic,Null,Null,Null,San Francisco,Senior,History,3.55,English, Japanese, Spanish, French,Null,Urban Planning,67.0
+922,Joshua Morse,Psychology,Coding Club,Artistic, Programming, Leadership,Null,Null,San Francisco,Graduate,Physics,3.57,French, Spanish, English, German, Japanese,Cognitive Psychology,66.0
+923,Johnathan Baldwin,Psychology,Volunteer Group,Data Analysis, Public Speaking, Artistic,Null,Null,San Francisco,Graduate,Computer Science,2.79,English, Japanese,Null,Null,Null,Biomedical Engineering,24.0
+924,Curtis Snyder,History,Sports Team,Leadership, Artistic, Problem Solving, Programming, Data Analysis,Chicago,Graduate,Biology,2.29,German, Spanish, French, English,Null,Renewable Energy,6.0
+925,Stephanie Glenn,Physics,Volunteer Group,Data Analysis,Null,Null,Null,Null,San Francisco,Graduate,Computer Science,2.12,Spanish, Japanese, German, French, English,Biomedical Engineering,23.0
+926,Ann Dennis,History,Debate Club,Artistic, Leadership, Data Analysis, Programming, Public Speaking,Boston,Sophomore,Physics,3.57,Japanese, French, English,Null,Null,Cybersecurity,60.0
+927,Jennifer Chen,Biology,Sports Team,Data Analysis, Leadership, Artistic,Null,Null,Chicago,Senior,Computer Science,2.05,Japanese, Spanish,Null,Null,Null,Space Exploration,13.0
+928,Bryan Pittman,Mathematics,Debate Club,Data Analysis, Problem Solving,Null,Null,Null,Boston,Senior,Biology,2.52,Chinese,Null,Null,Null,Null,Climate Change,8.0
+929,Thomas Henderson,Psychology,Music Club,Leadership, Programming,Null,Null,Null,Chicago,Senior,History,2.04,Chinese, Spanish, German, Japanese, English,Quantum Computing,3.0
+930,Elizabeth Smith,Computer Science,Debate Club,Problem Solving, Programming,Null,Null,Null,Boston,Freshman,Psychology,2.08,Japanese, German, French,Null,Null,Natural Language Processing,13.0
+931,Erica Williams,Computer Science,Sports Team,Problem Solving,Null,Null,Null,Null,Chicago,Freshman,Computer Science,2.77,Spanish, Chinese,Null,Null,Null,Environmental Sustainability,20.0
+932,William Coleman,Computer Science,Sports Team,Problem Solving, Public Speaking, Artistic, Data Analysis,Null,Houston,Freshman,Physics,3.82,English, Japanese, French, Spanish, German,Cybersecurity,92.0
+933,James Williamson,Psychology,Coding Club,Problem Solving,Null,Null,Null,Null,Los Angeles,Graduate,Physics,2.94,English, German,Null,Null,Null,Quantum Computing,9.0
+934,Catherine Mccormick,Mathematics,Debate Club,Leadership, Problem Solving, Artistic, Public Speaking, Data Analysis,New York,Sophomore,Psychology,3.03,Spanish, English, French, Japanese, Chinese,Blockchain Technology,39.0
+935,Angela Smith,History,Debate Club,Leadership,Null,Null,Null,Null,Boston,Junior,Mathematics,2.34,English, Spanish, Japanese, French, German,Climate Change,11.0
+936,Melissa Butler,Computer Science,Sports Team,Data Analysis, Programming, Leadership,Null,Null,Los Angeles,Freshman,Physics,3.91,German,Null,Null,Null,Null,Natural Language Processing,86.0
+937,Lisa Cole,Computer Science,Volunteer Group,Artistic, Problem Solving, Programming,Null,Null,Boston,Freshman,Mathematics,3.96,English, Spanish, German, Japanese, Chinese,Blockchain Technology,91.0
+938,Melissa Sloan,Mathematics,Coding Club,Artistic, Programming, Public Speaking,Null,Null,Los Angeles,Senior,Biology,3.04,Spanish, English, Chinese, French, Japanese,Quantum Computing,32.0
+939,William Ingram,Physics,Music Club,Problem Solving,Null,Null,Null,Null,Los Angeles,Graduate,Biology,3.32,Chinese, English, German, French, Spanish,Renewable Energy,53.0
+940,Brandon Hall,Physics,Volunteer Group,Leadership, Artistic, Data Analysis,Null,Null,New York,Freshman,History,2.97,Japanese, French, English,Null,Null,Environmental Sustainability,6.0
+941,Luis Johnson,Physics,Music Club,Artistic,Null,Null,Null,Null,Houston,Sophomore,Biology,2.33,Spanish, French, Chinese,Null,Null,Biomedical Engineering,21.0
+942,Samantha Hale,Mathematics,Sports Team,Leadership, Programming, Artistic, Data Analysis,Null,Los Angeles,Senior,Mathematics,3.23,English, French, German, Spanish, Japanese,Political Science,49.0
+943,Tina Ross,History,Debate Club,Public Speaking, Data Analysis, Programming, Problem Solving, Artistic,Boston,Freshman,History,2.21,Japanese, English, Chinese, Spanish,Null,Climate Change,6.0
+944,Michael King,Mathematics,Sports Team,Leadership, Artistic, Data Analysis,Null,Null,Boston,Junior,Physics,2.73,Japanese, French, English, Chinese, Spanish,Human-Computer Interaction,5.0
+945,Michael Sanchez,Computer Science,Debate Club,Programming, Public Speaking,Null,Null,Null,Los Angeles,Freshman,Computer Science,3.38,French, German, Japanese, English, Chinese,Climate Change,55.0
+946,Matthew Brown,Psychology,Sports Team,Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic,Los Angeles,Sophomore,Mathematics,2.74,Spanish, French, Japanese,Null,Null,Climate Change,16.0
+947,Jamie White,Physics,Debate Club,Problem Solving, Artistic,Null,Null,Null,Los Angeles,Graduate,Biology,2.79,French, Chinese, Spanish,Null,Null,Blockchain Technology,2.0
+948,Rachel Potter,Psychology,Sports Team,Leadership, Programming,Null,Null,Null,Chicago,Senior,Mathematics,2.33,German, French, Japanese, English, Spanish,Environmental Sustainability,3.0
+949,Antonio Lopez,Psychology,Sports Team,Programming, Public Speaking, Problem Solving, Leadership,Null,Boston,Freshman,Biology,2.7,French, English, Spanish,Null,Null,Natural Language Processing,7.0
+950,Darlene Ford,Mathematics,Art Club,Data Analysis, Public Speaking, Leadership, Problem Solving,Null,Boston,Sophomore,History,2.11,Spanish, French,Null,Null,Null,Blockchain Technology,2.0
+951,Austin Miller,Mathematics,Art Club,Artistic, Leadership, Problem Solving, Data Analysis, Programming,Houston,Senior,Biology,2.22,Japanese, English, French,Null,Null,Astrophysics,11.0
+952,Krista Cordova,History,Sports Team,Data Analysis, Leadership, Public Speaking,Null,Null,Chicago,Junior,Psychology,3.71,German, Spanish,Null,Null,Null,Biomedical Engineering,83.0
+953,Susan Choi,History,Sports Team,Leadership, Problem Solving, Public Speaking, Programming, Artistic,Houston,Sophomore,Physics,3.2,French, Japanese, Chinese, Spanish, German,Robotics,26.0
+954,Amanda Flores,History,Sports Team,Leadership, Data Analysis, Programming, Artistic,Null,New York,Graduate,Computer Science,3.22,German,Null,Null,Null,Null,Nanotechnology,55.0
+955,Steven Morris,Mathematics,Sports Team,Data Analysis, Programming, Problem Solving, Artistic, Leadership,Los Angeles,Graduate,Psychology,2.61,Chinese, Spanish, German, French, English,Sustainable Agriculture,4.0
+956,Lori Lucero,Biology,Art Club,Artistic, Data Analysis,Null,Null,Null,Boston,Sophomore,Computer Science,3.89,Spanish, German,Null,Null,Null,Renewable Energy,97.0
+957,George Kelley,Biology,Volunteer Group,Public Speaking, Programming,Null,Null,Null,Houston,Junior,Biology,2.48,Spanish, Japanese, Chinese, German, French,Nanotechnology,14.0
+958,Amy Wright,History,Sports Team,Artistic, Programming,Null,Null,Null,New York,Senior,Mathematics,2.23,French,Null,Null,Null,Null,Robotics,1.0
+959,Larry White,Psychology,Coding Club,Programming, Artistic, Data Analysis, Problem Solving, Public Speaking,Boston,Junior,Biology,2.43,Spanish, Chinese, Japanese, English, German,Educational Technology,18.0
+960,Dale Lewis,Physics,Art Club,Leadership,Null,Null,Null,Null,Houston,Senior,Biology,3.31,German, English, Japanese, Chinese, Spanish,Sustainable Agriculture,47.0
+961,Wesley Williams,History,Music Club,Artistic, Problem Solving,Null,Null,Null,Houston,Sophomore,Computer Science,3.81,Japanese, German, English, Chinese,Null,Sustainable Agriculture,87.0
+962,Chad Howell,History,Art Club,Leadership, Programming, Public Speaking, Artistic, Data Analysis,Houston,Freshman,History,2.26,German, Chinese, English, French, Spanish,Machine Learning,1.0
+963,Justin Ramsey,Biology,Coding Club,Data Analysis, Artistic,Null,Null,Null,Boston,Sophomore,Mathematics,2.86,Chinese, Spanish, Japanese, French, English,Data Science,13.0
+964,David Morales,Mathematics,Music Club,Problem Solving, Programming, Public Speaking, Data Analysis, Leadership,Los Angeles,Graduate,Mathematics,3.2,Japanese,Null,Null,Null,Null,Climate Change,35.0
+965,Erin Price,Mathematics,Sports Team,Leadership, Data Analysis, Programming, Public Speaking, Artistic,Los Angeles,Sophomore,Biology,2.53,Chinese, French, English, Spanish, Japanese,Cognitive Psychology,4.0
+966,Joanna Ortiz,Mathematics,Debate Club,Data Analysis, Public Speaking, Problem Solving, Programming, Artistic,New York,Senior,Biology,2.56,German, French, Chinese,Null,Null,Renewable Energy,6.0
+967,John Gonzales,Mathematics,Volunteer Group,Problem Solving, Public Speaking,Null,Null,Null,Chicago,Senior,Psychology,3.62,English, Japanese,Null,Null,Null,Urban Planning,75.0
+968,Anthony Nelson,Biology,Volunteer Group,Data Analysis, Public Speaking, Artistic, Leadership,Null,Houston,Freshman,Mathematics,3.58,Spanish,Null,Null,Null,Null,Renewable Energy,64.0
+969,Arthur Johnson,Psychology,Volunteer Group,Data Analysis, Problem Solving, Artistic,Null,Null,Houston,Sophomore,Physics,3.08,Chinese, English, French, German, Spanish,Healthcare Management,35.0
+970,William Hughes,History,Art Club,Artistic, Data Analysis, Programming, Problem Solving, Leadership,Houston,Sophomore,Biology,2.41,English, French,Null,Null,Null,Renewable Energy,19.0
+971,Diane Rollins,History,Sports Team,Data Analysis, Leadership, Artistic, Programming, Public Speaking,San Francisco,Junior,Psychology,2.65,German, French, Chinese, Spanish,Null,Natural Language Processing,4.0
+972,Kimberly Davis,Computer Science,Music Club,Artistic, Leadership, Problem Solving, Public Speaking, Data Analysis,Houston,Graduate,History,2.34,Japanese,Null,Null,Null,Null,Renewable Energy,0.0
+973,Kathleen Sullivan,Physics,Coding Club,Leadership, Data Analysis, Artistic,Null,Null,Los Angeles,Sophomore,Psychology,2.12,Spanish, English, French,Null,Null,Blockchain Technology,18.0
+974,Phillip Smith,Biology,Music Club,Public Speaking, Problem Solving, Data Analysis,Null,Null,Houston,Junior,Physics,3.52,German, Chinese, French, Japanese,Null,Cybersecurity,65.0
+975,Sean Collier,Mathematics,Sports Team,Public Speaking, Programming,Null,Null,Null,New York,Graduate,Biology,2.55,German, Japanese, Spanish, French, Chinese,Biomedical Engineering,6.0
+976,Christine Cruz,Psychology,Sports Team,Public Speaking, Leadership, Programming, Artistic,Null,Los Angeles,Graduate,Computer Science,2.25,Spanish, German, English,Null,Null,Sustainable Agriculture,1.0
+977,Rebekah Lee,Physics,Volunteer Group,Public Speaking, Leadership, Problem Solving, Artistic, Programming,Houston,Sophomore,History,2.47,Chinese, German,Null,Null,Null,Space Exploration,16.0
+978,Mark Rogers,Physics,Coding Club,Artistic, Programming,Null,Null,Null,Los Angeles,Senior,Physics,2.71,French, German, Japanese, English, Spanish,Astrophysics,14.0
+979,Stacey Fletcher,Physics,Volunteer Group,Problem Solving, Leadership,Null,Null,Null,Boston,Freshman,Mathematics,3.53,English, Spanish, Japanese,Null,Null,Social Sciences,63.0
+980,Raymond Williams,History,Music Club,Leadership,Null,Null,Null,Null,San Francisco,Junior,History,2.98,Chinese, French, German,Null,Null,Data Science,11.0
+981,Arthur Collins,Biology,Volunteer Group,Problem Solving, Public Speaking, Programming, Leadership, Data Analysis,Houston,Senior,Psychology,2.79,English, Japanese, French, German, Chinese,Quantum Computing,17.0
+982,Lori Zimmerman,Physics,Coding Club,Problem Solving, Public Speaking, Programming, Data Analysis, Artistic,Houston,Graduate,Biology,3.2,French, Japanese, English, Spanish, German,Natural Language Processing,29.0
+983,Colleen Morris,Computer Science,Sports Team,Leadership, Public Speaking, Programming,Null,Null,New York,Freshman,Mathematics,3.55,Chinese,Null,Null,Null,Null,Machine Learning,69.0
+984,Tina Lopez,Computer Science,Sports Team,Leadership, Programming, Data Analysis, Artistic, Problem Solving,Houston,Freshman,Psychology,2.6,Spanish, Chinese, English, German, French,Artificial Intelligence,14.0
+985,Michele Snow,Computer Science,Debate Club,Data Analysis, Leadership, Public Speaking, Problem Solving, Programming,Chicago,Senior,Psychology,2.66,English, Chinese, German,Null,Null,Data Science,3.0
+986,Anthony Peters,Mathematics,Coding Club,Leadership, Programming, Artistic, Data Analysis, Problem Solving,Los Angeles,Junior,Mathematics,2.56,German, English, Chinese, Japanese, French,Human-Computer Interaction,13.0
+987,Tanya White,Biology,Volunteer Group,Public Speaking, Problem Solving,Null,Null,Null,New York,Senior,Mathematics,3.61,Chinese,Null,Null,Null,Null,Climate Change,80.0
+988,Luke Chavez,Psychology,Coding Club,Programming,Null,Null,Null,Null,San Francisco,Junior,Computer Science,3.01,German, Chinese, English,Null,Null,Healthcare Management,37.0
+989,Jacqueline Downs,Mathematics,Art Club,Leadership, Data Analysis, Artistic, Problem Solving,Null,Chicago,Freshman,Mathematics,2.97,Spanish, German,Null,Null,Null,Astrophysics,25.0
+990,Beverly Floyd,Physics,Sports Team,Problem Solving, Data Analysis, Public Speaking, Programming,Null,Boston,Senior,Psychology,2.6,Spanish, Chinese, English, Japanese, French,Data Science,10.0
+991,Gabriel Nolan,Psychology,Sports Team,Programming, Problem Solving,Null,Null,Null,Los Angeles,Sophomore,Mathematics,3.37,Japanese, English,Null,Null,Null,Artificial Intelligence,55.0
+992,Kimberly Aguilar,Physics,Sports Team,Problem Solving, Leadership,Null,Null,Null,Houston,Sophomore,Mathematics,2.06,Chinese, English,Null,Null,Null,Educational Technology,4.0
+993,Jared Frost,Mathematics,Music Club,Programming, Problem Solving, Data Analysis, Leadership, Public Speaking,Boston,Sophomore,Computer Science,2.97,French, English, Spanish, Chinese, German,Natural Language Processing,23.0
+994,Jeffrey Williams,Computer Science,Sports Team,Data Analysis, Artistic,Null,Null,Null,New York,Senior,Mathematics,3.23,German,Null,Null,Null,Null,Machine Learning,42.0
+995,Edward Harper,History,Sports Team,Data Analysis, Leadership, Programming, Artistic, Problem Solving,New York,Senior,History,2.26,Spanish, Chinese, English,Null,Null,Cognitive Psychology,5.0
+996,Justin Jordan,History,Sports Team,Leadership, Artistic, Programming, Public Speaking, Data Analysis,Chicago,Freshman,Mathematics,2.21,French, Chinese, English,Null,Null,Astrophysics,7.0
+997,Lauren Baker,Psychology,Art Club,Data Analysis, Leadership,Null,Null,Null,New York,Graduate,Biology,3.62,Spanish, German, Chinese,Null,Null,Data Science,79.0
+998,Charles Lewis,Mathematics,Volunteer Group,Public Speaking, Programming, Artistic, Leadership, Problem Solving,New York,Junior,Biology,3.09,Spanish, German, Japanese, Chinese, French,Space Exploration,29.0
+999,Christopher Lewis,Physics,Sports Team,Public Speaking, Data Analysis, Artistic, Leadership, Problem Solving,Houston,Graduate,Psychology,3.17,German,Null,Null,Null,Null,Space Exploration,38.0
+1000,Corey Bond,History,Coding Club,Public Speaking,Null,Null,Null,Null,New York,Freshman,Physics,2.16,Japanese, Spanish, Chinese, French, German,Bioinformatics,3.0
